@@ -1,0 +1,1510 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Progit figures\n"
+"POT-Creation-Date: 2010-09-04 22:22+0200\n"
+"PO-Revision-Date: 2010-09-04 22:59+0100\n"
+"Last-Translator: Jean-Noël Avila <jn.avila@free.fr>\n"
+"Language-Team: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+
+#: 18333fig0904-tn.svg:37(tspan)
+#: 18333fig0903-tn.svg:75(tspan)
+msgid "1a410e"
+msgstr "1a410e"
+
+#: 18333fig0904-tn.svg:43(tspan)
+#: 18333fig0903-tn.svg:87(tspan)
+msgid "cac0ca"
+msgstr "cac0ca"
+
+#: 18333fig0904-tn.svg:51(tspan)
+msgid "refs/heads/test"
+msgstr "refs/heads/test"
+
+#: 18333fig0904-tn.svg:57(tspan)
+msgid "refs/heads/master"
+msgstr "refs/heads/master"
+
+#: 18333fig0904-tn.svg:63(tspan)
+#: 18333fig0904-tn.svg:155(tspan)
+#: 18333fig0904-tn.svg:161(tspan)
+#: 18333fig0903-tn.svg:37(tspan)
+#: 18333fig0903-tn.svg:141(tspan)
+#: 18333fig0903-tn.svg:147(tspan)
+msgid "test.txt"
+msgstr "test.txt"
+
+#: 18333fig0904-tn.svg:69(tspan)
+#: 18333fig0904-tn.svg:167(tspan)
+#: 18333fig0903-tn.svg:43(tspan)
+#: 18333fig0903-tn.svg:153(tspan)
+msgid "new.txt"
+msgstr "new.txt"
+
+#: 18333fig0904-tn.svg:75(tspan)
+#: 18333fig0903-tn.svg:49(tspan)
+msgid "bak"
+msgstr "bak"
+
+#: 18333fig0904-tn.svg:85(tspan)
+#: 18333fig0903-tn.svg:59(tspan)
+msgid "3c4e9c"
+msgstr "3c4e9c"
+
+#: 18333fig0904-tn.svg:91(tspan)
+#: 18333fig0904-tn.svg:194(tspan)
+#: 18333fig0904-tn.svg:200(tspan)
+#: 18333fig0903-tn.svg:65(tspan)
+#: 18333fig0903-tn.svg:180(tspan)
+#: 18333fig0903-tn.svg:186(tspan)
+#: 18333fig0901-tn.svg:83(tspan)
+#: 18333fig0901-tn.svg:89(tspan)
+#: 18333fig0302-tn.svg:112(tspan)
+#: 18333fig0302-tn.svg:180(tspan)
+#: 18333fig0302-tn.svg:253(tspan)
+#: 18333fig0301-tn.svg:81(tspan)
+#: 18333fig0301-tn.svg:310(tspan)
+msgid "tree"
+msgstr "arbre"
+
+#: 18333fig0904-tn.svg:101(tspan)
+#: 18333fig0903-tn.svg:81(tspan)
+msgid "third commit"
+msgstr "troisième validation"
+
+#: 18333fig0904-tn.svg:107(tspan)
+#: 18333fig0903-tn.svg:93(tspan)
+msgid "second commit"
+msgstr "seconde validation"
+
+#: 18333fig0904-tn.svg:113(tspan)
+#: 18333fig0903-tn.svg:99(tspan)
+msgid "fdf4fc"
+msgstr "fdf4fc"
+
+#: 18333fig0904-tn.svg:119(tspan)
+#: 18333fig0903-tn.svg:105(tspan)
+msgid "first commit"
+msgstr "première validation"
+
+#: 18333fig0904-tn.svg:125(tspan)
+#: 18333fig0903-tn.svg:111(tspan)
+msgid "83baae"
+msgstr "83baae"
+
+#: 18333fig0904-tn.svg:131(tspan)
+#: 18333fig0903-tn.svg:117(tspan)
+msgid "d8329f"
+msgstr "d8329f"
+
+#: 18333fig0904-tn.svg:137(tspan)
+#: 18333fig0903-tn.svg:123(tspan)
+msgid "1f7a7a"
+msgstr "1f7a7a"
+
+#: 18333fig0904-tn.svg:143(tspan)
+#: 18333fig0903-tn.svg:129(tspan)
+msgid "fa49b0"
+msgstr "fa49b0"
+
+#: 18333fig0904-tn.svg:149(tspan)
+#: 18333fig0903-tn.svg:135(tspan)
+msgid "0155eb"
+msgstr "0155eb"
+
+#: 18333fig0904-tn.svg:176(tspan)
+#: 18333fig0903-tn.svg:162(tspan)
+msgid "\"version 1\""
+msgstr "\"version 1\""
+
+#: 18333fig0904-tn.svg:182(tspan)
+#: 18333fig0903-tn.svg:168(tspan)
+msgid "\"version 2\""
+msgstr "\"version 2\""
+
+#: 18333fig0904-tn.svg:188(tspan)
+#: 18333fig0903-tn.svg:174(tspan)
+msgid "\"new file\""
+msgstr "\"nouveau fichier\""
+
+#: 18333fig0901-tn.svg:37(tspan)
+msgid "git.rb"
+msgstr "git.rb"
+
+#: 18333fig0901-tn.svg:43(tspan)
+msgid "lib"
+msgstr "lib"
+
+#: 18333fig0901-tn.svg:49(tspan)
+msgid "Rakefile"
+msgstr "Rakefile"
+
+#: 18333fig0901-tn.svg:55(tspan)
+#: 18333fig0301-tn.svg:252(tspan)
+msgid "README"
+msgstr "LISEZMOI"
+
+#: 18333fig0901-tn.svg:65(tspan)
+#: 18333fig0901-tn.svg:71(tspan)
+#: 18333fig0901-tn.svg:77(tspan)
+#: 18333fig0301-tn.svg:139(tspan)
+#: 18333fig0301-tn.svg:184(tspan)
+#: 18333fig0301-tn.svg:229(tspan)
+#: 18333fig0301-tn.svg:278(tspan)
+#: 18333fig0301-tn.svg:284(tspan)
+#: 18333fig0301-tn.svg:290(tspan)
+msgid "blob"
+msgstr "blob"
+
+#: 18333fig0618-tn.svg:37(tspan)
+#: 18333fig0517-tn.svg:37(tspan)
+#: 18333fig0516-tn.svg:37(tspan)
+#: 18333fig0514-tn.svg:39(tspan)
+#: 18333fig0513-tn.svg:39(tspan)
+#: 18333fig0512-tn.svg:37(tspan)
+msgid "33009"
+msgstr "33009"
+
+#: 18333fig0618-tn.svg:43(tspan)
+#: 18333fig0517-tn.svg:43(tspan)
+#: 18333fig0516-tn.svg:43(tspan)
+#: 18333fig0514-tn.svg:45(tspan)
+#: 18333fig0513-tn.svg:45(tspan)
+#: 18333fig0512-tn.svg:43(tspan)
+#: 18333fig0510-tn.svg:44(tspan)
+#: 18333fig0509-tn.svg:44(tspan)
+#: 18333fig0508-tn.svg:44(tspan)
+#: 18333fig0507-tn.svg:43(tspan)
+#: 18333fig0506-tn.svg:49(tspan)
+#: 18333fig0505-tn.svg:49(tspan)
+#: 18333fig0504-tn.svg:49(tspan)
+msgid "1edee"
+msgstr "1edee"
+
+#: 18333fig0618-tn.svg:51(tspan)
+#: 18333fig0601-tn.svg:45(tspan)
+#: 18333fig0527-tn.svg:72(tspan)
+#: 18333fig0526-tn.svg:72(tspan)
+#: 18333fig0525-tn.svg:71(tspan)
+#: 18333fig0524-tn.svg:66(tspan)
+#: 18333fig0523-tn.svg:66(tspan)
+#: 18333fig0522-tn.svg:66(tspan)
+#: 18333fig0521-tn.svg:86(tspan)
+#: 18333fig0520-tn.svg:66(tspan)
+#: 18333fig0517-tn.svg:51(tspan)
+#: 18333fig0516-tn.svg:51(tspan)
+#: 18333fig0514-tn.svg:53(tspan)
+#: 18333fig0513-tn.svg:53(tspan)
+#: 18333fig0512-tn.svg:51(tspan)
+#: 18333fig0510-tn.svg:59(tspan)
+#: 18333fig0509-tn.svg:59(tspan)
+#: 18333fig0508-tn.svg:59(tspan)
+#: 18333fig0507-tn.svg:58(tspan)
+#: 18333fig0506-tn.svg:65(tspan)
+#: 18333fig0505-tn.svg:65(tspan)
+#: 18333fig0504-tn.svg:65(tspan)
+#: 18333fig0339-tn.svg:51(tspan)
+#: 18333fig0339-tn.svg:74(tspan)
+#: 18333fig0338-tn.svg:51(tspan)
+#: 18333fig0338-tn.svg:74(tspan)
+#: 18333fig0337-tn.svg:51(tspan)
+#: 18333fig0337-tn.svg:74(tspan)
+#: 18333fig0336-tn.svg:51(tspan)
+#: 18333fig0336-tn.svg:74(tspan)
+#: 18333fig0335-tn.svg:57(tspan)
+#: 18333fig0334-tn.svg:64(tspan)
+#: 18333fig0333-tn.svg:71(tspan)
+#: 18333fig0332-tn.svg:71(tspan)
+#: 18333fig0331-tn.svg:71(tspan)
+#: 18333fig0326-tn.svg:52(tspan)
+#: 18333fig0326-tn.svg:93(tspan)
+#: 18333fig0326-tn.svg:156(tspan)
+#: 18333fig0325-tn.svg:52(tspan)
+#: 18333fig0325-tn.svg:93(tspan)
+#: 18333fig0325-tn.svg:156(tspan)
+#: 18333fig0324-tn.svg:64(tspan)
+#: 18333fig0324-tn.svg:105(tspan)
+#: 18333fig0323-tn.svg:64(tspan)
+#: 18333fig0323-tn.svg:105(tspan)
+#: 18333fig0322-tn.svg:64(tspan)
+#: 18333fig0322-tn.svg:112(tspan)
+#: 18333fig0317-tn.svg:57(tspan)
+#: 18333fig0316-tn.svg:109(tspan)
+#: 18333fig0315-tn.svg:57(tspan)
+#: 18333fig0314-tn.svg:57(tspan)
+#: 18333fig0313-tn.svg:57(tspan)
+#: 18333fig0310-tn.svg:51(tspan)
+#: 18333fig0309-tn.svg:86(tspan)
+#: 18333fig0308-tn.svg:79(tspan)
+#: 18333fig0307-tn.svg:79(tspan)
+#: 18333fig0306-tn.svg:54(tspan)
+#: 18333fig0305-tn.svg:72(tspan)
+#: 18333fig0303-tn.svg:52(tspan)
+msgid "master"
+msgstr "master"
+
+#: 18333fig0618-tn.svg:58(tspan)
+#: 18333fig0517-tn.svg:58(tspan)
+#: 18333fig0516-tn.svg:58(tspan)
+#: 18333fig0514-tn.svg:60(tspan)
+#: 18333fig0513-tn.svg:60(tspan)
+#: 18333fig0512-tn.svg:58(tspan)
+#: 18333fig0510-tn.svg:65(tspan)
+#: 18333fig0509-tn.svg:65(tspan)
+#: 18333fig0508-tn.svg:65(tspan)
+#: 18333fig0507-tn.svg:65(tspan)
+#: 18333fig0506-tn.svg:72(tspan)
+#: 18333fig0505-tn.svg:72(tspan)
+#: 18333fig0504-tn.svg:72(tspan)
+msgid "4b078"
+msgstr "4b078"
+
+#: 18333fig0618-tn.svg:65(tspan)
+#: 18333fig0517-tn.svg:65(tspan)
+#: 18333fig0516-tn.svg:65(tspan)
+#: 18333fig0514-tn.svg:67(tspan)
+#: 18333fig0513-tn.svg:67(tspan)
+#: 18333fig0512-tn.svg:65(tspan)
+msgid "e5b0f"
+msgstr "e5b0f"
+
+#: 18333fig0618-tn.svg:72(tspan)
+#: 18333fig0517-tn.svg:72(tspan)
+#: 18333fig0516-tn.svg:72(tspan)
+#: 18333fig0514-tn.svg:88(tspan)
+#: 18333fig0513-tn.svg:88(tspan)
+#: 18333fig0512-tn.svg:86(tspan)
+msgid "featureB"
+msgstr "fonctionB"
+
+#: 18333fig0618-tn.svg:78(tspan)
+#: 18333fig0517-tn.svg:78(tspan)
+#: 18333fig0516-tn.svg:78(tspan)
+#: 18333fig0514-tn.svg:144(tspan)
+#: 18333fig0510-tn.svg:93(tspan)
+#: 18333fig0509-tn.svg:93(tspan)
+#: 18333fig0508-tn.svg:93(tspan)
+#: 18333fig0507-tn.svg:93(tspan)
+#: 18333fig0506-tn.svg:58(tspan)
+#: 18333fig0505-tn.svg:58(tspan)
+#: 18333fig0504-tn.svg:58(tspan)
+#: 18333fig0326-tn.svg:79(tspan)
+#: 18333fig0325-tn.svg:79(tspan)
+#: 18333fig0324-tn.svg:91(tspan)
+#: 18333fig0323-tn.svg:91(tspan)
+#: 18333fig0322-tn.svg:91(tspan)
+msgid "origin/master"
+msgstr "origin/master"
+
+#: 18333fig0618-tn.svg:86(tspan)
+#: 18333fig0517-tn.svg:86(tspan)
+msgid "dee6b"
+msgstr "dee6b"
+
+#: 18333fig0618-tn.svg:92(tspan)
+#: 18333fig0517-tn.svg:92(tspan)
+#: 18333fig0516-tn.svg:92(tspan)
+#: 18333fig0514-tn.svg:81(tspan)
+#: 18333fig0513-tn.svg:81(tspan)
+#: 18333fig0512-tn.svg:79(tspan)
+msgid "featureA"
+msgstr "fonctionA"
+
+#: 18333fig0618-tn.svg:100(tspan)
+#: 18333fig0517-tn.svg:100(tspan)
+#: 18333fig0514-tn.svg:136(tspan)
+msgid "5399e"
+msgstr "5399e"
+
+#: 18333fig0618-tn.svg:107(tspan)
+msgid "17f4d"
+msgstr "17f4d"
+
+#: 18333fig0618-tn.svg:114(tspan)
+msgid "featureBv2"
+msgstr "fonctionBv2"
+
+#: 18333fig0601-tn.svg:38(tspan)
+msgid "experiment"
+msgstr "experience"
+
+#: 18333fig0601-tn.svg:54(tspan)
+msgid "D"
+msgstr "D"
+
+#: 18333fig0601-tn.svg:60(tspan)
+#: 18333fig0104-tn.svg:151(tspan)
+msgid "C"
+msgstr "C"
+
+#: 18333fig0601-tn.svg:66(tspan)
+msgid "F"
+msgstr "F"
+
+#: 18333fig0601-tn.svg:73(tspan)
+msgid "E"
+msgstr "E"
+
+#: 18333fig0601-tn.svg:80(tspan)
+#: 18333fig0104-tn.svg:145(tspan)
+#: 18333fig0104-tn.svg:193(tspan)
+#: 18333fig0104-tn.svg:211(tspan)
+msgid "B"
+msgstr "B"
+
+#: 18333fig0601-tn.svg:86(tspan)
+#: 18333fig0104-tn.svg:139(tspan)
+msgid "A"
+msgstr "A"
+
+#: 18333fig0527-tn.svg:37(tspan)
+#: 18333fig0526-tn.svg:37(tspan)
+msgid "e43a6"
+msgstr "e43a6"
+
+#: 18333fig0527-tn.svg:43(tspan)
+#: 18333fig0526-tn.svg:43(tspan)
+#: 18333fig0326-tn.svg:66(tspan)
+#: 18333fig0325-tn.svg:66(tspan)
+#: 18333fig0324-tn.svg:51(tspan)
+#: 18333fig0324-tn.svg:78(tspan)
+#: 18333fig0323-tn.svg:51(tspan)
+#: 18333fig0323-tn.svg:78(tspan)
+#: 18333fig0322-tn.svg:51(tspan)
+#: 18333fig0322-tn.svg:78(tspan)
+msgid "a6b4c"
+msgstr "a6b4c"
+
+#: 18333fig0527-tn.svg:49(tspan)
+#: 18333fig0526-tn.svg:49(tspan)
+#: 18333fig0326-tn.svg:72(tspan)
+#: 18333fig0325-tn.svg:72(tspan)
+#: 18333fig0324-tn.svg:57(tspan)
+#: 18333fig0324-tn.svg:84(tspan)
+#: 18333fig0323-tn.svg:57(tspan)
+#: 18333fig0323-tn.svg:84(tspan)
+#: 18333fig0322-tn.svg:57(tspan)
+#: 18333fig0322-tn.svg:84(tspan)
+msgid "0b743"
+msgstr "0b743"
+
+#: 18333fig0527-tn.svg:55(tspan)
+#: 18333fig0526-tn.svg:55(tspan)
+msgid "5ddae"
+msgstr "5ddae"
+
+#: 18333fig0527-tn.svg:65(tspan)
+#: 18333fig0526-tn.svg:65(tspan)
+#: 18333fig0523-tn.svg:88(tspan)
+#: 18333fig0522-tn.svg:88(tspan)
+#: 18333fig0521-tn.svg:65(tspan)
+#: 18333fig0520-tn.svg:117(tspan)
+msgid "ruby_client"
+msgstr "client_ruby"
+
+#: 18333fig0527-tn.svg:79(tspan)
+#: 18333fig0526-tn.svg:79(tspan)
+#: 18333fig0326-tn.svg:59(tspan)
+#: 18333fig0326-tn.svg:86(tspan)
+#: 18333fig0326-tn.svg:163(tspan)
+#: 18333fig0325-tn.svg:59(tspan)
+#: 18333fig0325-tn.svg:86(tspan)
+#: 18333fig0325-tn.svg:163(tspan)
+#: 18333fig0324-tn.svg:71(tspan)
+#: 18333fig0324-tn.svg:98(tspan)
+#: 18333fig0323-tn.svg:71(tspan)
+#: 18333fig0323-tn.svg:98(tspan)
+#: 18333fig0322-tn.svg:71(tspan)
+#: 18333fig0322-tn.svg:98(tspan)
+msgid "f42c5"
+msgstr "f42c5"
+
+#: 18333fig0527-tn.svg:86(tspan)
+msgid "a0a41"
+msgstr "a0a41"
+
+#: 18333fig0525-tn.svg:42(tspan)
+#: 18333fig0524-tn.svg:37(tspan)
+#: 18333fig0523-tn.svg:37(tspan)
+#: 18333fig0522-tn.svg:37(tspan)
+#: 18333fig0521-tn.svg:37(tspan)
+#: 18333fig0520-tn.svg:37(tspan)
+#: 18333fig0339-tn.svg:63(tspan)
+#: 18333fig0338-tn.svg:63(tspan)
+#: 18333fig0337-tn.svg:63(tspan)
+#: 18333fig0336-tn.svg:63(tspan)
+#: 18333fig0334-tn.svg:57(tspan)
+#: 18333fig0333-tn.svg:64(tspan)
+#: 18333fig0332-tn.svg:64(tspan)
+#: 18333fig0331-tn.svg:64(tspan)
+#: 18333fig0317-tn.svg:71(tspan)
+#: 18333fig0316-tn.svg:59(tspan)
+#: 18333fig0315-tn.svg:71(tspan)
+#: 18333fig0314-tn.svg:71(tspan)
+#: 18333fig0313-tn.svg:71(tspan)
+#: 18333fig0310-tn.svg:58(tspan)
+#: 18333fig0104-tn.svg:253(tspan)
+msgid "C3"
+msgstr "C3"
+
+#: 18333fig0525-tn.svg:48(tspan)
+#: 18333fig0524-tn.svg:43(tspan)
+#: 18333fig0523-tn.svg:43(tspan)
+#: 18333fig0522-tn.svg:43(tspan)
+#: 18333fig0521-tn.svg:43(tspan)
+#: 18333fig0520-tn.svg:43(tspan)
+#: 18333fig0339-tn.svg:57(tspan)
+#: 18333fig0338-tn.svg:57(tspan)
+#: 18333fig0337-tn.svg:57(tspan)
+#: 18333fig0336-tn.svg:57(tspan)
+#: 18333fig0335-tn.svg:43(tspan)
+#: 18333fig0334-tn.svg:43(tspan)
+#: 18333fig0333-tn.svg:43(tspan)
+#: 18333fig0332-tn.svg:43(tspan)
+#: 18333fig0331-tn.svg:43(tspan)
+#: 18333fig0317-tn.svg:50(tspan)
+#: 18333fig0316-tn.svg:50(tspan)
+#: 18333fig0315-tn.svg:50(tspan)
+#: 18333fig0314-tn.svg:50(tspan)
+#: 18333fig0313-tn.svg:50(tspan)
+#: 18333fig0310-tn.svg:37(tspan)
+#: 18333fig0104-tn.svg:217(tspan)
+#: 18333fig0104-tn.svg:235(tspan)
+msgid "C2"
+msgstr "C2"
+
+#: 18333fig0525-tn.svg:54(tspan)
+#: 18333fig0524-tn.svg:49(tspan)
+#: 18333fig0523-tn.svg:49(tspan)
+#: 18333fig0522-tn.svg:49(tspan)
+#: 18333fig0521-tn.svg:49(tspan)
+#: 18333fig0520-tn.svg:49(tspan)
+#: 18333fig0339-tn.svg:86(tspan)
+#: 18333fig0339-tn.svg:115(tspan)
+#: 18333fig0338-tn.svg:86(tspan)
+#: 18333fig0338-tn.svg:115(tspan)
+#: 18333fig0337-tn.svg:86(tspan)
+#: 18333fig0337-tn.svg:115(tspan)
+#: 18333fig0336-tn.svg:86(tspan)
+#: 18333fig0336-tn.svg:93(tspan)
+#: 18333fig0335-tn.svg:37(tspan)
+#: 18333fig0334-tn.svg:37(tspan)
+#: 18333fig0333-tn.svg:37(tspan)
+#: 18333fig0332-tn.svg:37(tspan)
+#: 18333fig0331-tn.svg:37(tspan)
+#: 18333fig0317-tn.svg:37(tspan)
+#: 18333fig0316-tn.svg:37(tspan)
+#: 18333fig0315-tn.svg:37(tspan)
+#: 18333fig0314-tn.svg:37(tspan)
+#: 18333fig0313-tn.svg:37(tspan)
+#: 18333fig0310-tn.svg:43(tspan)
+#: 18333fig0104-tn.svg:199(tspan)
+msgid "C1"
+msgstr "C1"
+
+#: 18333fig0525-tn.svg:60(tspan)
+#: 18333fig0524-tn.svg:55(tspan)
+#: 18333fig0523-tn.svg:55(tspan)
+#: 18333fig0522-tn.svg:55(tspan)
+#: 18333fig0521-tn.svg:55(tspan)
+#: 18333fig0520-tn.svg:55(tspan)
+#: 18333fig0339-tn.svg:99(tspan)
+#: 18333fig0339-tn.svg:127(tspan)
+#: 18333fig0338-tn.svg:99(tspan)
+#: 18333fig0338-tn.svg:127(tspan)
+#: 18333fig0337-tn.svg:99(tspan)
+#: 18333fig0337-tn.svg:127(tspan)
+#: 18333fig0334-tn.svg:70(tspan)
+#: 18333fig0333-tn.svg:77(tspan)
+#: 18333fig0332-tn.svg:77(tspan)
+#: 18333fig0331-tn.svg:77(tspan)
+#: 18333fig0317-tn.svg:78(tspan)
+#: 18333fig0316-tn.svg:66(tspan)
+#: 18333fig0315-tn.svg:78(tspan)
+#: 18333fig0314-tn.svg:78(tspan)
+#: 18333fig0313-tn.svg:78(tspan)
+msgid "C4"
+msgstr "C4"
+
+#: 18333fig0525-tn.svg:78(tspan)
+#: 18333fig0524-tn.svg:73(tspan)
+msgid "tv/rebase-stat"
+msgstr "tv/rebase-stat"
+
+#: 18333fig0525-tn.svg:84(tspan)
+#: 18333fig0524-tn.svg:79(tspan)
+#: 18333fig0523-tn.svg:73(tspan)
+#: 18333fig0522-tn.svg:73(tspan)
+#: 18333fig0521-tn.svg:79(tspan)
+#: 18333fig0520-tn.svg:80(tspan)
+#: 18333fig0339-tn.svg:93(tspan)
+#: 18333fig0339-tn.svg:121(tspan)
+#: 18333fig0339-tn.svg:159(tspan)
+#: 18333fig0338-tn.svg:93(tspan)
+#: 18333fig0338-tn.svg:121(tspan)
+#: 18333fig0338-tn.svg:159(tspan)
+#: 18333fig0337-tn.svg:93(tspan)
+#: 18333fig0337-tn.svg:121(tspan)
+#: 18333fig0335-tn.svg:50(tspan)
+#: 18333fig0334-tn.svg:50(tspan)
+#: 18333fig0333-tn.svg:50(tspan)
+#: 18333fig0332-tn.svg:50(tspan)
+#: 18333fig0331-tn.svg:50(tspan)
+#: 18333fig0317-tn.svg:85(tspan)
+#: 18333fig0316-tn.svg:73(tspan)
+#: 18333fig0315-tn.svg:85(tspan)
+msgid "C5"
+msgstr "C5"
+
+#: 18333fig0525-tn.svg:90(tspan)
+#: 18333fig0524-tn.svg:85(tspan)
+#: 18333fig0520-tn.svg:86(tspan)
+#: 18333fig0339-tn.svg:106(tspan)
+#: 18333fig0339-tn.svg:134(tspan)
+#: 18333fig0338-tn.svg:106(tspan)
+#: 18333fig0338-tn.svg:134(tspan)
+#: 18333fig0337-tn.svg:106(tspan)
+#: 18333fig0337-tn.svg:134(tspan)
+#: 18333fig0335-tn.svg:63(tspan)
+#: 18333fig0334-tn.svg:77(tspan)
+#: 18333fig0333-tn.svg:84(tspan)
+#: 18333fig0332-tn.svg:84(tspan)
+#: 18333fig0331-tn.svg:84(tspan)
+#: 18333fig0317-tn.svg:92(tspan)
+msgid "C6"
+msgstr "C6"
+
+#: 18333fig0525-tn.svg:98(tspan)
+msgid "jk/post-checkout"
+msgstr "jk/post-checkout"
+
+#: 18333fig0525-tn.svg:105(tspan)
+#: 18333fig0524-tn.svg:100(tspan)
+msgid "js/notes"
+msgstr "js/notes"
+
+#: 18333fig0525-tn.svg:111(tspan)
+#: 18333fig0524-tn.svg:106(tspan)
+msgid "db/push-cleanup"
+msgstr "db/push-cleanup"
+
+#: 18333fig0525-tn.svg:117(tspan)
+#: 18333fig0524-tn.svg:112(tspan)
+msgid "ps/blame"
+msgstr "ps/blame"
+
+#: 18333fig0525-tn.svg:123(tspan)
+#: 18333fig0524-tn.svg:118(tspan)
+#: 18333fig0520-tn.svg:73(tspan)
+#: 18333fig0339-tn.svg:144(tspan)
+#: 18333fig0338-tn.svg:144(tspan)
+#: 18333fig0337-tn.svg:144(tspan)
+msgid "C7"
+msgstr "C7"
+
+#: 18333fig0525-tn.svg:129(tspan)
+#: 18333fig0524-tn.svg:124(tspan)
+#: 18333fig0523-tn.svg:80(tspan)
+#: 18333fig0522-tn.svg:80(tspan)
+#: 18333fig0520-tn.svg:101(tspan)
+#: 18333fig0339-tn.svg:173(tspan)
+#: 18333fig0332-tn.svg:91(tspan)
+#: 18333fig0331-tn.svg:91(tspan)
+msgid "C8"
+msgstr "C8"
+
+#: 18333fig0525-tn.svg:135(tspan)
+#: 18333fig0524-tn.svg:130(tspan)
+#: 18333fig0520-tn.svg:108(tspan)
+#: 18333fig0332-tn.svg:105(tspan)
+#: 18333fig0331-tn.svg:105(tspan)
+msgid "C9"
+msgstr "C9"
+
+#: 18333fig0525-tn.svg:141(tspan)
+#: 18333fig0524-tn.svg:136(tspan)
+#: 18333fig0334-tn.svg:84(tspan)
+#: 18333fig0333-tn.svg:91(tspan)
+#: 18333fig0332-tn.svg:98(tspan)
+#: 18333fig0331-tn.svg:98(tspan)
+msgid "C10"
+msgstr "C10"
+
+#: 18333fig0525-tn.svg:147(tspan)
+#: 18333fig0524-tn.svg:142(tspan)
+msgid "C11"
+msgstr "C11"
+
+#: 18333fig0525-tn.svg:153(tspan)
+#: 18333fig0524-tn.svg:148(tspan)
+msgid "C12"
+msgstr "C12"
+
+#: 18333fig0525-tn.svg:168(tspan)
+msgid "C13"
+msgstr "C13"
+
+#: 18333fig0525-tn.svg:174(tspan)
+msgid "C14"
+msgstr "C14"
+
+#: 18333fig0525-tn.svg:180(tspan)
+msgid "C15"
+msgstr "C15"
+
+#: 18333fig0525-tn.svg:189(tspan)
+msgid "C16"
+msgstr "C16"
+
+#: 18333fig0525-tn.svg:195(tspan)
+msgid "C17"
+msgstr "C17"
+
+#: 18333fig0525-tn.svg:203(tspan)
+msgid "next"
+msgstr "prochain"
+
+#: 18333fig0525-tn.svg:209(tspan)
+msgid "pu"
+msgstr "pu"
+
+#: 18333fig0524-tn.svg:93(tspan)
+msgid "jk/clone-post-checkout"
+msgstr "jk/clone-post-checkout"
+
+#: 18333fig0523-tn.svg:94(tspan)
+#: 18333fig0522-tn.svg:94(tspan)
+#: 18333fig0521-tn.svg:72(tspan)
+msgid "develop"
+msgstr "dévelop"
+
+#: 18333fig0520-tn.svg:93(tspan)
+msgid "php_client"
+msgstr "php_client"
+
+#: 18333fig0516-tn.svg:86(tspan)
+msgid "a2de3"
+msgstr "a2de3"
+
+#: 18333fig0516-tn.svg:100(tspan)
+msgid "0d708"
+msgstr "0d708"
+
+#: 18333fig0514-tn.svg:73(tspan)
+#: 18333fig0513-tn.svg:73(tspan)
+#: 18333fig0512-tn.svg:71(tspan)
+msgid "85127"
+msgstr ""
+
+#: 18333fig0514-tn.svg:95(tspan)
+#: 18333fig0513-tn.svg:95(tspan)
+msgid "aad88"
+msgstr ""
+
+#: 18333fig0514-tn.svg:102(tspan)
+#: 18333fig0513-tn.svg:102(tspan)
+msgid "fba9a"
+msgstr ""
+
+#: 18333fig0514-tn.svg:109(tspan)
+#: 18333fig0513-tn.svg:109(tspan)
+msgid "cd685"
+msgstr ""
+
+#: 18333fig0514-tn.svg:117(tspan)
+#: 18333fig0513-tn.svg:117(tspan)
+msgid "origin/featureBee"
+msgstr ""
+
+#: 18333fig0514-tn.svg:123(tspan)
+#: 18333fig0513-tn.svg:123(tspan)
+msgid "origin/featureA"
+msgstr ""
+
+#: 18333fig0514-tn.svg:129(tspan)
+#: 18333fig0513-tn.svg:129(tspan)
+msgid "774b3"
+msgstr ""
+
+#: 18333fig0510-tn.svg:38(tspan)
+#: 18333fig0509-tn.svg:38(tspan)
+#: 18333fig0508-tn.svg:38(tspan)
+#: 18333fig0507-tn.svg:37(tspan)
+#: 18333fig0506-tn.svg:37(tspan)
+#: 18333fig0505-tn.svg:37(tspan)
+#: 18333fig0504-tn.svg:37(tspan)
+msgid "fbff5"
+msgstr ""
+
+#: 18333fig0510-tn.svg:52(tspan)
+#: 18333fig0509-tn.svg:52(tspan)
+#: 18333fig0508-tn.svg:52(tspan)
+#: 18333fig0507-tn.svg:51(tspan)
+msgid "issue54"
+msgstr "prob54"
+
+#: 18333fig0510-tn.svg:72(tspan)
+#: 18333fig0509-tn.svg:72(tspan)
+#: 18333fig0508-tn.svg:72(tspan)
+#: 18333fig0507-tn.svg:72(tspan)
+msgid "8149a"
+msgstr ""
+
+#: 18333fig0510-tn.svg:79(tspan)
+#: 18333fig0509-tn.svg:79(tspan)
+#: 18333fig0508-tn.svg:79(tspan)
+#: 18333fig0507-tn.svg:79(tspan)
+msgid "23ac6"
+msgstr ""
+
+#: 18333fig0510-tn.svg:86(tspan)
+#: 18333fig0509-tn.svg:86(tspan)
+#: 18333fig0508-tn.svg:86(tspan)
+#: 18333fig0507-tn.svg:86(tspan)
+msgid "4af42"
+msgstr ""
+
+#: 18333fig0510-tn.svg:100(tspan)
+#: 18333fig0509-tn.svg:100(tspan)
+#: 18333fig0508-tn.svg:100(tspan)
+#: 18333fig0506-tn.svg:43(tspan)
+#: 18333fig0505-tn.svg:43(tspan)
+#: 18333fig0504-tn.svg:43(tspan)
+msgid "738ee"
+msgstr ""
+
+#: 18333fig0510-tn.svg:106(tspan)
+#: 18333fig0509-tn.svg:106(tspan)
+#: 18333fig0508-tn.svg:106(tspan)
+#: 18333fig0506-tn.svg:79(tspan)
+#: 18333fig0505-tn.svg:79(tspan)
+msgid "72bbc"
+msgstr ""
+
+#: 18333fig0510-tn.svg:115(tspan)
+#: 18333fig0509-tn.svg:115(tspan)
+msgid "8059c"
+msgstr ""
+
+#: 18333fig0503-tn.svg:37(tspan)
+#: 18333fig0503-tn.svg:46(tspan)
+#: 18333fig0503-tn.svg:61(tspan)
+#: 18333fig0502-tn.svg:37(tspan)
+#: 18333fig0502-tn.svg:46(tspan)
+#: 18333fig0502-tn.svg:61(tspan)
+#: 18333fig0502-tn.svg:80(tspan)
+#: 18333fig0502-tn.svg:89(tspan)
+#: 18333fig0502-tn.svg:98(tspan)
+#: 18333fig0501-tn.svg:37(tspan)
+#: 18333fig0501-tn.svg:43(tspan)
+#: 18333fig0501-tn.svg:49(tspan)
+msgid "developer"
+msgstr "développeur"
+
+#: 18333fig0503-tn.svg:40(tspan)
+#: 18333fig0503-tn.svg:49(tspan)
+#: 18333fig0503-tn.svg:64(tspan)
+#: 18333fig0502-tn.svg:40(tspan)
+#: 18333fig0502-tn.svg:49(tspan)
+#: 18333fig0502-tn.svg:64(tspan)
+msgid "public"
+msgstr "public"
+
+#: 18333fig0503-tn.svg:55(tspan)
+msgid "dictator"
+msgstr "dictateur"
+
+#: 18333fig0503-tn.svg:70(tspan)
+#: 18333fig0502-tn.svg:70(tspan)
+msgid "blessed"
+msgstr "béni"
+
+#: 18333fig0503-tn.svg:73(tspan)
+#: 18333fig0502-tn.svg:73(tspan)
+#: 18333fig0501-tn.svg:58(tspan)
+msgid "repository"
+msgstr "dépôt"
+
+#: 18333fig0503-tn.svg:80(tspan)
+#: 18333fig0503-tn.svg:86(tspan)
+msgid "lieutenant"
+msgstr "lieutenant"
+
+#: 18333fig0502-tn.svg:55(tspan)
+msgid "integration manager"
+msgstr "gestionnaire d'intégration"
+
+#: 18333fig0502-tn.svg:83(tspan)
+#: 18333fig0502-tn.svg:92(tspan)
+#: 18333fig0502-tn.svg:101(tspan)
+msgid "private"
+msgstr "privé"
+
+#: 18333fig0501-tn.svg:55(tspan)
+msgid "shared"
+msgstr "partagé"
+
+#: 18333fig0339-tn.svg:39(tspan)
+#: 18333fig0338-tn.svg:39(tspan)
+#: 18333fig0337-tn.svg:39(tspan)
+#: 18333fig0336-tn.svg:39(tspan)
+#: 18333fig0326-tn.svg:46(tspan)
+#: 18333fig0325-tn.svg:46(tspan)
+#: 18333fig0324-tn.svg:45(tspan)
+#: 18333fig0323-tn.svg:45(tspan)
+#: 18333fig0322-tn.svg:45(tspan)
+msgid "My Computer"
+msgstr "Mon Ordinateur"
+
+#: 18333fig0339-tn.svg:45(tspan)
+#: 18333fig0338-tn.svg:45(tspan)
+#: 18333fig0337-tn.svg:45(tspan)
+#: 18333fig0336-tn.svg:45(tspan)
+#: 18333fig0326-tn.svg:190(tspan)
+msgid "teamone/master"
+msgstr "equipeun/master"
+
+#: 18333fig0339-tn.svg:80(tspan)
+#: 18333fig0338-tn.svg:80(tspan)
+#: 18333fig0337-tn.svg:80(tspan)
+#: 18333fig0336-tn.svg:80(tspan)
+#: 18333fig0326-tn.svg:150(tspan)
+#: 18333fig0325-tn.svg:150(tspan)
+msgid "git.team1.ourcompany.com"
+msgstr "git.equipe1.notresociete.com"
+
+#: 18333fig0339-tn.svg:152(tspan)
+#: 18333fig0339-tn.svg:166(tspan)
+#: 18333fig0338-tn.svg:152(tspan)
+#: 18333fig0338-tn.svg:166(tspan)
+#: 18333fig0335-tn.svg:91(tspan)
+#: 18333fig0334-tn.svg:126(tspan)
+msgid "C4'"
+msgstr "C4'"
+
+#: 18333fig0335-tn.svg:71(tspan)
+#: 18333fig0334-tn.svg:92(tspan)
+#: 18333fig0333-tn.svg:98(tspan)
+#: 18333fig0332-tn.svg:113(tspan)
+msgid "C8'"
+msgstr "C8'"
+
+#: 18333fig0335-tn.svg:78(tspan)
+#: 18333fig0334-tn.svg:99(tspan)
+#: 18333fig0333-tn.svg:105(tspan)
+#: 18333fig0332-tn.svg:120(tspan)
+msgid "C9'"
+msgstr "C9'"
+
+#: 18333fig0335-tn.svg:85(tspan)
+#: 18333fig0334-tn.svg:120(tspan)
+msgid "C3'"
+msgstr "C3'"
+
+#: 18333fig0335-tn.svg:98(tspan)
+#: 18333fig0334-tn.svg:133(tspan)
+msgid "C10'"
+msgstr "C10'"
+
+#: 18333fig0334-tn.svg:106(tspan)
+#: 18333fig0333-tn.svg:112(tspan)
+#: 18333fig0332-tn.svg:127(tspan)
+#: 18333fig0331-tn.svg:112(tspan)
+msgid "client"
+msgstr "client"
+
+#: 18333fig0334-tn.svg:113(tspan)
+#: 18333fig0333-tn.svg:57(tspan)
+#: 18333fig0332-tn.svg:57(tspan)
+#: 18333fig0331-tn.svg:57(tspan)
+msgid "server"
+msgstr "serveur"
+
+#: 18333fig0326-tn.svg:39(tspan)
+#: 18333fig0325-tn.svg:39(tspan)
+#: 18333fig0324-tn.svg:38(tspan)
+#: 18333fig0323-tn.svg:38(tspan)
+#: 18333fig0322-tn.svg:38(tspan)
+msgid "git.ourcompany.com"
+msgstr "git.notresociete.com"
+
+#: 18333fig0326-tn.svg:100(tspan)
+#: 18333fig0325-tn.svg:100(tspan)
+#: 18333fig0324-tn.svg:112(tspan)
+#: 18333fig0323-tn.svg:112(tspan)
+msgid "a38de"
+msgstr ""
+
+#: 18333fig0326-tn.svg:106(tspan)
+#: 18333fig0325-tn.svg:106(tspan)
+#: 18333fig0324-tn.svg:118(tspan)
+#: 18333fig0323-tn.svg:118(tspan)
+msgid "893cf"
+msgstr ""
+
+#: 18333fig0326-tn.svg:114(tspan)
+#: 18333fig0326-tn.svg:128(tspan)
+#: 18333fig0326-tn.svg:170(tspan)
+#: 18333fig0325-tn.svg:114(tspan)
+#: 18333fig0325-tn.svg:128(tspan)
+#: 18333fig0325-tn.svg:170(tspan)
+#: 18333fig0324-tn.svg:126(tspan)
+#: 18333fig0324-tn.svg:147(tspan)
+#: 18333fig0323-tn.svg:126(tspan)
+msgid "31b8e"
+msgstr ""
+
+#: 18333fig0326-tn.svg:120(tspan)
+#: 18333fig0326-tn.svg:134(tspan)
+#: 18333fig0325-tn.svg:120(tspan)
+#: 18333fig0325-tn.svg:134(tspan)
+#: 18333fig0324-tn.svg:132(tspan)
+#: 18333fig0324-tn.svg:153(tspan)
+#: 18333fig0323-tn.svg:132(tspan)
+msgid "190a3"
+msgstr ""
+
+#: 18333fig0326-tn.svg:142(tspan)
+#: 18333fig0325-tn.svg:142(tspan)
+msgid "origin"
+msgstr "origin"
+
+#: 18333fig0326-tn.svg:177(tspan)
+#: 18333fig0325-tn.svg:177(tspan)
+msgid "teamone"
+msgstr "equipeun"
+
+#: 18333fig0326-tn.svg:183(tspan)
+msgid "git fetch teamone"
+msgstr "git fetch equipeun"
+
+#: 18333fig0325-tn.svg:183(tspan)
+msgid "git remote add teamone git://git.team1.ourcompany.com"
+msgstr "git remote add equipeun git://git.equipe1.notresociete.com"
+
+#: 18333fig0324-tn.svg:141(tspan)
+msgid "git fetch origin"
+msgstr "git fetch origin"
+
+#: 18333fig0323-tn.svg:140(tspan)
+msgid "Someone else pushes"
+msgstr "Un autre pousse"
+
+#: 18333fig0322-tn.svg:106(tspan)
+msgid "git clone schacon@git.ourcompany.com:project.git"
+msgstr ""
+
+#: 18333fig0322-tn.svg:119(tspan)
+msgid "Remote Branch"
+msgstr "Branche distante"
+
+#: 18333fig0322-tn.svg:125(tspan)
+msgid "Local Branch"
+msgstr "Branche locale"
+
+#: 18333fig0317-tn.svg:43(tspan)
+#: 18333fig0316-tn.svg:43(tspan)
+#: 18333fig0315-tn.svg:43(tspan)
+#: 18333fig0314-tn.svg:43(tspan)
+#: 18333fig0313-tn.svg:43(tspan)
+msgid "C0"
+msgstr ""
+
+#: 18333fig0317-tn.svg:64(tspan)
+#: 18333fig0316-tn.svg:116(tspan)
+#: 18333fig0315-tn.svg:64(tspan)
+#: 18333fig0314-tn.svg:64(tspan)
+#: 18333fig0313-tn.svg:64(tspan)
+msgid "iss53"
+msgstr "prob53"
+
+#: 18333fig0316-tn.svg:80(tspan)
+msgid "Common"
+msgstr "Commun"
+
+#: 18333fig0316-tn.svg:83(tspan)
+msgid "Ancestor"
+msgstr "Ancêtre"
+
+#: 18333fig0316-tn.svg:90(tspan)
+#: 18333fig0316-tn.svg:99(tspan)
+msgid "Snapshot to"
+msgstr "Instantané"
+
+#: 18333fig0316-tn.svg:93(tspan)
+msgid "Merge Into"
+msgstr "Fusion dans"
+
+#: 18333fig0316-tn.svg:102(tspan)
+msgid "Merge In"
+msgstr "Fusion dans"
+
+#: 18333fig0314-tn.svg:85(tspan)
+#: 18333fig0313-tn.svg:85(tspan)
+msgid "hotfix"
+msgstr "correctif"
+
+#: 18333fig0309-tn.svg:40(tspan)
+#: 18333fig0308-tn.svg:39(tspan)
+#: 18333fig0307-tn.svg:39(tspan)
+#: 18333fig0306-tn.svg:60(tspan)
+#: 18333fig0305-tn.svg:41(tspan)
+#: 18333fig0303-tn.svg:60(tspan)
+msgid "f30ab"
+msgstr ""
+
+#: 18333fig0309-tn.svg:46(tspan)
+#: 18333fig0308-tn.svg:45(tspan)
+#: 18333fig0307-tn.svg:45(tspan)
+#: 18333fig0306-tn.svg:66(tspan)
+#: 18333fig0305-tn.svg:47(tspan)
+#: 18333fig0303-tn.svg:66(tspan)
+#: 18333fig0302-tn.svg:78(tspan)
+msgid "34ac2"
+msgstr ""
+
+#: 18333fig0309-tn.svg:52(tspan)
+#: 18333fig0308-tn.svg:51(tspan)
+#: 18333fig0307-tn.svg:51(tspan)
+#: 18333fig0306-tn.svg:72(tspan)
+#: 18333fig0305-tn.svg:53(tspan)
+#: 18333fig0303-tn.svg:72(tspan)
+#: 18333fig0302-tn.svg:140(tspan)
+msgid "98ca9"
+msgstr ""
+
+#: 18333fig0309-tn.svg:59(tspan)
+#: 18333fig0308-tn.svg:58(tspan)
+#: 18333fig0307-tn.svg:58(tspan)
+msgid "c2b9e"
+msgstr ""
+
+#: 18333fig0309-tn.svg:65(tspan)
+msgid "87ab2"
+msgstr ""
+
+#: 18333fig0309-tn.svg:72(tspan)
+#: 18333fig0308-tn.svg:65(tspan)
+#: 18333fig0307-tn.svg:65(tspan)
+#: 18333fig0306-tn.svg:42(tspan)
+#: 18333fig0305-tn.svg:60(tspan)
+#: 18333fig0303-tn.svg:45(tspan)
+msgid "HEAD"
+msgstr ""
+
+#: 18333fig0309-tn.svg:79(tspan)
+#: 18333fig0308-tn.svg:72(tspan)
+#: 18333fig0307-tn.svg:72(tspan)
+#: 18333fig0306-tn.svg:48(tspan)
+#: 18333fig0305-tn.svg:66(tspan)
+msgid "testing"
+msgstr ""
+
+#: 18333fig0303-tn.svg:38(tspan)
+msgid "v1.0"
+msgstr ""
+
+#: 18333fig0303-tn.svg:79(tspan)
+#: 18333fig0302-tn.svg:44(tspan)
+msgid "Snapshot C"
+msgstr "Instantané C"
+
+#: 18333fig0303-tn.svg:86(tspan)
+#: 18333fig0302-tn.svg:51(tspan)
+msgid "Snapshot B"
+msgstr "Instantané B"
+
+#: 18333fig0303-tn.svg:93(tspan)
+#: 18333fig0302-tn.svg:58(tspan)
+msgid "Snapshot A"
+msgstr "Instantané A"
+
+#: 18333fig0302-tn.svg:37(tspan)
+#: 18333fig0301-tn.svg:56(tspan)
+msgid "92ec2"
+msgstr ""
+
+#: 18333fig0302-tn.svg:66(tspan)
+#: 18333fig0302-tn.svg:72(tspan)
+#: 18333fig0302-tn.svg:128(tspan)
+#: 18333fig0302-tn.svg:134(tspan)
+#: 18333fig0302-tn.svg:214(tspan)
+#: 18333fig0302-tn.svg:220(tspan)
+#: 18333fig0301-tn.svg:44(tspan)
+#: 18333fig0301-tn.svg:50(tspan)
+msgid "Scott"
+msgstr ""
+
+#: 18333fig0302-tn.svg:84(tspan)
+msgid "add feature #32 - ability to"
+msgstr ""
+
+#: 18333fig0302-tn.svg:87(tspan)
+msgid "add new formats to the central"
+msgstr ""
+
+#: 18333fig0302-tn.svg:94(tspan)
+#: 18333fig0302-tn.svg:162(tspan)
+#: 18333fig0302-tn.svg:239(tspan)
+#: 18333fig0301-tn.svg:69(tspan)
+msgid "committer"
+msgstr "validateur"
+
+#: 18333fig0302-tn.svg:100(tspan)
+#: 18333fig0302-tn.svg:168(tspan)
+#: 18333fig0302-tn.svg:245(tspan)
+#: 18333fig0301-tn.svg:75(tspan)
+msgid "author"
+msgstr "auteur"
+
+#: 18333fig0302-tn.svg:106(tspan)
+#: 18333fig0302-tn.svg:174(tspan)
+msgid "parent"
+msgstr "parent"
+
+#: 18333fig0302-tn.svg:122(tspan)
+msgid "f30ab.."
+msgstr ""
+
+#: 18333fig0302-tn.svg:146(tspan)
+msgid "184ca"
+msgstr ""
+
+#: 18333fig0302-tn.svg:152(tspan)
+msgid "fixed bug #1328 - stack"
+msgstr ""
+
+#: 18333fig0302-tn.svg:155(tspan)
+msgid "overflow under certain"
+msgstr ""
+
+#: 18333fig0302-tn.svg:190(tspan)
+msgid "34ac2.."
+msgstr ""
+
+#: 18333fig0302-tn.svg:197(tspan)
+#: 18333fig0302-tn.svg:269(tspan)
+#: 18333fig0302-tn.svg:287(tspan)
+#: 18333fig0301-tn.svg:91(tspan)
+#: 18333fig0301-tn.svg:133(tspan)
+#: 18333fig0301-tn.svg:178(tspan)
+#: 18333fig0301-tn.svg:223(tspan)
+#: 18333fig0301-tn.svg:304(tspan)
+msgid "size"
+msgstr ""
+
+#: 18333fig0302-tn.svg:203(tspan)
+#: 18333fig0302-tn.svg:275(tspan)
+#: 18333fig0302-tn.svg:293(tspan)
+#: 18333fig0301-tn.svg:97(tspan)
+msgid "commit"
+msgstr "commit"
+
+#: 18333fig0302-tn.svg:226(tspan)
+msgid "0de24"
+msgstr ""
+
+#: 18333fig0302-tn.svg:232(tspan)
+#: 18333fig0301-tn.svg:62(tspan)
+msgid "initial commit of my project"
+msgstr "première validation du projet"
+
+#: 18333fig0302-tn.svg:262(tspan)
+#: 18333fig0301-tn.svg:37(tspan)
+msgid "98ca9.."
+msgstr ""
+
+#: 18333fig0301-tn.svg:108(tspan)
+msgid "The MIT License"
+msgstr "Licence MIT"
+
+#: 18333fig0301-tn.svg:114(tspan)
+msgid "Copyright (c) &lt;year&gt; &lt;copyright"
+msgstr ""
+
+#: 18333fig0301-tn.svg:120(tspan)
+msgid "Permission is hereby granted,"
+msgstr ""
+
+#: 18333fig0301-tn.svg:126(tspan)
+msgid "911e7.."
+msgstr ""
+
+#: 18333fig0301-tn.svg:150(tspan)
+msgid "require 'rubygems'"
+msgstr ""
+
+#: 18333fig0301-tn.svg:153(tspan)
+msgid "require 'pp'"
+msgstr ""
+
+#: 18333fig0301-tn.svg:159(tspan)
+msgid "module Test"
+msgstr ""
+
+#: 18333fig0301-tn.svg:162(tspan)
+msgid "module Tester"
+msgstr ""
+
+#: 18333fig0301-tn.svg:171(tspan)
+msgid "cba0a.."
+msgstr ""
+
+#: 18333fig0301-tn.svg:198(tspan)
+msgid "== Testing Library"
+msgstr ""
+
+#: 18333fig0301-tn.svg:204(tspan)
+msgid "This library is used to test"
+msgstr ""
+
+#: 18333fig0301-tn.svg:207(tspan)
+msgid "Ruby projects"
+msgstr ""
+
+#: 18333fig0301-tn.svg:216(tspan)
+msgid "5b1d3.."
+msgstr ""
+
+#: 18333fig0301-tn.svg:240(tspan)
+msgid "LICENSE"
+msgstr ""
+
+#: 18333fig0301-tn.svg:246(tspan)
+msgid "test.rb"
+msgstr ""
+
+#: 18333fig0301-tn.svg:258(tspan)
+msgid "911e7"
+msgstr ""
+
+#: 18333fig0301-tn.svg:264(tspan)
+msgid "cba0a"
+msgstr ""
+
+#: 18333fig0301-tn.svg:271(tspan)
+msgid "5b1d3"
+msgstr ""
+
+#: 18333fig0301-tn.svg:298(tspan)
+msgid "92ec2.."
+msgstr ""
+
+#: 18333fig0201-tn.svg:30(tspan)
+msgid "Staged"
+msgstr ""
+
+#: 18333fig0201-tn.svg:36(tspan)
+msgid "Modified"
+msgstr "Modifié"
+
+#: 18333fig0201-tn.svg:42(tspan)
+msgid "Unmodified"
+msgstr "Non modifié"
+
+#: 18333fig0201-tn.svg:51(tspan)
+#: 18333fig0106-tn.svg:54(tspan)
+msgid "stage files"
+msgstr "fichiers d'index"
+
+#: 18333fig0201-tn.svg:58(tspan)
+#: 18333fig0106-tn.svg:75(tspan)
+msgid "Commit"
+msgstr "Validation"
+
+#: 18333fig0201-tn.svg:64(tspan)
+msgid "File Status Lifecycle"
+msgstr ""
+
+#: 18333fig0201-tn.svg:72(tspan)
+msgid "Edit the file"
+msgstr "Éditez le fichier"
+
+#: 18333fig0201-tn.svg:78(tspan)
+msgid "Stage the file"
+msgstr "Indexez le fichier"
+
+#: 18333fig0201-tn.svg:84(tspan)
+msgid "Untracked"
+msgstr "Non suivi"
+
+#: 18333fig0201-tn.svg:93(tspan)
+msgid "Add the file"
+msgstr "Ajoutez le fichier"
+
+#: 18333fig0201-tn.svg:99(tspan)
+msgid "Remove the file"
+msgstr "Retirez le fichier"
+
+#: 18333fig0106-tn.svg:30(tspan)
+msgid "Git Directory"
+msgstr "Répertoire Git"
+
+#: 18333fig0106-tn.svg:33(tspan)
+msgid "(Repository)"
+msgstr "(Dépôt)"
+
+#: 18333fig0106-tn.svg:39(tspan)
+msgid "Staging Area"
+msgstr "Zone d'index"
+
+#: 18333fig0106-tn.svg:45(tspan)
+msgid "Working Directory"
+msgstr "Répertoire de travail"
+
+#: 18333fig0106-tn.svg:61(tspan)
+msgid "Checkout the project"
+msgstr "Extraction du projet"
+
+#: 18333fig0106-tn.svg:67(tspan)
+msgid "Local Operations"
+msgstr "Opérations locales"
+
+#: 18333fig0106-tn.svg:81(tspan)
+msgid "Stage files"
+msgstr "Fichiers d'index"
+
+#: 18333fig0104-tn.svg:43(tspan)
+msgid "File A"
+msgstr "Fichier A"
+
+#: 18333fig0104-tn.svg:49(tspan)
+#: 18333fig0104-tn.svg:104(tspan)
+#: 18333fig0104-tn.svg:118(tspan)
+msgid "1"
+msgstr ""
+
+#: 18333fig0104-tn.svg:55(tspan)
+msgid "File B"
+msgstr "Fichier B"
+
+#: 18333fig0104-tn.svg:61(tspan)
+msgid "File C"
+msgstr "Fichier C"
+
+#: 18333fig0104-tn.svg:67(tspan)
+#: 18333fig0104-tn.svg:157(tspan)
+#: 18333fig0103-tn.svg:57(tspan)
+#: 18333fig0103-tn.svg:104(tspan)
+#: 18333fig0103-tn.svg:142(tspan)
+#: 18333fig0102-tn.svg:70(tspan)
+#: 18333fig0101-tn.svg:62(tspan)
+msgid "Version 1"
+msgstr ""
+
+#: 18333fig0104-tn.svg:73(tspan)
+#: 18333fig0104-tn.svg:163(tspan)
+#: 18333fig0103-tn.svg:51(tspan)
+#: 18333fig0103-tn.svg:98(tspan)
+#: 18333fig0103-tn.svg:136(tspan)
+#: 18333fig0102-tn.svg:64(tspan)
+#: 18333fig0101-tn.svg:56(tspan)
+msgid "Version 2"
+msgstr ""
+
+#: 18333fig0104-tn.svg:79(tspan)
+#: 18333fig0104-tn.svg:169(tspan)
+#: 18333fig0103-tn.svg:45(tspan)
+#: 18333fig0103-tn.svg:92(tspan)
+#: 18333fig0103-tn.svg:130(tspan)
+#: 18333fig0102-tn.svg:58(tspan)
+#: 18333fig0101-tn.svg:50(tspan)
+msgid "Version 3"
+msgstr ""
+
+#: 18333fig0104-tn.svg:85(tspan)
+#: 18333fig0104-tn.svg:175(tspan)
+msgid "Version 4"
+msgstr ""
+
+#: 18333fig0104-tn.svg:91(tspan)
+#: 18333fig0104-tn.svg:181(tspan)
+msgid "Version 5"
+msgstr ""
+
+#: 18333fig0104-tn.svg:97(tspan)
+#: 18333fig0104-tn.svg:110(tspan)
+#: 18333fig0104-tn.svg:124(tspan)
+msgid "2"
+msgstr ""
+
+#: 18333fig0104-tn.svg:131(tspan)
+msgid "3"
+msgstr ""
+
+#: 18333fig0104-tn.svg:187(tspan)
+#: 18333fig0104-tn.svg:205(tspan)
+msgid "A1"
+msgstr ""
+
+#: 18333fig0104-tn.svg:223(tspan)
+#: 18333fig0104-tn.svg:241(tspan)
+msgid "A2"
+msgstr ""
+
+#: 18333fig0104-tn.svg:229(tspan)
+msgid "B1"
+msgstr ""
+
+#: 18333fig0104-tn.svg:247(tspan)
+msgid "B2"
+msgstr ""
+
+#: 18333fig0104-tn.svg:260(tspan)
+#: 18333fig0104-tn.svg:267(tspan)
+msgid "Checkins over Time"
+msgstr "Validations dans le temps"
+
+#: 18333fig0103-tn.svg:39(tspan)
+#: 18333fig0103-tn.svg:86(tspan)
+#: 18333fig0103-tn.svg:124(tspan)
+#: 18333fig0102-tn.svg:52(tspan)
+#: 18333fig0101-tn.svg:44(tspan)
+msgid "Version Database"
+msgstr "Base de données"
+
+#: 18333fig0103-tn.svg:65(tspan)
+msgid "Server Computer"
+msgstr "Ordinateur serveur"
+
+#: 18333fig0103-tn.svg:72(tspan)
+#: 18333fig0103-tn.svg:111(tspan)
+#: 18333fig0102-tn.svg:39(tspan)
+#: 18333fig0102-tn.svg:92(tspan)
+#: 18333fig0101-tn.svg:31(tspan)
+msgid "File"
+msgstr "Fichier"
+
+#: 18333fig0103-tn.svg:79(tspan)
+#: 18333fig0102-tn.svg:85(tspan)
+msgid "Computer A"
+msgstr "Ordinateur A"
+
+#: 18333fig0103-tn.svg:117(tspan)
+#: 18333fig0102-tn.svg:104(tspan)
+msgid "Computer B"
+msgstr "Ordinateur B"
+
+#: 18333fig0102-tn.svg:45(tspan)
+#: 18333fig0102-tn.svg:98(tspan)
+#: 18333fig0101-tn.svg:37(tspan)
+msgid "Checkout"
+msgstr "Extraction"
+
+#: 18333fig0102-tn.svg:79(tspan)
+msgid "Central VCS Server"
+msgstr "Serveur VCS central"
+
+#: 18333fig0101-tn.svg:71(tspan)
+msgid "Local Computer"
+msgstr "Ordinateur local"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: 18333fig0101-tn.svg:0(None)
+msgid "translator-credits"
+msgstr ""
+

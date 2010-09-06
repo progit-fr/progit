@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<marker id="Arrow1Lend" orient="auto" refX="0.0" refY="0.0" style="overflow:visible;">
+			
+              
+			<path d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z " id="path3666" style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;" transform="scale(0.8) rotate(180) translate(12.5,0)"/>
+			
+            
+		</marker>
+		<filter filterRes="100" id="DropShadow" x="0" y="0">
+			
+               
+			<feGaussianBlur result="MyBlur" stdDeviation="3"/>
+			
+               
+			<feOffset dx="2" dy="4" in="MyBlur" result="movedBlur"/>
+			
+               
+			<feMerge>
+				
+                   
+				<feMergeNode in="movedBlur"/>
+				
+                   
+				<feMergeNode in="SourceGraphic"/>
+				
+               
+			</feMerge>
+			
+          
+		</filter>
+	</defs>
+	<g style="stroke:#000000;fill:#fff">
+		<rect height="254.368" id="" style="fill:#dcdcdc" width="204.04" x="185.98" y="34.2631"/>
+		<rect height="194.481" id="" style="" width="178.295" x="198.853" y="82.6315"/>
+		<rect height="13.0647" id="" style="stroke:none;fill:none" width="85.3047" x="245.348" y="95.5979"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:12pt" text-anchor="middle" x="289.00035" y="103.13025">
+			<tspan id="" x="289.00035" y="109.13025">
+				Version Database
+			</tspan>
+		</text>
+		<rect height="40.7311" id="" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="98.3694" x="238.815" y="119.596"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:14pt" text-anchor="middle" x="287.9997" y="139.96155">
+			<tspan id="" x="287.9997" y="146.96155">
+				Version 3
+			</tspan>
+		</text>
+		<rect height="40.7311" id="" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="98.3694" x="238.815" y="171.26"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:14pt" text-anchor="middle" x="287.9997" y="191.62555">
+			<tspan id="" x="287.9997" y="198.62555">
+				Version 2
+			</tspan>
+		</text>
+		<rect height="40.7311" id="" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="98.3694" x="238.815" y="222.924"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:14pt" text-anchor="middle" x="287.9997" y="243.28955">
+			<tspan id="" x="287.9997" y="250.28955">
+				Version 1
+			</tspan>
+		</text>
+		<path d="M 288.0,161.827 L 288.0,169.76" id="" style="filter:url(#DropShadow);marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
+		<path d="M 288.0,213.491 L 288.0,221.424" id="" style="filter:url(#DropShadow);marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
+		<rect height="16.9072" id="" style="stroke:none;fill:none" width="112.971" x="231.514" y="47.6315"/>
+		<text id="" style="fill:#000000;font-family: Helvetica-Bold;font-size:18pt" text-anchor="middle" x="288.9995" y="57.0851">
+			<tspan id="" x="288.9995" y="66.0851">
+				Server Computer
+			</tspan>
+		</text>
+		<rect height="296.127" id="" style="fill:#dcdcdc" width="204.04" x="17.98" y="348.0"/>
+		<rect height="40.7311" id="" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#c6d8ff" width="98.3694" x="70.8152" y="388.685"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:14pt" text-anchor="middle" x="119.9999" y="409.05055">
+			<tspan id="" x="119.9999" y="416.05055">
+				File
+			</tspan>
+		</text>
+		<path d="M 223.921,289.078 L 194.562,347.553" id="" style="filter:url(#DropShadow);stroke:#000000;marker-end:url(#Arrow1Lend);marker-start:url(#Arrow1Lend);stroke-width:3.000000px;fill:none"/>
+		<rect height="16.9072" id="" style="stroke:none;fill:none" width="79.1567" x="77.3475" y="360.0"/>
+		<text id="" style="fill:#000000;font-family: Helvetica-Bold;font-size:18pt" text-anchor="middle" x="117.92585" y="369.4536">
+			<tspan id="" x="117.92585" y="378.4536">
+				Computer A
+			</tspan>
+		</text>
+		<rect height="189.0" id="" style="" width="178.295" x="30.8526" y="446.0"/>
+		<rect height="13.0647" id="" style="stroke:none;fill:none" width="85.3047" x="77.3475" y="454.5"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:12pt" text-anchor="middle" x="120.99985" y="462.03235">
+			<tspan id="" x="120.99985" y="468.03235">
+				Version Database
+			</tspan>
+		</text>
+		<rect height="40.7311" id="" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="98.3694" x="70.8152" y="478.147"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:14pt" text-anchor="middle" x="119.9999" y="498.51255">
+			<tspan id="" x="119.9999" y="505.51255">
+				Version 3
+			</tspan>
+		</text>
+		<rect height="40.7311" id="" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="98.3694" x="70.8152" y="530.406"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:14pt" text-anchor="middle" x="119.9999" y="550.77155">
+			<tspan id="" x="119.9999" y="557.77155">
+				Version 2
+			</tspan>
+		</text>
+		<rect height="40.7311" id="" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="98.3694" x="70.8152" y="582.665"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:14pt" text-anchor="middle" x="119.9999" y="603.03055">
+			<tspan id="" x="119.9999" y="610.03055">
+				Version 1
+			</tspan>
+		</text>
+		<rect height="296.127" id="" style="fill:#dcdcdc" width="204.04" x="353.98" y="348.0"/>
+		<rect height="40.7311" id="" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#c6d8ff" width="98.3694" x="406.815" y="388.685"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:14pt" text-anchor="middle" x="455.9997" y="409.05055">
+			<tspan id="" x="455.9997" y="416.05055">
+				File
+			</tspan>
+		</text>
+		<rect height="16.9072" id="" style="stroke:none;fill:none" width="79.1567" x="413.348" y="360.0"/>
+		<text id="" style="fill:#000000;font-family: Helvetica-Bold;font-size:18pt" text-anchor="middle" x="453.92635" y="369.4536">
+			<tspan id="" x="453.92635" y="378.4536">
+				Computer B
+			</tspan>
+		</text>
+		<rect height="189.0" id="" style="" width="178.295" x="366.853" y="446.0"/>
+		<rect height="13.0647" id="" style="stroke:none;fill:none" width="85.3047" x="413.348" y="454.5"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:12pt" text-anchor="middle" x="457.00035" y="462.03235">
+			<tspan id="" x="457.00035" y="468.03235">
+				Version Database
+			</tspan>
+		</text>
+		<rect height="40.7311" id="" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="98.3694" x="406.815" y="478.147"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:14pt" text-anchor="middle" x="455.9997" y="498.51255">
+			<tspan id="" x="455.9997" y="505.51255">
+				Version 3
+			</tspan>
+		</text>
+		<rect height="40.7311" id="" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="98.3694" x="406.815" y="530.405"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:14pt" text-anchor="middle" x="455.9997" y="550.77055">
+			<tspan id="" x="455.9997" y="557.77055">
+				Version 2
+			</tspan>
+		</text>
+		<rect height="40.7311" id="" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="98.3694" x="406.815" y="582.664"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:14pt" text-anchor="middle" x="455.9997" y="603.02955">
+			<tspan id="" x="455.9997" y="610.02955">
+				Version 1
+			</tspan>
+		</text>
+		<path d="M 352.079,289.078 L 381.438,347.553" id="" style="filter:url(#DropShadow);stroke:#000000;marker-end:url(#Arrow1Lend);marker-start:url(#Arrow1Lend);stroke-width:3.000000px;fill:none"/>
+		<path d="M 353.48,496.064 L 222.52,496.064" id="" style="filter:url(#DropShadow);stroke:#000000;marker-end:url(#Arrow1Lend);marker-start:url(#Arrow1Lend);stroke-width:3.000000px;fill:none"/>
+		<path d="M 120.0,520.378 L 120.0,528.906" id="" style="filter:url(#DropShadow);marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
+		<path d="M 120.0,572.637 L 120.0,581.165" id="" style="filter:url(#DropShadow);marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
+		<path d="M 456.0,520.378 L 456.0,528.905" id="" style="filter:url(#DropShadow);marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
+		<path d="M 456.0,572.636 L 456.0,581.164" id="" style="filter:url(#DropShadow);marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
+		<path d="M 120.0,430.916 L 120.0,445.5" id="" style="filter:url(#DropShadow);marker-start:url(#Arrow1Lend);stroke:#000000;marker-end:none;fill:none"/>
+		<path d="M 456.0,430.916 L 456.0,445.5" id="" style="filter:url(#DropShadow);marker-start:url(#Arrow1Lend);stroke:#000000;marker-end:none;fill:none"/>
+	</g>
+</svg>

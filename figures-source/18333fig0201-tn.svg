@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<filter filterRes="100" id="DropShadow" x="0" y="0">
+			
+               
+			<feGaussianBlur result="MyBlur" stdDeviation="3"/>
+			
+               
+			<feOffset dx="2" dy="4" in="MyBlur" result="movedBlur"/>
+			
+               
+			<feMerge>
+				
+                   
+				<feMergeNode in="movedBlur"/>
+				
+                   
+				<feMergeNode in="SourceGraphic"/>
+				
+               
+			</feMerge>
+			
+          
+		</filter>
+	</defs>
+	<g style="stroke:#000000;fill:#fff">
+		<rect height="61.4271" id="" style="stroke:#616161;stroke-width:3.000000px;fill:#8ab5eb" width="131.233" x="493.486" y="72.9672"/>
+		<text id="" style="fill:#000000;font-family: BryantPro-Bold;font-size:16pt" text-anchor="middle" x="559.1025" y="104.68075">
+			<tspan id="" x="559.1025" y="112.68075">
+				Staged
+			</tspan>
+		</text>
+		<rect height="61.4271" id="" style="stroke:#616161;stroke-width:3.000000px;fill:#f5ffb1" width="112.206" x="345.0" y="72.9672"/>
+		<text id="" style="fill:#000000;font-family: BryantPro-Bold;font-size:16pt" text-anchor="middle" x="401.103" y="104.68075">
+			<tspan id="" x="401.103" y="112.68075">
+				Modified
+			</tspan>
+		</text>
+		<rect height="61.4271" id="" style="stroke:#616161;stroke-width:3.000000px;fill:#c5e0be" width="119.0" x="185.103" y="72.9672"/>
+		<text id="" style="fill:#000000;font-family: BryantPro-Bold;font-size:16pt" text-anchor="middle" x="244.603" y="104.68075">
+			<tspan id="" x="244.603" y="112.68075">
+				Unmodified
+			</tspan>
+		</text>
+		<path d="M 244.103,149.163 L 244.103,387.0" id="" style="filter:url(#DropShadow);stroke:#868686;marker-end:none;marker-start:none;stroke-width:3.000000px;fill:none"/>
+		<path d="M 400.603,147.394 L 400.603,387.0" id="" style="filter:url(#DropShadow);stroke:#868686;marker-end:none;marker-start:none;stroke-width:3.000000px;fill:none"/>
+		<path d="M 558.603,147.394 L 558.603,385.231" id="" style="filter:url(#DropShadow);stroke:#868686;marker-end:none;marker-start:none;stroke-width:3.000000px;fill:none"/>
+		<rect height="17.0" id="" style="stroke:none;fill:none" width="64.0" x="278.767" y="174.934"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:12pt" text-anchor="middle" x="311.767" y="184.434">
+			<tspan id="" x="311.767" y="190.434">
+				stage files
+			</tspan>
+		</text>
+		<path d="M 558.603004774,367.926607336 L 290.023933729,367.926678863  L 290.023939007,387.745729649  L 244.103,349.999891878  L 290.023918903,312.254029649  L 290.023924181,332.073080434  L 558.602995226,332.073008907 z" id="" style="filter:url(#DropShadow);stroke:#b00600;fill:#ff817f"/>
+		<rect height="17.0" id="" style="stroke:none;fill:none" width="49.0" x="376.103" y="343.294"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:12pt" text-anchor="middle" x="401.603" y="352.794">
+			<tspan id="" x="401.603" y="358.794">
+				Commit
+			</tspan>
+		</text>
+		<rect height="29.0" id="" style="stroke:none;fill:none" width="231.0" x="195.267" y="19.0"/>
+		<text id="" style="fill:#000000;font-family: Helvetica-Bold;font-size:24pt" text-anchor="middle" x="311.767" y="34.5">
+			<tspan id="" x="311.767" y="46.5">
+				File Status Lifecycle
+			</tspan>
+		</text>
+		<path d="M 244.103,177.073050785 L 354.682071045,177.073050785  L 354.682071045,157.254  L 400.603,194.99985  L 354.682071045,232.7457  L 354.682071045,212.926649215  L 244.103,212.926649215 z" id="" style="filter:url(#DropShadow);stroke:#b00600;fill:#ff817f"/>
+		<path d="M 400.603,235.073050785 L 512.682071045,235.073050785  L 512.682071045,215.254  L 558.603,252.99985  L 512.682071045,290.7457  L 512.682071045,270.926649215  L 400.603,270.926649215 z" id="" style="filter:url(#DropShadow);stroke:#b00600;fill:#ff817f"/>
+		<rect height="17.0" id="" style="stroke:none;fill:none" width="70.0" x="277.767" y="186.163"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:12pt" text-anchor="middle" x="313.767" y="195.663">
+			<tspan id="" x="313.767" y="201.663">
+				Edit the file
+			</tspan>
+		</text>
+		<rect height="17.0" id="" style="stroke:none;fill:none" width="82.0" x="431.233" y="245.0"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:12pt" text-anchor="middle" x="473.233" y="254.5">
+			<tspan id="" x="473.233" y="260.5">
+				Stage the file
+			</tspan>
+		</text>
+		<rect height="61.4271" id="" style="stroke:#616161;stroke-width:3.000000px;fill:#e0a09b" width="112.206" x="29.0" y="72.9672"/>
+		<text id="" style="fill:#000000;font-family: BryantPro-Bold;font-size:16pt" text-anchor="middle" x="85.103" y="104.68075">
+			<tspan id="" x="85.103" y="112.68075">
+				Untracked
+			</tspan>
+		</text>
+		<path d="M 84.603,149.163 L 84.603,387.0" id="" style="filter:url(#DropShadow);stroke:#868686;marker-end:none;marker-start:none;stroke-width:3.000000px;fill:none"/>
+		<path d="M 84.603,208.073050785 L 198.182071045,208.073050785  L 198.182071045,188.254  L 244.103,225.99985  L 198.182071045,263.7457  L 198.182071045,243.926649215  L 84.603,243.926649215 z" id="" style="filter:url(#DropShadow);stroke:#363636;fill:#8d8c85"/>
+		<path d="M 244.103004774,314.926627976 L 130.523933729,314.926658224  L 130.523939007,334.745709009  L 84.603,296.999871239  L 130.523918903,259.254009009  L 130.523924181,279.073059795  L 244.102995226,279.073029547 z" id="" style="filter:url(#DropShadow);stroke:#363636;fill:#8d8c85"/>
+		<rect height="17.0" id="" style="stroke:none;fill:none" width="71.0" x="119.0" y="218.0"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:12pt" text-anchor="middle" x="155.5" y="227.5">
+			<tspan id="" x="155.5" y="233.5">
+				Add the file
+			</tspan>
+		</text>
+		<rect height="17.0" id="" style="stroke:none;fill:none" width="98.0" x="127.0" y="288.0"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:12pt" text-anchor="middle" x="177.0" y="297.5">
+			<tspan id="" x="177.0" y="303.5">
+				Remove the file
+			</tspan>
+		</text>
+	</g>
+</svg>

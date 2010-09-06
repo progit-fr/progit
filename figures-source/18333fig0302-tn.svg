@@ -1,0 +1,303 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<marker id="Arrow1Lend" orient="auto" refX="0.0" refY="0.0" style="overflow:visible;">
+			
+              
+			<path d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z " id="path3666" style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;" transform="scale(0.8) rotate(180) translate(12.5,0)"/>
+			
+            
+		</marker>
+		<filter filterRes="100" id="DropShadow" x="0" y="0">
+			
+               
+			<feGaussianBlur result="MyBlur" stdDeviation="3"/>
+			
+               
+			<feOffset dx="2" dy="4" in="MyBlur" result="movedBlur"/>
+			
+               
+			<feMerge>
+				
+                   
+				<feMergeNode in="movedBlur"/>
+				
+                   
+				<feMergeNode in="SourceGraphic"/>
+				
+               
+			</feMerge>
+			
+          
+		</filter>
+	</defs>
+	<g style="stroke:#000000;fill:#fff">
+		<rect height="14.0" id="" style="stroke:none;fill:none" width="37.0" x="113.486" y="167.5"/>
+		<text id="" style="font-family: Courier New;font-size:12pt" text-anchor="middle" x="131.986" y="174.5">
+			<tspan id="" x="131.986" y="180.5">
+				92ec2
+			</tspan>
+		</text>
+		<path d="M 591.653,278.0 L 591.882,323.5" id="" style="filter:url(#DropShadow);stroke:#000000;marker-end:url(#Arrow1Lend);marker-start:none;stroke-width:4.000000px;fill:none"/>
+		<rect height="55.0" id="" rx="5" ry="5" style="stroke:#1b2350;stroke-width:3.000000px;fill:#d0ceff" width="154.0" x="515.028" y="325.0"/>
+		<text id="" style="fill:#ffffff;font-family: Geneva;font-size:14pt" text-anchor="middle" x="592.028" y="352.5">
+			<tspan id="" x="592.028" y="359.5">
+				Snapshot C
+			</tspan>
+		</text>
+		<path d="M 346.882,278.0 L 347.111,323.5" id="" style="filter:url(#DropShadow);stroke:#000000;marker-end:url(#Arrow1Lend);marker-start:none;stroke-width:4.000000px;fill:none"/>
+		<rect height="55.0" id="" rx="5" ry="5" style="stroke:#1b2350;stroke-width:3.000000px;fill:#d0ceff" width="154.0" x="270.257" y="325.0"/>
+		<text id="" style="fill:#ffffff;font-family: Geneva;font-size:14pt" text-anchor="middle" x="347.257" y="352.5">
+			<tspan id="" x="347.257" y="359.5">
+				Snapshot B
+			</tspan>
+		</text>
+		<path d="M 109.889,278.0 L 110.118,323.5" id="" style="filter:url(#DropShadow);stroke:#000000;marker-end:url(#Arrow1Lend);marker-start:none;stroke-width:4.000000px;fill:none"/>
+		<rect height="55.0" id="" rx="5" ry="5" style="stroke:#1b2350;stroke-width:3.000000px;fill:#d0ceff" width="154.0" x="33.2645" y="325.0"/>
+		<text id="" style="fill:#ffffff;font-family: Geneva;font-size:14pt" text-anchor="middle" x="110.2645" y="352.5">
+			<tspan id="" x="110.2645" y="359.5">
+				Snapshot A
+			</tspan>
+		</text>
+		<path d="M 514.521,199.25 L 429.757,199.25" id="" style="filter:url(#DropShadow);stroke:#000000;marker-end:url(#Arrow1Lend);marker-start:none;stroke-width:4.000000px;fill:none"/>
+		<path d="M 272.757,199.25 L 187.993,199.25" id="" style="filter:url(#DropShadow);stroke:#000000;marker-end:url(#Arrow1Lend);marker-start:none;stroke-width:4.000000px;fill:none"/>
+		<rect height="14.0" id="" style="stroke:none;fill:none" width="37.0" x="597.014" y="231.5"/>
+		<text id="" style="font-family: Courier New;font-size:12pt" text-anchor="middle" x="615.514" y="238.5">
+			<tspan id="" x="615.514" y="244.5">
+				Scott
+			</tspan>
+		</text>
+		<rect height="14.0" id="" style="stroke:none;fill:none" width="37.0" x="597.014" y="210.5"/>
+		<text id="" style="font-family: Courier New;font-size:12pt" text-anchor="middle" x="615.514" y="217.5">
+			<tspan id="" x="615.514" y="223.5">
+				Scott
+			</tspan>
+		</text>
+		<rect height="14.0" id="" style="stroke:none;fill:none" width="37.0" x="597.014" y="189.5"/>
+		<text id="" style="font-family: Courier New;font-size:12pt" text-anchor="middle" x="615.514" y="196.5">
+			<tspan id="" x="615.514" y="202.5">
+				34ac2
+			</tspan>
+		</text>
+		<rect height="22.0" id="" style="stroke:none;fill:none" width="145.0" x="524.028" y="250.677"/>
+		<text id="" style="font-family: Monaco;font-size:8pt" text-anchor="middle" x="596.528" y="261.677">
+			<tspan id="" x="596.528" y="265.677">
+				add feature #32 - ability to
+			</tspan>
+			<tspan id="" x="596.528" y="273.677">
+				add new formats to the central
+			</tspan>
+		</text>
+		<path d="M 588.521,248.323 L 588.521,162.177" id="" style="filter:url(#DropShadow);marker-start:none;stroke:#616161;marker-end:none;fill:none"/>
+		<rect height="26.1462" id="" style="stroke:none;fill:none" width="56.0" x="524.028" y="223.854"/>
+		<text id="" style="font-family: GillSans;font-size:14pt" text-anchor="middle" x="552.028" y="236.9271">
+			<tspan id="" x="552.028" y="243.9271">
+				committer
+			</tspan>
+		</text>
+		<rect height="26.1462" id="" style="stroke:none;fill:none" width="56.0" x="520.028" y="202.354"/>
+		<text id="" style="font-family: GillSans;font-size:14pt" text-anchor="middle" x="548.028" y="215.4271">
+			<tspan id="" x="548.028" y="222.4271">
+				author
+			</tspan>
+		</text>
+		<rect height="26.1462" id="" style="stroke:none;fill:none" width="56.0" x="520.028" y="181.354"/>
+		<text id="" style="font-family: GillSans;font-size:14pt" text-anchor="middle" x="548.028" y="194.4271">
+			<tspan id="" x="548.028" y="201.4271">
+				parent
+			</tspan>
+		</text>
+		<rect height="26.1462" id="" style="stroke:none;fill:none" width="56.0" x="520.028" y="160.354"/>
+		<text id="" style="font-family: GillSans;font-size:14pt" text-anchor="middle" x="548.028" y="173.4271">
+			<tspan id="" x="548.028" y="180.4271">
+				tree
+			</tspan>
+		</text>
+		<path d="M 668.043,248.5 L 518.513,248.5" id="" style="filter:url(#DropShadow);stroke:#616161;marker-end:none;marker-start:none;stroke-width:2.000000px;fill:none"/>
+		<path d="M 668.528,227.5 L 518.999,227.5" id="" style="filter:url(#DropShadow);stroke:#616161;marker-end:none;marker-start:none;stroke-width:2.000000px;fill:none"/>
+		<path d="M 668.557,206.5 L 519.028,206.5" id="" style="filter:url(#DropShadow);stroke:#616161;marker-end:none;marker-start:none;stroke-width:2.000000px;fill:none"/>
+		<path d="M 668.043,185.5 L 518.513,185.5" id="" style="filter:url(#DropShadow);stroke:#616161;marker-end:none;marker-start:none;stroke-width:2.000000px;fill:none"/>
+		<rect height="22.0" id="" style="stroke:none;fill:none" width="76.0" x="555.021" y="95.5"/>
+		<text id="" style="font-family: Courier New;font-size:18pt" text-anchor="middle" x="593.021" y="106.5">
+			<tspan id="" x="593.021" y="115.5">
+				f30ab..
+			</tspan>
+		</text>
+		<rect height="14.0" id="" style="stroke:none;fill:none" width="37.0" x="355.25" y="231.5"/>
+		<text id="" style="font-family: Courier New;font-size:12pt" text-anchor="middle" x="373.75" y="238.5">
+			<tspan id="" x="373.75" y="244.5">
+				Scott
+			</tspan>
+		</text>
+		<rect height="14.0" id="" style="stroke:none;fill:none" width="37.0" x="355.25" y="210.5"/>
+		<text id="" style="font-family: Courier New;font-size:12pt" text-anchor="middle" x="373.75" y="217.5">
+			<tspan id="" x="373.75" y="223.5">
+				Scott
+			</tspan>
+		</text>
+		<rect height="14.0" id="" style="stroke:none;fill:none" width="37.0" x="355.25" y="189.5"/>
+		<text id="" style="font-family: Courier New;font-size:12pt" text-anchor="middle" x="373.75" y="196.5">
+			<tspan id="" x="373.75" y="202.5">
+				98ca9
+			</tspan>
+		</text>
+		<rect height="14.0" id="" style="stroke:none;fill:none" width="37.0" x="356.25" y="167.5"/>
+		<text id="" style="font-family: Courier New;font-size:12pt" text-anchor="middle" x="374.75" y="174.5">
+			<tspan id="" x="374.75" y="180.5">
+				184ca
+			</tspan>
+		</text>
+		<rect height="22.0" id="" style="stroke:none;fill:none" width="116.0" x="282.264" y="250.677"/>
+		<text id="" style="font-family: Monaco;font-size:8pt" text-anchor="middle" x="340.264" y="261.677">
+			<tspan id="" x="340.264" y="265.677">
+				fixed bug #1328 - stack 
+			</tspan>
+			<tspan id="" x="340.264" y="273.677">
+				overflow under certain
+			</tspan>
+		</text>
+		<path d="M 346.757,248.323 L 346.757,162.177" id="" style="filter:url(#DropShadow);marker-start:none;stroke:#616161;marker-end:none;fill:none"/>
+		<rect height="26.1462" id="" style="stroke:none;fill:none" width="56.0" x="282.264" y="223.854"/>
+		<text id="" style="font-family: GillSans;font-size:14pt" text-anchor="middle" x="310.264" y="236.9271">
+			<tspan id="" x="310.264" y="243.9271">
+				committer
+			</tspan>
+		</text>
+		<rect height="26.1462" id="" style="stroke:none;fill:none" width="56.0" x="278.264" y="202.354"/>
+		<text id="" style="font-family: GillSans;font-size:14pt" text-anchor="middle" x="306.264" y="215.4271">
+			<tspan id="" x="306.264" y="222.4271">
+				author
+			</tspan>
+		</text>
+		<rect height="26.1462" id="" style="stroke:none;fill:none" width="56.0" x="278.264" y="181.354"/>
+		<text id="" style="font-family: GillSans;font-size:14pt" text-anchor="middle" x="306.264" y="194.4271">
+			<tspan id="" x="306.264" y="201.4271">
+				parent
+			</tspan>
+		</text>
+		<rect height="26.1462" id="" style="stroke:none;fill:none" width="56.0" x="278.264" y="160.354"/>
+		<text id="" style="font-family: GillSans;font-size:14pt" text-anchor="middle" x="306.264" y="173.4271">
+			<tspan id="" x="306.264" y="180.4271">
+				tree
+			</tspan>
+		</text>
+		<path d="M 426.279,248.5 L 276.749,248.5" id="" style="filter:url(#DropShadow);stroke:#616161;marker-end:none;marker-start:none;stroke-width:2.000000px;fill:none"/>
+		<path d="M 426.764,227.5 L 277.235,227.5" id="" style="filter:url(#DropShadow);stroke:#616161;marker-end:none;marker-start:none;stroke-width:2.000000px;fill:none"/>
+		<path d="M 426.793,206.5 L 277.264,206.5" id="" style="filter:url(#DropShadow);stroke:#616161;marker-end:none;marker-start:none;stroke-width:2.000000px;fill:none"/>
+		<path d="M 426.279,185.5 L 276.749,185.5" id="" style="filter:url(#DropShadow);stroke:#616161;marker-end:none;marker-start:none;stroke-width:2.000000px;fill:none"/>
+		<rect height="22.0" id="" style="stroke:none;fill:none" width="76.0" x="313.257" y="95.5"/>
+		<text id="" style="font-family: Courier New;font-size:18pt" text-anchor="middle" x="351.257" y="106.5">
+			<tspan id="" x="351.257" y="115.5">
+				34ac2..
+			</tspan>
+		</text>
+		<g style="stroke:#000000;fill:#fff">
+			<rect height="26.1462" id="" style="stroke:none;fill:none" width="27.0" x="387.257" y="129.131"/>
+			<text id="" style="fill:#7d7d7d;font-family: GillSans;font-size:18pt" text-anchor="middle" x="400.757" y="142.2041">
+				<tspan id="" x="400.757" y="151.2041">
+					size
+				</tspan>
+			</text>
+			<rect height="26.1462" id="" style="stroke:none;fill:none" width="56.0" x="290.257" y="129.131"/>
+			<text id="" style="font-family: GillSans-Bold;font-size:18pt" text-anchor="middle" x="318.257" y="142.2041">
+				<tspan id="" x="318.257" y="151.2041">
+					commit
+				</tspan>
+			</text>
+			<path d="M 373.257,124.377 L 373.257,162.408" id="" style="filter:url(#DropShadow);stroke:#504b50;marker-end:none;marker-start:none;stroke-width:3.000000px;fill:none"/>
+			<path d="M 428.257,162.408 L 274.257,162.408" id="" style="filter:url(#DropShadow);stroke:#504b50;marker-end:none;marker-start:none;stroke-width:3.000000px;fill:none"/>
+			<rect height="154.5" id="" rx="5" ry="5" style="stroke:#504b50;stroke-width:3.000000px;fill:#bdffc1" width="154.0" x="274.257" y="122.0"/>
+			<text id="" style="fill:#ffffff;font-family: Geneva;font-size:14pt" text-anchor="middle" x="351.257" y="199.25"/>
+		</g>
+		<rect height="14.0" id="" style="stroke:none;fill:none" width="37.0" x="113.486" y="209.5"/>
+		<text id="" style="font-family: Courier New;font-size:12pt" text-anchor="middle" x="131.986" y="216.5">
+			<tspan id="" x="131.986" y="222.5">
+				Scott
+			</tspan>
+		</text>
+		<rect height="14.0" id="" style="stroke:none;fill:none" width="37.0" x="113.486" y="188.5"/>
+		<text id="" style="font-family: Courier New;font-size:12pt" text-anchor="middle" x="131.986" y="195.5">
+			<tspan id="" x="131.986" y="201.5">
+				Scott
+			</tspan>
+		</text>
+		<rect height="14.0" id="" style="stroke:none;fill:none" width="37.0" x="597.014" y="167.427"/>
+		<text id="" style="font-family: Courier New;font-size:12pt" text-anchor="middle" x="615.514" y="174.427">
+			<tspan id="" x="615.514" y="180.427">
+				0de24
+			</tspan>
+		</text>
+		<rect height="11.0" id="" style="stroke:none;fill:none" width="135.0" x="40.5" y="231.5"/>
+		<text id="" style="font-family: Monaco;font-size:8pt" text-anchor="middle" x="108.0" y="237.0">
+			<tspan id="" x="108.0" y="241.0">
+				initial commit of my project
+			</tspan>
+		</text>
+		<path d="M 105.0,227.323 L 104.993,162.177" id="" style="filter:url(#DropShadow);marker-start:none;stroke:#616161;marker-end:none;fill:none"/>
+		<rect height="26.1462" id="" style="stroke:none;fill:none" width="56.0" x="40.5" y="201.854"/>
+		<text id="" style="font-family: GillSans;font-size:14pt" text-anchor="middle" x="68.5" y="214.9271">
+			<tspan id="" x="68.5" y="221.9271">
+				committer
+			</tspan>
+		</text>
+		<rect height="26.1462" id="" style="stroke:none;fill:none" width="56.0" x="36.5" y="180.354"/>
+		<text id="" style="font-family: GillSans;font-size:14pt" text-anchor="middle" x="64.5" y="193.4271">
+			<tspan id="" x="64.5" y="200.4271">
+				author
+			</tspan>
+		</text>
+		<rect height="26.1462" id="" style="stroke:none;fill:none" width="56.0" x="36.5" y="181.354"/>
+		<text id="" style="font-family: GillSans;font-size:14pt" text-anchor="middle" x="64.5" y="194.4271"/>
+		<rect height="26.1462" id="" style="stroke:none;fill:none" width="56.0" x="36.5" y="160.354"/>
+		<text id="" style="font-family: GillSans;font-size:14pt" text-anchor="middle" x="64.5" y="173.4271">
+			<tspan id="" x="64.5" y="180.4271">
+				tree
+			</tspan>
+		</text>
+		<path d="M 184.515,227.323 L 34.985,227.323" id="" style="filter:url(#DropShadow);stroke:#616161;marker-end:none;marker-start:none;stroke-width:2.000000px;fill:none"/>
+		<path d="M 185.0,205.5 L 35.471,205.5" id="" style="filter:url(#DropShadow);stroke:#616161;marker-end:none;marker-start:none;stroke-width:2.000000px;fill:none"/>
+		<path d="M 184.515,185.5 L 34.985,185.5" id="" style="filter:url(#DropShadow);stroke:#616161;marker-end:none;marker-start:none;stroke-width:2.000000px;fill:none"/>
+		<rect height="22.0" id="" style="stroke:none;fill:none" width="76.0" x="71.493" y="95.5"/>
+		<text id="" style="font-family: Courier New;font-size:18pt" text-anchor="middle" x="109.493" y="106.5">
+			<tspan id="" x="109.493" y="115.5">
+				98ca9..
+			</tspan>
+		</text>
+		<g style="stroke:#000000;fill:#fff">
+			<rect height="26.1462" id="" style="stroke:none;fill:none" width="27.0" x="145.493" y="129.131"/>
+			<text id="" style="fill:#7d7d7d;font-family: GillSans;font-size:18pt" text-anchor="middle" x="158.993" y="142.2041">
+				<tspan id="" x="158.993" y="151.2041">
+					size
+				</tspan>
+			</text>
+			<rect height="26.1462" id="" style="stroke:none;fill:none" width="56.0" x="48.493" y="129.131"/>
+			<text id="" style="font-family: GillSans-Bold;font-size:18pt" text-anchor="middle" x="76.493" y="142.2041">
+				<tspan id="" x="76.493" y="151.2041">
+					commit
+				</tspan>
+			</text>
+			<path d="M 131.493,124.377 L 131.493,162.408" id="" style="filter:url(#DropShadow);stroke:#504b50;marker-end:none;marker-start:none;stroke-width:3.000000px;fill:none"/>
+			<path d="M 186.493,162.408 L 32.493,162.408" id="" style="filter:url(#DropShadow);stroke:#504b50;marker-end:none;marker-start:none;stroke-width:3.000000px;fill:none"/>
+			<rect height="154.5" id="" rx="5" ry="5" style="stroke:#504b50;stroke-width:3.000000px;fill:#bdffc1" width="154.0" x="32.493" y="122.0"/>
+			<text id="" style="fill:#ffffff;font-family: Geneva;font-size:14pt" text-anchor="middle" x="109.493" y="199.25"/>
+		</g>
+		<g style="stroke:#000000;fill:#fff">
+			<rect height="26.1462" id="" style="stroke:none;fill:none" width="27.0" x="629.021" y="129.131"/>
+			<text id="" style="fill:#7d7d7d;font-family: GillSans;font-size:18pt" text-anchor="middle" x="642.521" y="142.2041">
+				<tspan id="" x="642.521" y="151.2041">
+					size
+				</tspan>
+			</text>
+			<rect height="26.1462" id="" style="stroke:none;fill:none" width="56.0" x="532.021" y="129.131"/>
+			<text id="" style="font-family: GillSans-Bold;font-size:18pt" text-anchor="middle" x="560.021" y="142.2041">
+				<tspan id="" x="560.021" y="151.2041">
+					commit
+				</tspan>
+			</text>
+			<path d="M 615.021,124.377 L 615.021,162.408" id="" style="filter:url(#DropShadow);stroke:#504b50;marker-end:none;marker-start:none;stroke-width:3.000000px;fill:none"/>
+			<path d="M 670.021,162.408 L 516.021,162.408" id="" style="filter:url(#DropShadow);stroke:#504b50;marker-end:none;marker-start:none;stroke-width:3.000000px;fill:none"/>
+			<rect height="154.5" id="" rx="5" ry="5" style="stroke:#504b50;stroke-width:3.000000px;fill:#bdffc1" width="154.0" x="516.021" y="122.0"/>
+			<text id="" style="fill:#ffffff;font-family: Geneva;font-size:14pt" text-anchor="middle" x="593.021" y="199.25"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<marker id="Arrow1Lend" orient="auto" refX="0.0" refY="0.0" style="overflow:visible;">
+			
+              
+			<path d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z " id="path3666" style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;" transform="scale(0.8) rotate(180) translate(12.5,0)"/>
+			
+            
+		</marker>
+		<filter filterRes="100" id="DropShadow" x="0" y="0">
+			
+               
+			<feGaussianBlur result="MyBlur" stdDeviation="3"/>
+			
+               
+			<feOffset dx="2" dy="4" in="MyBlur" result="movedBlur"/>
+			
+               
+			<feMerge>
+				
+                   
+				<feMergeNode in="movedBlur"/>
+				
+                   
+				<feMergeNode in="SourceGraphic"/>
+				
+               
+			</feMerge>
+			
+          
+		</filter>
+	</defs>
+	<g style="stroke:#000000;fill:#fff">
+		<rect height="189.0" id="" style="fill:#dcdcdc" width="204.0" x="30.0" y="14.0"/>
+		<rect height="419.0" id="" style="fill:#dcdcdc" width="287.0" x="280.0" y="14.0"/>
+		<rect height="53.0" id="" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#c6d8ff" width="128.0" x="68.0" y="106.0"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:14pt" text-anchor="middle" x="132.0" y="132.5">
+			<tspan id="" x="132.0" y="139.5">
+				File
+			</tspan>
+		</text>
+		<rect height="17.0" id="" style="stroke:none;fill:none" width="60.0" x="102.0" y="81.0"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:12pt" text-anchor="middle" x="133.0" y="90.5">
+			<tspan id="" x="133.0" y="96.5">
+				Checkout
+			</tspan>
+		</text>
+		<rect height="309.0" id="" style="" width="232.0" x="307.5" y="81.0"/>
+		<rect height="17.0" id="" style="stroke:none;fill:none" width="111.0" x="368.0" y="102.0"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:12pt" text-anchor="middle" x="424.5" y="111.5">
+			<tspan id="" x="424.5" y="117.5">
+				Version Database
+			</tspan>
+		</text>
+		<rect height="53.0" id="" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="128.0" x="359.5" y="134.0"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:14pt" text-anchor="middle" x="423.5" y="160.5">
+			<tspan id="" x="423.5" y="167.5">
+				Version 3
+			</tspan>
+		</text>
+		<rect height="53.0" id="" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="128.0" x="359.5" y="216.0"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:14pt" text-anchor="middle" x="423.5" y="242.5">
+			<tspan id="" x="423.5" y="249.5">
+				Version 2
+			</tspan>
+		</text>
+		<rect height="53.0" id="" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="128.0" x="359.5" y="298.0"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:14pt" text-anchor="middle" x="423.5" y="324.5">
+			<tspan id="" x="423.5" y="331.5">
+				Version 1
+			</tspan>
+		</text>
+		<path d="M 307.029,194.345 L 190.625,153.215" id="" style="filter:url(#DropShadow);marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
+		<path d="M 423.5,188.5 L 423.5,214.5" id="" style="filter:url(#DropShadow);marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
+		<path d="M 423.5,270.5 L 423.5,296.5" id="" style="filter:url(#DropShadow);marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
+		<rect height="22.0" id="" style="stroke:none;fill:none" width="166.0" x="340.5" y="32.0"/>
+		<text id="" style="fill:#000000;font-family: Helvetica-Bold;font-size:18pt" text-anchor="middle" x="424.5" y="44.0">
+			<tspan id="" x="424.5" y="53.0">
+				Central VCS Server
+			</tspan>
+		</text>
+		<rect height="22.0" id="" style="stroke:none;fill:none" width="103.0" x="80.5" y="23.0"/>
+		<text id="" style="fill:#000000;font-family: Helvetica-Bold;font-size:18pt" text-anchor="middle" x="133.0" y="35.0">
+			<tspan id="" x="133.0" y="44.0">
+				Computer A
+			</tspan>
+		</text>
+		<rect height="189.0" id="" style="fill:#dcdcdc" width="204.0" x="30.0" y="244.0"/>
+		<rect height="53.0" id="" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#c6d8ff" width="128.0" x="68.0" y="336.0"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:14pt" text-anchor="middle" x="132.0" y="362.5">
+			<tspan id="" x="132.0" y="369.5">
+				File
+			</tspan>
+		</text>
+		<rect height="17.0" id="" style="stroke:none;fill:none" width="60.0" x="102.0" y="311.0"/>
+		<text id="" style="fill:#000000;font-family: Helvetica;font-size:12pt" text-anchor="middle" x="133.0" y="320.5">
+			<tspan id="" x="133.0" y="326.5">
+				Checkout
+			</tspan>
+		</text>
+		<rect height="22.0" id="" style="stroke:none;fill:none" width="103.0" x="80.5" y="253.0"/>
+		<text id="" style="fill:#000000;font-family: Helvetica-Bold;font-size:18pt" text-anchor="middle" x="133.0" y="265.0">
+			<tspan id="" x="133.0" y="274.0">
+				Computer B
+			</tspan>
+		</text>
+		<path d="M 307.042,286.238 L 187.151,338.472" id="" style="filter:url(#DropShadow);marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
+	</g>
+</svg>

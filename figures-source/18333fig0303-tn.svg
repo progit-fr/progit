@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<marker id="Arrow1Lend" orient="auto" refX="0.0" refY="0.0" style="overflow:visible;">
+			
+              
+			<path d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z " id="path3666" style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;" transform="scale(0.8) rotate(180) translate(12.5,0)"/>
+			
+            
+		</marker>
+		<filter filterRes="100" id="DropShadow" x="0" y="0">
+			
+               
+			<feGaussianBlur result="MyBlur" stdDeviation="3"/>
+			
+               
+			<feOffset dx="2" dy="4" in="MyBlur" result="movedBlur"/>
+			
+               
+			<feMerge>
+				
+                   
+				<feMergeNode in="movedBlur"/>
+				
+                   
+				<feMergeNode in="SourceGraphic"/>
+				
+               
+			</feMerge>
+			
+          
+		</filter>
+	</defs>
+	<g style="stroke:#000000;fill:#fff">
+		<path d="M 530.035,218.361 L 551.219,264.139" id="" style="filter:url(#DropShadow);stroke:#000000;marker-end:url(#Arrow1Lend);marker-start:none;stroke-width:2.000000px;fill:none"/>
+		<rect height="55.0" id="" rx="5" ry="5" style="stroke:#504c4d;stroke-width:3.000000px;fill:#d2d7d5" width="95.3569" x="469.0" y="162.0"/>
+		<text id="" style="fill:#000000;font-family: Geneva;font-size:14pt" text-anchor="middle" x="516.67845" y="189.5">
+			<tspan id="" x="516.67845" y="196.5">
+				v1.0
+			</tspan>
+		</text>
+		<path d="M 639.678,120.5 L 639.678,160.5" id="" style="filter:url(#DropShadow);stroke:#000000;marker-end:url(#Arrow1Lend);marker-start:none;stroke-width:2.000000px;fill:none"/>
+		<rect height="55.0" id="" rx="5" ry="5" style="stroke:#504c4d;stroke-width:3.000000px;fill:#e3e9e7" width="95.3569" x="592.0" y="64.0"/>
+		<text id="" style="fill:#565656;font-family: Geneva;font-size:14pt" text-anchor="middle" x="639.67845" y="91.5">
+			<tspan id="" x="639.67845" y="98.5">
+				HEAD
+			</tspan>
+		</text>
+		<path d="M 618.842,218.214 L 585.411,264.286" id="" style="filter:url(#DropShadow);stroke:#000000;marker-end:url(#Arrow1Lend);marker-start:none;stroke-width:2.000000px;fill:none"/>
+		<rect height="55.0" id="" rx="5" ry="5" style="stroke:#504c4d;stroke-width:3.000000px;fill:#d2d7d5" width="95.3569" x="592.0" y="162.0"/>
+		<text id="" style="fill:#000000;font-family: Geneva;font-size:14pt" text-anchor="middle" x="639.67845" y="189.5">
+			<tspan id="" x="639.67845" y="196.5">
+				master
+			</tspan>
+		</text>
+		<path d="M 499.143,293.0 L 426.776,293.0" id="" style="filter:url(#DropShadow);stroke:#000000;marker-end:url(#Arrow1Lend);marker-start:none;stroke-width:3.000000px;fill:none"/>
+		<path d="M 295.912,293.0 L 229.364,293.0" id="" style="filter:url(#DropShadow);stroke:#000000;marker-end:url(#Arrow1Lend);marker-start:none;stroke-width:3.000000px;fill:none"/>
+		<rect height="55.0" id="" rx="5" ry="5" style="stroke:#28502c;stroke-width:3.000000px;fill:#baffb3" width="127.864" x="500.643" y="265.5"/>
+		<text id="" style="fill:#000000;font-family: Geneva;font-size:14pt" text-anchor="middle" x="564.575" y="293.0">
+			<tspan id="" x="564.575" y="300.0">
+				f30ab
+			</tspan>
+		</text>
+		<rect height="55.0" id="" rx="5" ry="5" style="stroke:#28502c;stroke-width:3.000000px;fill:#baffb3" width="127.864" x="297.412" y="265.5"/>
+		<text id="" style="fill:#000000;font-family: Geneva;font-size:14pt" text-anchor="middle" x="361.344" y="293.0">
+			<tspan id="" x="361.344" y="300.0">
+				34ac2
+			</tspan>
+		</text>
+		<rect height="55.0" id="" rx="5" ry="5" style="stroke:#28502c;stroke-width:3.000000px;fill:#baffb3" width="127.864" x="100.0" y="265.5"/>
+		<text id="" style="fill:#000000;font-family: Geneva;font-size:14pt" text-anchor="middle" x="163.932" y="293.0">
+			<tspan id="" x="163.932" y="300.0">
+				98ca9
+			</tspan>
+		</text>
+		<path d="M 564.264,322.0 L 564.454,367.5" id="" style="filter:url(#DropShadow);stroke:#000000;marker-end:url(#Arrow1Lend);marker-start:none;stroke-width:3.000000px;fill:none"/>
+		<rect height="55.0" id="" rx="5" ry="5" style="stroke:#1b2350;stroke-width:3.000000px;fill:#d0ceff" width="127.864" x="500.643" y="369.0"/>
+		<text id="" style="fill:#ffffff;font-family: Geneva;font-size:14pt" text-anchor="middle" x="564.575" y="396.5">
+			<tspan id="" x="564.575" y="403.5">
+				Snapshot C
+			</tspan>
+		</text>
+		<path d="M 361.033,322.0 L 361.223,367.5" id="" style="filter:url(#DropShadow);stroke:#000000;marker-end:url(#Arrow1Lend);marker-start:none;stroke-width:3.000000px;fill:none"/>
+		<rect height="55.0" id="" rx="5" ry="5" style="stroke:#1b2350;stroke-width:3.000000px;fill:#d0ceff" width="127.864" x="297.412" y="369.0"/>
+		<text id="" style="fill:#ffffff;font-family: Geneva;font-size:14pt" text-anchor="middle" x="361.344" y="396.5">
+			<tspan id="" x="361.344" y="403.5">
+				Snapshot B
+			</tspan>
+		</text>
+		<path d="M 164.111,322.0 L 164.393,367.5" id="" style="filter:url(#DropShadow);stroke:#000000;marker-end:url(#Arrow1Lend);marker-start:none;stroke-width:3.000000px;fill:none"/>
+		<rect height="55.0" id="" rx="5" ry="5" style="stroke:#1b2350;stroke-width:3.000000px;fill:#d0ceff" width="127.864" x="100.641" y="369.0"/>
+		<text id="" style="fill:#ffffff;font-family: Geneva;font-size:14pt" text-anchor="middle" x="164.573" y="396.5">
+			<tspan id="" x="164.573" y="403.5">
+				Snapshot A
+			</tspan>
+		</text>
+	</g>
+</svg>
