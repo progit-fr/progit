@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Progit figures\n"
 "POT-Creation-Date: 2010-09-04 22:22+0200\n"
-"PO-Revision-Date: 2010-09-04 22:59+0100\n"
+"PO-Revision-Date: 2010-09-25 19:24+0100\n"
 "Last-Translator: Jean-Noël Avila <jn.avila@free.fr>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -698,37 +698,37 @@ msgstr "0d708"
 #: 18333fig0513-tn.svg:73(tspan)
 #: 18333fig0512-tn.svg:71(tspan)
 msgid "85127"
-msgstr ""
+msgstr "85127"
 
 #: 18333fig0514-tn.svg:95(tspan)
 #: 18333fig0513-tn.svg:95(tspan)
 msgid "aad88"
-msgstr ""
+msgstr "aad88"
 
 #: 18333fig0514-tn.svg:102(tspan)
 #: 18333fig0513-tn.svg:102(tspan)
 msgid "fba9a"
-msgstr ""
+msgstr "fba9a"
 
 #: 18333fig0514-tn.svg:109(tspan)
 #: 18333fig0513-tn.svg:109(tspan)
 msgid "cd685"
-msgstr ""
+msgstr "cd685"
 
 #: 18333fig0514-tn.svg:117(tspan)
 #: 18333fig0513-tn.svg:117(tspan)
 msgid "origin/featureBee"
-msgstr ""
+msgstr "origin/fonctionBee"
 
 #: 18333fig0514-tn.svg:123(tspan)
 #: 18333fig0513-tn.svg:123(tspan)
 msgid "origin/featureA"
-msgstr ""
+msgstr "origin/fonctionA"
 
 #: 18333fig0514-tn.svg:129(tspan)
 #: 18333fig0513-tn.svg:129(tspan)
 msgid "774b3"
-msgstr ""
+msgstr "774b3"
 
 #: 18333fig0510-tn.svg:38(tspan)
 #: 18333fig0509-tn.svg:38(tspan)
@@ -738,7 +738,7 @@ msgstr ""
 #: 18333fig0505-tn.svg:37(tspan)
 #: 18333fig0504-tn.svg:37(tspan)
 msgid "fbff5"
-msgstr ""
+msgstr "fbff5"
 
 #: 18333fig0510-tn.svg:52(tspan)
 #: 18333fig0509-tn.svg:52(tspan)
@@ -752,21 +752,21 @@ msgstr "prob54"
 #: 18333fig0508-tn.svg:72(tspan)
 #: 18333fig0507-tn.svg:72(tspan)
 msgid "8149a"
-msgstr ""
+msgstr "81149a"
 
 #: 18333fig0510-tn.svg:79(tspan)
 #: 18333fig0509-tn.svg:79(tspan)
 #: 18333fig0508-tn.svg:79(tspan)
 #: 18333fig0507-tn.svg:79(tspan)
 msgid "23ac6"
-msgstr ""
+msgstr "23ac6"
 
 #: 18333fig0510-tn.svg:86(tspan)
 #: 18333fig0509-tn.svg:86(tspan)
 #: 18333fig0508-tn.svg:86(tspan)
 #: 18333fig0507-tn.svg:86(tspan)
 msgid "4af42"
-msgstr ""
+msgstr "4af42"
 
 #: 18333fig0510-tn.svg:100(tspan)
 #: 18333fig0509-tn.svg:100(tspan)
@@ -775,7 +775,7 @@ msgstr ""
 #: 18333fig0505-tn.svg:43(tspan)
 #: 18333fig0504-tn.svg:43(tspan)
 msgid "738ee"
-msgstr ""
+msgstr "738ee"
 
 #: 18333fig0510-tn.svg:106(tspan)
 #: 18333fig0509-tn.svg:106(tspan)
@@ -783,12 +783,12 @@ msgstr ""
 #: 18333fig0506-tn.svg:79(tspan)
 #: 18333fig0505-tn.svg:79(tspan)
 msgid "72bbc"
-msgstr ""
+msgstr "72bbc"
 
 #: 18333fig0510-tn.svg:115(tspan)
 #: 18333fig0509-tn.svg:115(tspan)
 msgid "8059c"
-msgstr ""
+msgstr "8059c"
 
 #: 18333fig0503-tn.svg:37(tspan)
 #: 18333fig0503-tn.svg:46(tspan)
@@ -937,14 +937,14 @@ msgstr "git.notresociete.com"
 #: 18333fig0324-tn.svg:112(tspan)
 #: 18333fig0323-tn.svg:112(tspan)
 msgid "a38de"
-msgstr ""
+msgstr "a38de"
 
 #: 18333fig0326-tn.svg:106(tspan)
 #: 18333fig0325-tn.svg:106(tspan)
 #: 18333fig0324-tn.svg:118(tspan)
 #: 18333fig0323-tn.svg:118(tspan)
 msgid "893cf"
-msgstr ""
+msgstr "893cf"
 
 #: 18333fig0326-tn.svg:114(tspan)
 #: 18333fig0326-tn.svg:128(tspan)
@@ -956,7 +956,7 @@ msgstr ""
 #: 18333fig0324-tn.svg:147(tspan)
 #: 18333fig0323-tn.svg:126(tspan)
 msgid "31b8e"
-msgstr ""
+msgstr "31b8e"
 
 #: 18333fig0326-tn.svg:120(tspan)
 #: 18333fig0326-tn.svg:134(tspan)
@@ -966,7 +966,7 @@ msgstr ""
 #: 18333fig0324-tn.svg:153(tspan)
 #: 18333fig0323-tn.svg:132(tspan)
 msgid "190a3"
-msgstr ""
+msgstr "190a3"
 
 #: 18333fig0326-tn.svg:142(tspan)
 #: 18333fig0325-tn.svg:142(tspan)
@@ -996,7 +996,7 @@ msgstr "Un autre pousse"
 
 #: 18333fig0322-tn.svg:106(tspan)
 msgid "git clone schacon@git.ourcompany.com:project.git"
-msgstr ""
+msgstr "git clone schacon@git.notresociete.com:project.git"
 
 #: 18333fig0322-tn.svg:119(tspan)
 msgid "Remote Branch"
@@ -1012,7 +1012,7 @@ msgstr "Branche locale"
 #: 18333fig0314-tn.svg:43(tspan)
 #: 18333fig0313-tn.svg:43(tspan)
 msgid "C0"
-msgstr ""
+msgstr "C0"
 
 #: 18333fig0317-tn.svg:64(tspan)
 #: 18333fig0316-tn.svg:116(tspan)
@@ -1055,7 +1055,7 @@ msgstr "correctif"
 #: 18333fig0305-tn.svg:41(tspan)
 #: 18333fig0303-tn.svg:60(tspan)
 msgid "f30ab"
-msgstr ""
+msgstr "f30ab"
 
 #: 18333fig0309-tn.svg:46(tspan)
 #: 18333fig0308-tn.svg:45(tspan)
@@ -1065,7 +1065,7 @@ msgstr ""
 #: 18333fig0303-tn.svg:66(tspan)
 #: 18333fig0302-tn.svg:78(tspan)
 msgid "34ac2"
-msgstr ""
+msgstr "34ac2"
 
 #: 18333fig0309-tn.svg:52(tspan)
 #: 18333fig0308-tn.svg:51(tspan)
@@ -1075,17 +1075,17 @@ msgstr ""
 #: 18333fig0303-tn.svg:72(tspan)
 #: 18333fig0302-tn.svg:140(tspan)
 msgid "98ca9"
-msgstr ""
+msgstr "98ca9"
 
 #: 18333fig0309-tn.svg:59(tspan)
 #: 18333fig0308-tn.svg:58(tspan)
 #: 18333fig0307-tn.svg:58(tspan)
 msgid "c2b9e"
-msgstr ""
+msgstr "c2b9e"
 
 #: 18333fig0309-tn.svg:65(tspan)
 msgid "87ab2"
-msgstr ""
+msgstr "87ab2"
 
 #: 18333fig0309-tn.svg:72(tspan)
 #: 18333fig0308-tn.svg:65(tspan)
@@ -1094,7 +1094,7 @@ msgstr ""
 #: 18333fig0305-tn.svg:60(tspan)
 #: 18333fig0303-tn.svg:45(tspan)
 msgid "HEAD"
-msgstr ""
+msgstr "HEAD"
 
 #: 18333fig0309-tn.svg:79(tspan)
 #: 18333fig0308-tn.svg:72(tspan)
@@ -1102,11 +1102,11 @@ msgstr ""
 #: 18333fig0306-tn.svg:48(tspan)
 #: 18333fig0305-tn.svg:66(tspan)
 msgid "testing"
-msgstr ""
+msgstr "test"
 
 #: 18333fig0303-tn.svg:38(tspan)
 msgid "v1.0"
-msgstr ""
+msgstr "v1.0"
 
 #: 18333fig0303-tn.svg:79(tspan)
 #: 18333fig0302-tn.svg:44(tspan)
@@ -1126,7 +1126,7 @@ msgstr "Instantané A"
 #: 18333fig0302-tn.svg:37(tspan)
 #: 18333fig0301-tn.svg:56(tspan)
 msgid "92ec2"
-msgstr ""
+msgstr "92ec2"
 
 #: 18333fig0302-tn.svg:66(tspan)
 #: 18333fig0302-tn.svg:72(tspan)
@@ -1137,15 +1137,15 @@ msgstr ""
 #: 18333fig0301-tn.svg:44(tspan)
 #: 18333fig0301-tn.svg:50(tspan)
 msgid "Scott"
-msgstr ""
+msgstr "Scott"
 
 #: 18333fig0302-tn.svg:84(tspan)
 msgid "add feature #32 - ability to"
-msgstr ""
+msgstr "ajout fonction #32 - capacité à"
 
 #: 18333fig0302-tn.svg:87(tspan)
 msgid "add new formats to the central"
-msgstr ""
+msgstr "ajout des nouveaux formats au central"
 
 #: 18333fig0302-tn.svg:94(tspan)
 #: 18333fig0302-tn.svg:162(tspan)
@@ -1168,23 +1168,23 @@ msgstr "parent"
 
 #: 18333fig0302-tn.svg:122(tspan)
 msgid "f30ab.."
-msgstr ""
+msgstr "f30ab.."
 
 #: 18333fig0302-tn.svg:146(tspan)
 msgid "184ca"
-msgstr ""
+msgstr "184ca"
 
 #: 18333fig0302-tn.svg:152(tspan)
 msgid "fixed bug #1328 - stack"
-msgstr ""
+msgstr "correction bug #1328 - pile"
 
 #: 18333fig0302-tn.svg:155(tspan)
 msgid "overflow under certain"
-msgstr ""
+msgstr "dépasser sous certaines"
 
 #: 18333fig0302-tn.svg:190(tspan)
 msgid "34ac2.."
-msgstr ""
+msgstr "34ac2.."
 
 #: 18333fig0302-tn.svg:197(tspan)
 #: 18333fig0302-tn.svg:269(tspan)
@@ -1195,7 +1195,7 @@ msgstr ""
 #: 18333fig0301-tn.svg:223(tspan)
 #: 18333fig0301-tn.svg:304(tspan)
 msgid "size"
-msgstr ""
+msgstr "taille"
 
 #: 18333fig0302-tn.svg:203(tspan)
 #: 18333fig0302-tn.svg:275(tspan)
@@ -1206,7 +1206,7 @@ msgstr "commit"
 
 #: 18333fig0302-tn.svg:226(tspan)
 msgid "0de24"
-msgstr ""
+msgstr "0de24"
 
 #: 18333fig0302-tn.svg:232(tspan)
 #: 18333fig0301-tn.svg:62(tspan)
@@ -1216,7 +1216,7 @@ msgstr "première validation du projet"
 #: 18333fig0302-tn.svg:262(tspan)
 #: 18333fig0301-tn.svg:37(tspan)
 msgid "98ca9.."
-msgstr ""
+msgstr "98ca9.."
 
 #: 18333fig0301-tn.svg:108(tspan)
 msgid "The MIT License"
@@ -1224,79 +1224,79 @@ msgstr "Licence MIT"
 
 #: 18333fig0301-tn.svg:114(tspan)
 msgid "Copyright (c) &lt;year&gt; &lt;copyright"
-msgstr ""
+msgstr "Copyright (c) &lt;year&gt; &lt;copyright"
 
 #: 18333fig0301-tn.svg:120(tspan)
 msgid "Permission is hereby granted,"
-msgstr ""
+msgstr "Permission est accordée"
 
 #: 18333fig0301-tn.svg:126(tspan)
 msgid "911e7.."
-msgstr ""
+msgstr "911e7.."
 
 #: 18333fig0301-tn.svg:150(tspan)
 msgid "require 'rubygems'"
-msgstr ""
+msgstr "require 'rubygems'"
 
 #: 18333fig0301-tn.svg:153(tspan)
 msgid "require 'pp'"
-msgstr ""
+msgstr "require 'pp'"
 
 #: 18333fig0301-tn.svg:159(tspan)
 msgid "module Test"
-msgstr ""
+msgstr "module Test"
 
 #: 18333fig0301-tn.svg:162(tspan)
 msgid "module Tester"
-msgstr ""
+msgstr "module Testeur"
 
 #: 18333fig0301-tn.svg:171(tspan)
 msgid "cba0a.."
-msgstr ""
+msgstr "cba0a.."
 
 #: 18333fig0301-tn.svg:198(tspan)
 msgid "== Testing Library"
-msgstr ""
+msgstr "== Bibliothèque de test"
 
 #: 18333fig0301-tn.svg:204(tspan)
 msgid "This library is used to test"
-msgstr ""
+msgstr "Cette bibliothèque sert à tester"
 
 #: 18333fig0301-tn.svg:207(tspan)
 msgid "Ruby projects"
-msgstr ""
+msgstr "projets Ruby"
 
 #: 18333fig0301-tn.svg:216(tspan)
 msgid "5b1d3.."
-msgstr ""
+msgstr "5b1d3.."
 
 #: 18333fig0301-tn.svg:240(tspan)
 msgid "LICENSE"
-msgstr ""
+msgstr "LICENCE"
 
 #: 18333fig0301-tn.svg:246(tspan)
 msgid "test.rb"
-msgstr ""
+msgstr "test.rb"
 
 #: 18333fig0301-tn.svg:258(tspan)
 msgid "911e7"
-msgstr ""
+msgstr "911e7"
 
 #: 18333fig0301-tn.svg:264(tspan)
 msgid "cba0a"
-msgstr ""
+msgstr "cba0a"
 
 #: 18333fig0301-tn.svg:271(tspan)
 msgid "5b1d3"
-msgstr ""
+msgstr "5b1d3"
 
 #: 18333fig0301-tn.svg:298(tspan)
 msgid "92ec2.."
-msgstr ""
+msgstr "92ec2.."
 
 #: 18333fig0201-tn.svg:30(tspan)
 msgid "Staged"
-msgstr ""
+msgstr "Indéxé"
 
 #: 18333fig0201-tn.svg:36(tspan)
 msgid "Modified"
@@ -1318,7 +1318,7 @@ msgstr "Validation"
 
 #: 18333fig0201-tn.svg:64(tspan)
 msgid "File Status Lifecycle"
-msgstr ""
+msgstr "Cycle des état d'un fichier"
 
 #: 18333fig0201-tn.svg:72(tspan)
 msgid "Edit the file"
@@ -1376,7 +1376,7 @@ msgstr "Fichier A"
 #: 18333fig0104-tn.svg:104(tspan)
 #: 18333fig0104-tn.svg:118(tspan)
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: 18333fig0104-tn.svg:55(tspan)
 msgid "File B"
@@ -1394,7 +1394,7 @@ msgstr "Fichier C"
 #: 18333fig0102-tn.svg:70(tspan)
 #: 18333fig0101-tn.svg:62(tspan)
 msgid "Version 1"
-msgstr ""
+msgstr "Version 1"
 
 #: 18333fig0104-tn.svg:73(tspan)
 #: 18333fig0104-tn.svg:163(tspan)
@@ -1404,7 +1404,7 @@ msgstr ""
 #: 18333fig0102-tn.svg:64(tspan)
 #: 18333fig0101-tn.svg:56(tspan)
 msgid "Version 2"
-msgstr ""
+msgstr "Version 2"
 
 #: 18333fig0104-tn.svg:79(tspan)
 #: 18333fig0104-tn.svg:169(tspan)
@@ -1414,45 +1414,45 @@ msgstr ""
 #: 18333fig0102-tn.svg:58(tspan)
 #: 18333fig0101-tn.svg:50(tspan)
 msgid "Version 3"
-msgstr ""
+msgstr "Version 3"
 
 #: 18333fig0104-tn.svg:85(tspan)
 #: 18333fig0104-tn.svg:175(tspan)
 msgid "Version 4"
-msgstr ""
+msgstr "Version 4"
 
 #: 18333fig0104-tn.svg:91(tspan)
 #: 18333fig0104-tn.svg:181(tspan)
 msgid "Version 5"
-msgstr ""
+msgstr "Version 5"
 
 #: 18333fig0104-tn.svg:97(tspan)
 #: 18333fig0104-tn.svg:110(tspan)
 #: 18333fig0104-tn.svg:124(tspan)
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: 18333fig0104-tn.svg:131(tspan)
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: 18333fig0104-tn.svg:187(tspan)
 #: 18333fig0104-tn.svg:205(tspan)
 msgid "A1"
-msgstr ""
+msgstr "A1"
 
 #: 18333fig0104-tn.svg:223(tspan)
 #: 18333fig0104-tn.svg:241(tspan)
 msgid "A2"
-msgstr ""
+msgstr "A2"
 
 #: 18333fig0104-tn.svg:229(tspan)
 msgid "B1"
-msgstr ""
+msgstr "B1"
 
 #: 18333fig0104-tn.svg:247(tspan)
 msgid "B2"
-msgstr ""
+msgstr "B3"
 
 #: 18333fig0104-tn.svg:260(tspan)
 #: 18333fig0104-tn.svg:267(tspan)
@@ -1506,5 +1506,5 @@ msgstr "Ordinateur local"
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: 18333fig0101-tn.svg:0(None)
 msgid "translator-credits"
-msgstr ""
+msgstr "crédits traducteurs"
 
