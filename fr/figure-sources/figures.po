@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Progit figures\n"
 "POT-Creation-Date: 2010-09-04 22:22+0200\n"
-"PO-Revision-Date: 2010-09-25 19:24+0100\n"
+"PO-Revision-Date: 2010-10-23 12:35+0100\n"
 "Last-Translator: Jean-Noël Avila <jn.avila@free.fr>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -74,12 +74,12 @@ msgstr "arbre"
 #: 18333fig0904-tn.svg:101(tspan)
 #: 18333fig0903-tn.svg:81(tspan)
 msgid "third commit"
-msgstr "troisième validation"
+msgstr "3<span dx=\"-50%\" font-size=\"50%\">ème</span> validation"
 
 #: 18333fig0904-tn.svg:107(tspan)
 #: 18333fig0903-tn.svg:93(tspan)
 msgid "second commit"
-msgstr "seconde validation"
+msgstr "2nde validation"
 
 #: 18333fig0904-tn.svg:113(tspan)
 #: 18333fig0903-tn.svg:99(tspan)
@@ -89,7 +89,7 @@ msgstr "fdf4fc"
 #: 18333fig0904-tn.svg:119(tspan)
 #: 18333fig0903-tn.svg:105(tspan)
 msgid "first commit"
-msgstr "première validation"
+msgstr "1ère validation"
 
 #: 18333fig0904-tn.svg:125(tspan)
 #: 18333fig0903-tn.svg:111(tspan)
@@ -129,7 +129,7 @@ msgstr "\"version 2\""
 #: 18333fig0904-tn.svg:188(tspan)
 #: 18333fig0903-tn.svg:174(tspan)
 msgid "\"new file\""
-msgstr "\"nouveau fichier\""
+msgstr "\"nouveau\""
 
 #: 18333fig0901-tn.svg:37(tspan)
 msgid "git.rb"
@@ -858,7 +858,7 @@ msgstr "partagé"
 #: 18333fig0323-tn.svg:45(tspan)
 #: 18333fig0322-tn.svg:45(tspan)
 msgid "My Computer"
-msgstr "Mon Ordinateur"
+msgstr "Mon PC"
 
 #: 18333fig0339-tn.svg:45(tspan)
 #: 18333fig0338-tn.svg:45(tspan)
@@ -1145,7 +1145,7 @@ msgstr "ajout fonction #32 - capacité à"
 
 #: 18333fig0302-tn.svg:87(tspan)
 msgid "add new formats to the central"
-msgstr "ajout des nouveaux formats au central"
+msgstr "ajout nouveaux formats au central"
 
 #: 18333fig0302-tn.svg:94(tspan)
 #: 18333fig0302-tn.svg:162(tspan)
@@ -1318,7 +1318,7 @@ msgstr "Validation"
 
 #: 18333fig0201-tn.svg:64(tspan)
 msgid "File Status Lifecycle"
-msgstr "Cycle des état d'un fichier"
+msgstr "Cycle d'un fichier"
 
 #: 18333fig0201-tn.svg:72(tspan)
 msgid "Edit the file"
