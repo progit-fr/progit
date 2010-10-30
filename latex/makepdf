@@ -10,10 +10,11 @@ $here = File.expand_path(File.dirname(__FILE__))
 $root = File.join($here, '..')
 $outDir = File.join($root, 'pdf')
 
-def figures(&block)
+def figures(lang,&block)
 	begin
 		Dir["#$root/figures/18333*.png"].each do |file|
 			cp(file, file.sub(/18333fig0(\d)0?(\d+)\-tn/, '\1.\2'))
+			cp(Dir["#$root/#{lang}/figures/*.png"],"#$root/figures")
 		end
 		block.call
 	ensure
@@ -148,8 +149,8 @@ unless missing.empty?
 	exit
 end
 
-figures do
-	languages.each do |lang|
+languages.each do |lang|
+        figures(lang) do
 		config = $config['default'].merge($config[lang]) rescue $config['default']
 
 		puts "#{lang}:"

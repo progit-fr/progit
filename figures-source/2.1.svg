@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs/>
+	<g style="stroke:#000000;fill:#fff">
+		<rect height="61.4271" id="" rx="7.63199415018" ry="30.71355" style="stroke:#616161;stroke-width:3.000000px;fill:#8ab5eb" width="131.233" x="493.486" y="72.9672"/>
+		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: BryantPro-Bold;font-size:16pt" x="493.486" y="73.9672">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="15.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="559.1025" y="111.68075">
+				Staged
+			</tspan>
+		</text>
+		<rect height="61.4271" id="" rx="9.15383115328" ry="30.71355" style="stroke:#616161;stroke-width:3.000000px;fill:#f5ffb1" width="112.206" x="345.0" y="72.9672"/>
+		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: BryantPro-Bold;font-size:16pt" x="345.0" y="73.9672">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="15.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="401.103" y="111.68075">
+				Modified
+			</tspan>
+		</text>
+		<rect height="61.4271" id="" rx="8.53993871278" ry="30.71355" style="stroke:#616161;stroke-width:3.000000px;fill:#c5e0be" width="119.0" x="185.103" y="72.9672"/>
+		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: BryantPro-Bold;font-size:16pt" x="185.103" y="73.9672">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="15.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="244.603" y="111.68075">
+				Unmodified
+			</tspan>
+		</text>
+		<path d="M 244.103,149.163 L 244.103,387.0" id="" style="marker-start:none;stroke:#868686;stroke-width:3.000000px;marker-end:none;fill:none"/>
+		<path d="M 400.603,147.394 L 400.603,387.0" id="" style="marker-start:none;stroke:#868686;stroke-width:3.000000px;marker-end:none;fill:none"/>
+		<path d="M 558.603,147.394 L 558.603,385.231" id="" style="marker-start:none;stroke:#868686;stroke-width:3.000000px;marker-end:none;fill:none"/>
+		<rect height="17.0" id="" style="stroke:none;fill:none" width="64.0" x="278.767" y="174.934"/>
+		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica;font-size:12pt" x="279.767" y="175.934">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="13.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="310.767" y="190.434">
+				stage files
+			</tspan>
+		</text>
+		<path d="M 558.603004774,367.926607336 L 290.023933729,367.926678863  L 290.023939007,387.745729649  L 244.103,349.999891878  L 290.023918903,312.254029649  L 290.023924181,332.073080434  L 558.602995226,332.073008907 z" id="" style="stroke:#b00600;fill:#ff817f"/>
+		<rect height="17.0" id="" style="stroke:none;fill:none" width="49.0" x="376.103" y="343.294"/>
+		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica;font-size:12pt" x="377.103" y="344.294">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="13.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="400.603" y="358.794">
+				Commit
+			</tspan>
+		</text>
+		<rect height="29.0" id="" style="stroke:none;fill:none" width="231.0" x="195.267" y="19.0"/>
+		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica-Bold;font-size:24pt" x="196.267" y="20.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="23.0pt" font-weight="bold" id="" stroke="#000000" text-align="center" text-anchor="middle" x="310.767" y="45.5">
+				File Status Lifecycle
+			</tspan>
+		</text>
+		<path d="M 244.103,177.073050785 L 354.682071045,177.073050785  L 354.682071045,157.254  L 400.603,194.99985  L 354.682071045,232.7457  L 354.682071045,212.926649215  L 244.103,212.926649215 z" id="" style="stroke:#b00600;fill:#ff817f"/>
+		<path d="M 400.603,235.073050785 L 512.682071045,235.073050785  L 512.682071045,215.254  L 558.603,252.99985  L 512.682071045,290.7457  L 512.682071045,270.926649215  L 400.603,270.926649215 z" id="" style="stroke:#b00600;fill:#ff817f"/>
+		<rect height="17.0" id="" style="stroke:none;fill:none" width="70.0" x="277.767" y="186.163"/>
+		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica;font-size:12pt" x="278.767" y="187.163">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="13.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="312.767" y="201.663">
+				Edit the file
+			</tspan>
+		</text>
+		<rect height="17.0" id="" style="stroke:none;fill:none" width="82.0" x="431.233" y="245.0"/>
+		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica;font-size:12pt" x="432.233" y="246.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="13.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="472.233" y="260.5">
+				Stage the file
+			</tspan>
+		</text>
+		<rect height="61.4271" id="" rx="9.15383115328" ry="30.71355" style="stroke:#616161;stroke-width:3.000000px;fill:#e0a09b" width="112.206" x="29.0" y="72.9672"/>
+		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: BryantPro-Bold;font-size:16pt" x="29.0" y="73.9672">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="15.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="85.103" y="111.68075">
+				Untracked
+			</tspan>
+		</text>
+		<path d="M 84.603,149.163 L 84.603,387.0" id="" style="marker-start:none;stroke:#868686;stroke-width:3.000000px;marker-end:none;fill:none"/>
+		<path d="M 84.603,208.073050785 L 198.182071045,208.073050785  L 198.182071045,188.254  L 244.103,225.99985  L 198.182071045,263.7457  L 198.182071045,243.926649215  L 84.603,243.926649215 z" id="" style="stroke:#363636;fill:#8d8c85"/>
+		<path d="M 244.103004774,314.926627976 L 130.523933729,314.926658224  L 130.523939007,334.745709009  L 84.603,296.999871239  L 130.523918903,259.254009009  L 130.523924181,279.073059795  L 244.102995226,279.073029547 z" id="" style="stroke:#363636;fill:#8d8c85"/>
+		<rect height="17.0" id="" style="stroke:none;fill:none" width="71.0" x="119.0" y="218.0"/>
+		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica;font-size:12pt" x="120.0" y="219.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="13.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="154.5" y="233.5">
+				Add the file
+			</tspan>
+		</text>
+		<rect height="17.0" id="" style="stroke:none;fill:none" width="98.0" x="127.0" y="288.0"/>
+		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica;font-size:12pt" x="128.0" y="289.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="13.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="176.0" y="303.5">
+				Remove the file
+			</tspan>
+		</text>
+	</g>
+</svg>

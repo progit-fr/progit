@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs/>
+	<g style="stroke:#000000;fill:#fff">
+		<rect height="61.4271" id="" rx="7.63199415018" ry="30.71355" style="stroke:#616161;stroke-width:3.000000px;fill:#8ab5eb" width="131.233" x="359.253" y="61.9672"/>
+		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: BryantPro-Bold;font-size:16pt" x="359.253" y="62.9672">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="15.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="424.8695" y="92.68075">
+				Git Directory
+			</tspan>
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="15.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="424.8695" y="108.68075">
+				(Repository)
+			</tspan>
+		</text>
+		<rect height="61.4271" id="" rx="9.15383115328" ry="30.71355" style="stroke:#616161;stroke-width:3.000000px;fill:#f5ffb1" width="112.206" x="210.767" y="61.9672"/>
+		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: BryantPro-Bold;font-size:16pt" x="210.767" y="62.9672">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="15.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="266.87" y="100.68075">
+				Staging Area
+			</tspan>
+		</text>
+		<rect height="61.4271" id="" rx="9.15383115328" ry="30.71355" style="stroke:#616161;stroke-width:3.000000px;fill:#c5e0be" width="112.206" x="52.767" y="61.9672"/>
+		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: BryantPro-Bold;font-size:16pt" x="52.767" y="62.9672">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="15.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="108.87" y="100.68075">
+				Working Directory
+			</tspan>
+		</text>
+		<path d="M 109.87,138.163 L 108.87,417.0" id="" style="marker-start:none;stroke:#868686;stroke-width:3.000000px;marker-end:none;fill:none"/>
+		<path d="M 266.37,136.394 L 266.37,417.0" id="" style="marker-start:none;stroke:#868686;stroke-width:3.000000px;marker-end:none;fill:none"/>
+		<path d="M 424.37,136.394 L 424.37,417.0" id="" style="marker-start:none;stroke:#868686;stroke-width:3.000000px;marker-end:none;fill:none"/>
+		<rect height="17.0" id="" style="stroke:none;fill:none" width="64.0" x="144.534" y="163.934"/>
+		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica;font-size:12pt" x="145.534" y="164.934">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="13.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="176.534" y="179.434">
+				stage files
+			</tspan>
+		</text>
+		<path d="M 424.331877342,199.260110749 L 155.60040286,198.693867687  L 155.558642307,218.512874476  L 109.717349252,180.67034867  L 155.717710226,143.021342061  L 155.675949673,162.84034885  L 424.407424154,163.406591912 z" id="" style="stroke:#b00600;fill:#ff817f"/>
+		<rect height="17.0" id="" style="stroke:none;fill:none" width="129.0" x="201.87" y="171.694"/>
+		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica;font-size:12pt" x="202.87" y="172.694">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="13.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="266.37" y="187.194">
+				Checkout the project
+			</tspan>
+		</text>
+		<rect height="29.0" id="" style="stroke:none;fill:none" width="197.0" x="167.87" y="12.0"/>
+		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica-Bold;font-size:24pt" x="168.87" y="13.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="23.0pt" font-weight="bold" id="" stroke="#000000" text-align="center" text-anchor="middle" x="266.37" y="38.5">
+				Local Operations
+			</tspan>
+		</text>
+		<path d="M 109.36621484,260.088869749 L 220.447285334,260.077805827  L 220.445311313,240.25875514  L 266.369999611,278.000031126  L 220.452830454,315.750454765  L 220.450856432,295.931404078  L 109.369785938,295.942468 z" id="" style="stroke:#b00600;fill:#ff817f"/>
+		<path d="M 266.37,348.073050785 L 378.449071045,348.073050785  L 378.449071045,328.254  L 424.37,365.99985  L 378.449071045,403.7457  L 378.449071045,383.926649215  L 266.37,383.926649215 z" id="" style="stroke:#b00600;fill:#ff817f"/>
+		<rect height="17.0" id="" style="stroke:none;fill:none" width="49.0" x="309.833" y="357.333"/>
+		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica;font-size:12pt" x="310.833" y="358.333">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="13.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="334.333" y="372.833">
+				Commit
+			</tspan>
+		</text>
+		<rect height="17.0" id="" style="stroke:none;fill:none" width="66.0" x="136.333" y="269.333"/>
+		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica;font-size:12pt" x="137.333" y="270.333">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="13.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="169.333" y="284.833">
+				Stage files
+			</tspan>
+		</text>
+	</g>
+</svg>
