@@ -1,88 +1,88 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
 		<marker id="Arrow1Lend" orient="auto" refX="0.0" refY="0.0" style="overflow:visible;">
 			
               
-			<path d="M -10,0.0 L -10.0,-2.0 L 0.0,0.0 L -10.0,2.0 z " id="path3666" style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"/>
+			<path d="M -10,0.0 L -10.0,-2.0 L 0.0,0.0 L -10.0,2.0 z " id="path3666" style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0px;marker-start:none;"/>
 			
             
 		</marker>
 	</defs>
 	<g style="stroke:#000000;fill:#fff">
-		<rect height="189.0" id="" style="fill:#dcdcdc" width="204.0" x="30.0" y="14.0"/>
-		<rect height="419.0" id="" style="fill:#dcdcdc" width="287.0" x="280.0" y="14.0"/>
-		<rect height="53.0" id="" rx="5.74409901134" ry="26.5" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#c6d8ff" width="128.0" x="68.0" y="106.0"/>
-		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica;font-size:14pt" x="68.0" y="106.0">
-			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="13.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="132.0" y="139.5">
+		<rect height="189.0" id="15" style="fill:#dcdcdc" width="204.0" x="30.0" y="14.0"/>
+		<rect height="419.0" id="14" style="fill:#dcdcdc" width="287.0" x="280.0" y="14.0"/>
+		<rect height="53.0" id="3" rx="5.74409901134" ry="26.5" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#c6d8ff" width="128.0" x="68.0" y="106.0"/>
+		<text id="3_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:14px" x="68.0" y="106.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="3_line1" stroke="#000000" text-align="center" text-anchor="middle" x="132.0" y="139.5">
 				File
 			</tspan>
 		</text>
-		<rect height="17.0" id="" style="stroke:none;fill:none" width="60.0" x="102.0" y="81.0"/>
-		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica;font-size:12pt" x="103.0" y="82.0">
-			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="13.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="132.0" y="96.5">
+		<rect height="17.0" id="4" style="stroke:none;fill:none" width="60.0" x="102.0" y="81.0"/>
+		<text id="4_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="102.0" y="81.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="4_line1" stroke="#000000" text-align="center" text-anchor="middle" x="132.0" y="96.5">
 				Checkout
 			</tspan>
 		</text>
-		<rect height="309.0" id="" style="" width="232.0" x="307.5" y="81.0"/>
-		<rect height="17.0" id="" style="stroke:none;fill:none" width="111.0" x="368.0" y="102.0"/>
-		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica;font-size:12pt" x="369.0" y="103.0">
-			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="13.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="423.5" y="117.5">
+		<rect height="309.0" id="5" style="" width="232.0" x="307.5" y="81.0"/>
+		<rect height="17.0" id="6" style="stroke:none;fill:none" width="111.0" x="368.0" y="102.0"/>
+		<text id="6_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="368.0" y="102.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="6_line1" stroke="#000000" text-align="center" text-anchor="middle" x="423.5" y="117.5">
 				Version Database
 			</tspan>
 		</text>
-		<rect height="53.0" id="" rx="5.74409901134" ry="26.5" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="128.0" x="359.5" y="134.0"/>
-		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica;font-size:14pt" x="359.5" y="134.0">
-			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="13.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="423.5" y="167.5">
+		<rect height="53.0" id="7" rx="5.74409901134" ry="26.5" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="128.0" x="359.5" y="134.0"/>
+		<text id="7_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:14px" x="359.5" y="134.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="7_line1" stroke="#000000" text-align="center" text-anchor="middle" x="423.5" y="167.5">
 				Version 3
 			</tspan>
 		</text>
-		<rect height="53.0" id="" rx="5.74409901134" ry="26.5" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="128.0" x="359.5" y="216.0"/>
-		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica;font-size:14pt" x="359.5" y="216.0">
-			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="13.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="423.5" y="249.5">
+		<rect height="53.0" id="8" rx="5.74409901134" ry="26.5" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="128.0" x="359.5" y="216.0"/>
+		<text id="8_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:14px" x="359.5" y="216.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="8_line1" stroke="#000000" text-align="center" text-anchor="middle" x="423.5" y="249.5">
 				Version 2
 			</tspan>
 		</text>
-		<rect height="53.0" id="" rx="5.74409901134" ry="26.5" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="128.0" x="359.5" y="298.0"/>
-		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica;font-size:14pt" x="359.5" y="298.0">
-			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="13.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="423.5" y="331.5">
+		<rect height="53.0" id="9" rx="5.74409901134" ry="26.5" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="128.0" x="359.5" y="298.0"/>
+		<text id="9_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:14px" x="359.5" y="298.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="9_line1" stroke="#000000" text-align="center" text-anchor="middle" x="423.5" y="331.5">
 				Version 1
 			</tspan>
 		</text>
-		<path d="M 307.029,194.345 L 190.625,153.215" id="" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 423.5,188.5 L 423.5,214.5" id="" style="marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
-		<path d="M 423.5,270.5 L 423.5,296.5" id="" style="marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
-		<rect height="22.0" id="" style="stroke:none;fill:none" width="166.0" x="340.5" y="32.0"/>
-		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica-Bold;font-size:18pt" x="341.5" y="33.0">
-			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="17.0pt" font-weight="bold" id="" stroke="#000000" text-align="center" text-anchor="middle" x="423.5" y="52.0">
+		<path d="M 307.029,194.345 L 190.625,153.215" id="10" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
+		<path d="M 423.5,188.5 L 423.5,214.5" id="11" style="marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
+		<path d="M 423.5,270.5 L 423.5,296.5" id="12" style="marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
+		<rect height="22.0" id="13" style="stroke:none;fill:none" width="166.0" x="340.5" y="32.0"/>
+		<text id="13_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica-Bold;font-size:18px" x="340.5" y="32.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="18.0px" font-weight="bold" id="13_line1" stroke="#000000" text-align="center" text-anchor="middle" x="423.5" y="52.0">
 				Central VCS Server
 			</tspan>
 		</text>
-		<rect height="22.0" id="" style="stroke:none;fill:none" width="103.0" x="80.5" y="23.0"/>
-		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica-Bold;font-size:18pt" x="81.5" y="24.0">
-			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="17.0pt" font-weight="bold" id="" stroke="#000000" text-align="center" text-anchor="middle" x="132.0" y="43.0">
+		<rect height="22.0" id="16" style="stroke:none;fill:none" width="103.0" x="80.5" y="23.0"/>
+		<text id="16_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica-Bold;font-size:18px" x="80.5" y="23.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="18.0px" font-weight="bold" id="16_line1" stroke="#000000" text-align="center" text-anchor="middle" x="132.0" y="43.0">
 				Computer A
 			</tspan>
 		</text>
-		<rect height="189.0" id="" style="fill:#dcdcdc" width="204.0" x="30.0" y="244.0"/>
-		<rect height="53.0" id="" rx="5.74409901134" ry="26.5" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#c6d8ff" width="128.0" x="68.0" y="336.0"/>
-		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica;font-size:14pt" x="68.0" y="336.0">
-			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="13.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="132.0" y="369.5">
+		<rect height="189.0" id="17" style="fill:#dcdcdc" width="204.0" x="30.0" y="244.0"/>
+		<rect height="53.0" id="18" rx="5.74409901134" ry="26.5" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#c6d8ff" width="128.0" x="68.0" y="336.0"/>
+		<text id="18_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:14px" x="68.0" y="336.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="18_line1" stroke="#000000" text-align="center" text-anchor="middle" x="132.0" y="369.5">
 				File
 			</tspan>
 		</text>
-		<rect height="17.0" id="" style="stroke:none;fill:none" width="60.0" x="102.0" y="311.0"/>
-		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica;font-size:12pt" x="103.0" y="312.0">
-			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="13.0pt" id="" stroke="#000000" text-align="center" text-anchor="middle" x="132.0" y="326.5">
+		<rect height="17.0" id="19" style="stroke:none;fill:none" width="60.0" x="102.0" y="311.0"/>
+		<text id="19_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="102.0" y="311.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="19_line1" stroke="#000000" text-align="center" text-anchor="middle" x="132.0" y="326.5">
 				Checkout
 			</tspan>
 		</text>
-		<rect height="22.0" id="" style="stroke:none;fill:none" width="103.0" x="80.5" y="253.0"/>
-		<text id="" style="fill:#000000;stroke:#000000;stroke-width:0.1pt;font-family: Helvetica-Bold;font-size:18pt" x="81.5" y="254.0">
-			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="17.0pt" font-weight="bold" id="" stroke="#000000" text-align="center" text-anchor="middle" x="132.0" y="273.0">
+		<rect height="22.0" id="20" style="stroke:none;fill:none" width="103.0" x="80.5" y="253.0"/>
+		<text id="20_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica-Bold;font-size:18px" x="80.5" y="253.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="18.0px" font-weight="bold" id="20_line1" stroke="#000000" text-align="center" text-anchor="middle" x="132.0" y="273.0">
 				Computer B
 			</tspan>
 		</text>
-		<path d="M 307.042,286.238 L 187.151,338.472" id="" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
+		<path d="M 307.042,286.238 L 187.151,338.472" id="21" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
 	</g>
 </svg>
