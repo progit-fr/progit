@@ -6,6 +6,21 @@ from string import *
 import shutil
 from graffle2svg.main import GraffleParser
 
+def transform_3_3(svg_doc):
+    pass
+
+def transform_3_4(svg_doc):
+    pass
+
+def transform_3_11(svg_doc):
+    pass
+
+def transform_3_12(svg_doc):
+    pass
+
+'''
+missing 3.18 3.19 3.20 3.21 3.27 3.28 3.29 3.30 5.11 5.15 7.2 7.3 9.2
+'''
 conversions = {
     0	:[{'figure':'6.1'}],
     1	:[{'figure':'5.4'}],
@@ -38,7 +53,7 @@ conversions = {
     28	:[{'figure':'3.38'}],
     29	:[{'figure':'3.39'}],
     30	:[{'figure':'figure30'}],
-    31	:[{'figure':'3.31'}],
+    31	:[{'figure':'5.19'}],
     32	:[{'figure':'5.20'}],
     33	:[{'figure':'5.21'}],
     34	:[{'figure':'5.22'}],
@@ -47,7 +62,9 @@ conversions = {
     37	:[{'figure':'5.25'}],
     38	:[{'figure':'5.26'}],
     39	:[{'figure':'5.27'}],
-    40	:[{'figure':'3.10'},{'figure':'3.11'}],
+    40	:[{'figure':'3.10'},
+          {'figure':'3.11','transform':transform_3_11},
+          {'figure':'3.12','transform':transform_3_12}],
     41	:[{'figure':'figure41'}],
     42	:[{'figure':'figure42'}],
     43	:[{'figure':'figure43'}],
@@ -64,7 +81,8 @@ conversions = {
     54	:[{'figure':'3.15'}],
     55	:[{'figure':'3.16'}],
     56	:[{'figure':'3.17'}],
-    57	:[{'figure':'1.4'},{'figure':'1.5'}],
+    57	:[{'figure':'1.4','options':'-a 0:0:756:276' },
+          {'figure':'1.5','options':'-a 0:257:756:553'}],
     58	:[{'figure':'1.6'}],
     59	:[{'figure':'2.1'}],
     60  :[{'figure':'figure60'}],
@@ -75,7 +93,7 @@ conversions = {
     65	:[{'figure':'9.4'}],
     66	:[{'figure':'3.1'}],
     67	:[{'figure':'3.2'}],
-    68	:[{'figure':'3.3'}], 
+    68	:[{'figure':'3.3','transform':transform_3_3}], 
     69  :[{'figure':'figure69'}],
     70  :[{'figure':'figure70'}],
     71  :[{'figure':'figure71'}],
@@ -84,7 +102,7 @@ conversions = {
     74  :[{'figure':'figure74'}],
     75  :[{'figure':'figure75'}],
     76  :[{'figure':'figure76'}],
-    77	:[{'figure':'3.6'},{'figure':'3.4'}],
+    77	:[{'figure':'3.6'},{'figure':'3.4','transform':transform_3_4}],
     78	:[{'figure':'3.5'}],
     79	:[{'figure':'3.7'}],
     80	:[{'figure':'3.8'}],
@@ -97,7 +115,7 @@ gp.walkGraffleFile('progit.graffle')
 for source_index in conversions.keys():
     if  conversions[source_index] is not None:
         for target in conversions[source_index]:
-            gp.extractPage(page=source_index)
+            gp.extractPage(page=source_index,background=False)
             f = open(target["figure"]+".svg","w")
             f.write(gp.svg)
             f.close()
