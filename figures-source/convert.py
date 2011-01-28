@@ -81,8 +81,8 @@ conversions = {
     54	:[{'figure':'3.15'}],
     55	:[{'figure':'3.16'}],
     56	:[{'figure':'3.17'}],
-    57	:[{'figure':'1.4','options':'-a 0:0:756:276' },
-          {'figure':'1.5','options':'-a 0:257:756:553'}],
+    57	:[{'figure':'1.4','boundingbox':((0,0),(756,276)) },
+          {'figure':'1.5','boundingbox':((0,257),(756,553))}],
     58	:[{'figure':'1.6'}],
     59	:[{'figure':'2.1'}],
     60  :[{'figure':'figure60'}],
@@ -115,7 +115,7 @@ gp.walkGraffleFile('progit.graffle')
 for source_index in conversions.keys():
     if  conversions[source_index] is not None:
         for target in conversions[source_index]:
-            gp.extractPage(page=source_index,background=False)
+            gp.extractPage(page=source_index,background=False,bounding_box=target.get('boundingbox',None))
             f = open(target["figure"]+".svg","w")
             f.write(gp.svg)
             f.close()
