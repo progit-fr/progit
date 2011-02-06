@@ -4,7 +4,7 @@ logging.basicConfig(level=logging.WARNING)
 
 from string import *
 import shutil
-from graffle2svg.main import GraffleParser
+from graffle2svg.main import *
 
 def transform_3_3(svg_doc):
     pass
@@ -109,13 +109,14 @@ conversions = {
     81	:[{'figure':'3.9'}]
     }
 
-gp =GraffleParser()
-#gp.walkGraffle(open('progit.graffle','r').read())
-gp.walkGraffleFile('progit.graffle')
+gi = GraffleInterpreter()
+svgTarget = TargetSvg()
+gi.setTarget(svgTarget)
+gi.dict = GraffleParser().walkGraffleFile("progit.graffle")
 for source_index in conversions.keys():
     if  conversions[source_index] is not None:
         for target in conversions[source_index]:
-            gp.extractPage(page=source_index,background=False,bounding_box=target.get('boundingbox',None))
+            gi.extractPage(page=source_index, background=False)
             f = open(target["figure"]+".svg","w")
-            f.write(gp.svg)
+            f.write(gi.target.svg)
             f.close()
