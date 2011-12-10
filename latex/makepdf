@@ -14,13 +14,16 @@ def figures(lang,&block)
 	begin
 		Dir["#$root/figures/18333*.png"].each do |file|
 			cp(file, file.sub(/18333fig0(\d)0?(\d+)\-tn/, '\1.\2'))
-			cp(Dir["#$root/#{lang}/figures/*.png"],"#$root/figures")
 		end
+		cp(Dir["#$root/#{lang}/figures/*.png"],"#$root/figures")
+		cp(Dir["#$root/#{lang}/figures/*.pdf"],"#$root/figures")
+          
 		block.call
 	ensure
 		Dir["#$root/figures/18333*.png"].each do |file|
 			rm(file.gsub(/18333fig0(\d)0?(\d+)\-tn/, '\1.\2'))
 		end
+                rm(Dir["#$root/#{lang}/figures/*.pdf"])
 	end
 end
 

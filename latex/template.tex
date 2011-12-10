@@ -1,8 +1,9 @@
-\documentclass[a4paper]{book}
+\documentclass[a4paper,twoside]{book}
+\usepackage{xcolor}
 \usepackage[
-	%urlbordercolor = {1 1 1},
-	%linkbordercolor = {1 1 1},
-	%citebordercolor = {1 1 1},
+	urlbordercolor = white,
+	linkbordercolor = white,
+	citebordercolor = white,
 	urlcolor = blue,
 	colorlinks = true,
 	citecolor = black,
@@ -89,7 +90,8 @@
 \newcommand{\img}[1]{\begin{figure}[ht!]
 	\refstepcounter{img}
 	\label{img:\theimg}
-	\centering\includegraphics[width=\maxwidth]{figures/\theimg.png}
+	\centering\IfFileExists{figures/\theimg.pdf}{\includegraphics[width=\maxwidth]{figures/\theimg.pdf}}{\includegraphics[width=\maxwidth]{figures/\theimg.png}}
+
 	\textbf{\caption{#1}}
 \end{figure}}
 
