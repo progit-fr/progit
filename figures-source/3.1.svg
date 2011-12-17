@@ -12,7 +12,6 @@
 	<g style="stroke:#000000;fill:#fff">
 		<g style="stroke:#000000;fill:#fff">
 			<rect height="111.0" id="32" rx="5.0" ry="5.0" style="stroke:#1b2350;stroke-width:3.000000px;fill:#d0ceff" width="154.0" x="272.0" y="193.847"/>
-			<text id="32_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="272.0" y="193.847"/>
 			<path d="M 426.0,222.878 L 272.0,222.878" id="31" style="marker-start:none;stroke:#1b2350;stroke-width:3.000000px;marker-end:none;fill:none"/>
 			<path d="M 371.0,195.555 L 371.0,222.878" id="30" style="marker-start:none;stroke:#1b2350;stroke-width:3.000000px;marker-end:none;fill:none"/>
 		</g>
@@ -94,7 +93,6 @@
 		</text>
 		<g style="stroke:#000000;fill:#fff">
 			<rect height="99.0" id="235" rx="5.0" ry="5.0" style="stroke:#504b50;stroke-width:3.000000px;fill:#ffc2bf" width="154.0" x="523.504" y="51.9024"/>
-			<text id="235_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="523.504" y="51.9024"/>
 			<path d="M 677.504,85.7944 L 523.504,85.7944" id="234" style="marker-start:none;stroke:#504b50;stroke-width:3.000000px;marker-end:none;fill:none"/>
 			<path d="M 622.504,53.4254 L 622.504,83.7944" id="233" style="marker-start:none;stroke:#504b50;stroke-width:3.000000px;marker-end:none;fill:none"/>
 			<rect height="16.7538" id="232" style="stroke:none;fill:none" width="40.0" x="532.504" y="60.4714"/>
@@ -139,7 +137,6 @@
 		<path d="M 454.504,247.201 L 514.504,247.305" id="304" style="marker-start:none;stroke:#000000;stroke-width:4.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
 		<g style="stroke:#000000;fill:#fff">
 			<rect height="99.0" id="310" rx="5.0" ry="5.0" style="stroke:#504b50;stroke-width:3.000000px;fill:#ffc2bf" width="154.0" x="527.504" y="346.0"/>
-			<text id="310_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="527.504" y="346.0"/>
 			<path d="M 681.504,379.892 L 527.504,379.892" id="309" style="marker-start:none;stroke:#504b50;stroke-width:3.000000px;marker-end:none;fill:none"/>
 			<path d="M 626.504,347.523 L 626.504,377.892" id="308" style="marker-start:none;stroke:#504b50;stroke-width:3.000000px;marker-end:none;fill:none"/>
 			<rect height="16.7538" id="307" style="stroke:none;fill:none" width="40.0" x="536.504" y="354.569"/>
@@ -184,7 +181,6 @@
 		</text>
 		<g style="stroke:#000000;fill:#fff">
 			<rect height="99.0" id="318" rx="5.0" ry="5.0" style="stroke:#504b50;stroke-width:3.000000px;fill:#ffc2bf" width="154.0" x="527.504" y="195.14"/>
-			<text id="318_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="527.504" y="195.14"/>
 			<path d="M 681.504,229.032 L 527.504,229.032" id="317" style="marker-start:none;stroke:#504b50;stroke-width:3.000000px;marker-end:none;fill:none"/>
 			<path d="M 626.504,196.663 L 626.504,227.032" id="316" style="marker-start:none;stroke:#504b50;stroke-width:3.000000px;marker-end:none;fill:none"/>
 			<rect height="16.7538" id="315" style="stroke:none;fill:none" width="40.0" x="536.504" y="203.709"/>
@@ -226,7 +222,6 @@
 		</text>
 		<g style="stroke:#000000;fill:#fff">
 			<rect height="154.5" id="272" rx="5.0" ry="5.0" style="stroke:#504b50;stroke-width:3.000000px;fill:#bdffc1" width="154.0" x="43.504" y="167.5"/>
-			<text id="272_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="43.504" y="167.5"/>
 			<path d="M 197.504,207.908 L 43.504,207.908" id="271" style="marker-start:none;stroke:#504b50;stroke-width:3.000000px;marker-end:none;fill:none"/>
 			<path d="M 142.504,169.877 L 142.504,207.908" id="270" style="marker-start:none;stroke:#504b50;stroke-width:3.000000px;marker-end:none;fill:none"/>
 			<rect height="26.1462" id="269" style="stroke:none;fill:none" width="56.0" x="59.504" y="174.631"/>

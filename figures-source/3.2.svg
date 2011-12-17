@@ -12,7 +12,6 @@
 	<g style="stroke:#000000;fill:#fff">
 		<g style="stroke:#000000;fill:#fff">
 			<rect height="154.5" id="272" rx="5.0" ry="5.0" style="stroke:#504b50;stroke-width:3.000000px;fill:#bdffc1" width="154.0" x="516.021" y="122.0"/>
-			<text id="272_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="516.021" y="122.0"/>
 			<path d="M 670.021,162.408 L 516.021,162.408" id="271" style="marker-start:none;stroke:#504b50;stroke-width:3.000000px;marker-end:none;fill:none"/>
 			<path d="M 615.021,124.377 L 615.021,162.408" id="270" style="marker-start:none;stroke:#504b50;stroke-width:3.000000px;marker-end:none;fill:none"/>
 			<rect height="26.1462" id="269" style="stroke:none;fill:none" width="56.0" x="532.021" y="129.131"/>
@@ -30,7 +29,6 @@
 		</g>
 		<g style="stroke:#000000;fill:#fff">
 			<rect height="154.5" id="44" rx="5.0" ry="5.0" style="stroke:#504b50;stroke-width:3.000000px;fill:#bdffc1" width="154.0" x="32.493" y="122.0"/>
-			<text id="44_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="32.493" y="122.0"/>
 			<path d="M 186.493,162.408 L 32.493,162.408" id="43" style="marker-start:none;stroke:#504b50;stroke-width:3.000000px;marker-end:none;fill:none"/>
 			<path d="M 131.493,124.377 L 131.493,162.408" id="42" style="marker-start:none;stroke:#504b50;stroke-width:3.000000px;marker-end:none;fill:none"/>
 			<rect height="26.1462" id="41" style="stroke:none;fill:none" width="56.0" x="48.493" y="129.131"/>
@@ -62,7 +60,6 @@
 			</tspan>
 		</text>
 		<rect height="26.1462" id="85" style="stroke:none;fill:none" width="56.0" x="36.5" y="181.354"/>
-		<text id="85_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: GillSans;font-size:14px" x="36.5" y="181.354"/>
 		<rect height="26.1462" id="86" style="stroke:none;fill:none" width="56.0" x="36.5" y="180.354"/>
 		<text id="86_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: GillSans;font-size:14px" x="36.5" y="180.354">
 			<tspan fill="#000000" font-family="GillSans;" font-size="14.0px" id="86_line1" stroke="#000000" text-align="center" text-anchor="middle" x="64.5" y="200.4271">
@@ -102,7 +99,6 @@
 		</text>
 		<g style="stroke:#000000;fill:#fff">
 			<rect height="154.5" id="251" rx="5.0" ry="5.0" style="stroke:#504b50;stroke-width:3.000000px;fill:#bdffc1" width="154.0" x="274.257" y="122.0"/>
-			<text id="251_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="274.257" y="122.0"/>
 			<path d="M 428.257,162.408 L 274.257,162.408" id="250" style="marker-start:none;stroke:#504b50;stroke-width:3.000000px;marker-end:none;fill:none"/>
 			<path d="M 373.257,124.377 L 373.257,162.408" id="249" style="marker-start:none;stroke:#504b50;stroke-width:3.000000px;marker-end:none;fill:none"/>
 			<rect height="26.1462" id="248" style="stroke:none;fill:none" width="56.0" x="290.257" y="129.131"/>
