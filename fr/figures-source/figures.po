@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Progit figures\n"
-"POT-Creation-Date: 2011-12-06 21:19+0100\n"
-"PO-Revision-Date: 2011-12-06 21:37+0100\n"
+"POT-Creation-Date: 2011-12-17 22:57+0100\n"
+"PO-Revision-Date: 2011-12-17 23:12+0100\n"
 "Last-Translator: Jean-Noël Avila <jn.avila@free.fr>\n"
 "Language-Team: French\n"
 "Language: \n"
@@ -22,27 +22,31 @@ msgstr ""
 #: 9.2.svg:63(tspan)
 #: 9.1.svg:15(tspan)
 #: 9.1.svg:21(tspan)
-#: 3.2.svg:60(tspan)
-#: 3.2.svg:133(tspan)
-#: 3.2.svg:201(tspan)
-#: 3.1.svg:21(tspan)
-#: 3.1.svg:250(tspan)
+#: 3.2.svg:58(tspan)
+#: 3.2.svg:129(tspan)
+#: 3.2.svg:197(tspan)
+#: 3.1.svg:20(tspan)
+#: 3.1.svg:245(tspan)
+#, no-wrap
 msgid "tree"
 msgstr "arbre"
 
 #: 9.4.svg:27(tspan)
 #: 9.3.svg:27(tspan)
+#, no-wrap
 msgid "\"new file\""
 msgstr "\"nouveau\""
 
 #: 9.4.svg:33(tspan)
 #: 9.3.svg:33(tspan)
 #: 9.2.svg:103(tspan)
+#, no-wrap
 msgid "\"version 2\""
 msgstr "\"version 2\""
 
 #: 9.4.svg:39(tspan)
 #: 9.3.svg:39(tspan)
+#, no-wrap
 msgid "\"version 1\""
 msgstr "\"version 1\""
 
@@ -51,6 +55,7 @@ msgstr "\"version 1\""
 #: 9.3.svg:48(tspan)
 #: 9.3.svg:158(tspan)
 #: 9.2.svg:157(tspan)
+#, no-wrap
 msgid "new.txt"
 msgstr "new.txt"
 
@@ -62,144 +67,171 @@ msgstr "new.txt"
 #: 9.3.svg:164(tspan)
 #: 9.2.svg:175(tspan)
 #: 9.2.svg:211(tspan)
+#, no-wrap
 msgid "test.txt"
 msgstr "test.txt"
 
 #: 9.4.svg:66(tspan)
 #: 9.3.svg:66(tspan)
+#, no-wrap
 msgid "0155eb"
 msgstr "0155eb"
 
 #: 9.4.svg:72(tspan)
 #: 9.3.svg:72(tspan)
 #: 9.2.svg:222(tspan)
+#, no-wrap
 msgid "fa49b0"
 msgstr "fa49b0"
 
 #: 9.4.svg:78(tspan)
 #: 9.3.svg:78(tspan)
 #: 9.2.svg:244(tspan)
+#, no-wrap
 msgid "1f7a7a"
 msgstr "1f7a7a"
 
 #: 9.4.svg:84(tspan)
 #: 9.3.svg:84(tspan)
 #: 9.2.svg:233(tspan)
+#, no-wrap
 msgid "d8329f"
 msgstr "d8329f"
 
 #: 9.4.svg:90(tspan)
 #: 9.3.svg:90(tspan)
 #: 9.2.svg:255(tspan)
+#, no-wrap
 msgid "83baae"
 msgstr "83baae"
 
 #: 9.4.svg:96(tspan)
 #: 9.3.svg:96(tspan)
+#, no-wrap
 msgid "first commit"
 msgstr "1ère validation"
 
 #: 9.4.svg:102(tspan)
 #: 9.3.svg:102(tspan)
+#, no-wrap
 msgid "fdf4fc"
 msgstr "fdf4fc"
 
 #: 9.4.svg:108(tspan)
 #: 9.3.svg:108(tspan)
+#, no-wrap
 msgid "second commit"
 msgstr "2nde validation"
 
 #: 9.4.svg:114(tspan)
 #: 9.3.svg:120(tspan)
+#, no-wrap
 msgid "third commit"
 msgstr "3<span dx=\"-50%\" font-size=\"50%\">ème</span> validation"
 
 #: 9.4.svg:130(tspan)
 #: 9.3.svg:142(tspan)
 #: 9.2.svg:266(tspan)
+#, no-wrap
 msgid "3c4e9c"
 msgstr "3c4e9c"
 
 #: 9.4.svg:140(tspan)
 #: 9.3.svg:152(tspan)
 #: 9.2.svg:193(tspan)
+#, no-wrap
 msgid "bak"
 msgstr "bak"
 
 #: 9.4.svg:158(tspan)
+#, no-wrap
 msgid "refs/heads/master"
 msgstr "refs/heads/master"
 
 #: 9.4.svg:164(tspan)
+#, no-wrap
 msgid "refs/heads/test"
 msgstr "refs/heads/test"
 
 #: 9.4.svg:172(tspan)
 #: 9.3.svg:114(tspan)
+#, no-wrap
 msgid "cac0ca"
 msgstr "cac0ca"
 
 #: 9.4.svg:178(tspan)
 #: 9.3.svg:126(tspan)
+#, no-wrap
 msgid "1a410e"
 msgstr "1a410e"
 
 #: 9.2.svg:83(tspan)
+#, no-wrap
 msgid "\"newfile\""
 msgstr "\"nouveau\""
 
 #: 9.2.svg:123(tspan)
+#, no-wrap
 msgid "\"version1\""
 msgstr "\"version1\""
 
 #: 9.1.svg:27(tspan)
 #: 9.1.svg:33(tspan)
 #: 9.1.svg:39(tspan)
-#: 3.1.svg:41(tspan)
-#: 3.1.svg:47(tspan)
-#: 3.1.svg:53(tspan)
-#: 3.1.svg:102(tspan)
-#: 3.1.svg:147(tspan)
-#: 3.1.svg:192(tspan)
+#: 3.1.svg:40(tspan)
+#: 3.1.svg:46(tspan)
+#: 3.1.svg:52(tspan)
+#: 3.1.svg:100(tspan)
+#: 3.1.svg:144(tspan)
+#: 3.1.svg:188(tspan)
+#, no-wrap
 msgid "blob"
 msgstr "blob"
 
 #: 9.1.svg:49(tspan)
-#: 3.1.svg:79(tspan)
+#: 3.1.svg:78(tspan)
+#, no-wrap
 msgid "README"
 msgstr "LISEZMOI"
 
 #: 9.1.svg:55(tspan)
+#, no-wrap
 msgid "Rakefile"
 msgstr "Rakefile"
 
 #: 9.1.svg:61(tspan)
+#, no-wrap
 msgid "lib"
 msgstr "lib"
 
 #: 9.1.svg:67(tspan)
+#, no-wrap
 msgid "git.rb"
 msgstr "git.rb"
 
 #: 7.3.svg:48(tspan)
 #: 7.2.svg:49(tspan)
 #: 1.6.svg:16(tspan)
+#, no-wrap
 msgid "Staging Area"
 msgstr "Zone d'index"
 
 #: 7.3.svg:59(tspan)
 #: 7.2.svg:60(tspan)
 #: 1.6.svg:22(tspan)
+#, no-wrap
 msgid "Working Directory"
 msgstr "Répertoire de travail"
 
 #: 7.3.svg:82(tspan)
 #: 7.2.svg:83(tspan)
+#, no-wrap
 msgid "FileA.txt"
 msgstr "FichierA.txt"
 
 #: 7.3.svg:106(tspan)
 #: 7.2.svg:107(tspan)
+#, no-wrap
 msgid "FileB.txt"
 msgstr "FichierB.txt"
 
@@ -207,44 +239,53 @@ msgstr "FichierB.txt"
 #: 7.3.svg:197(tspan)
 #: 7.2.svg:131(tspan)
 #: 7.2.svg:198(tspan)
+#, no-wrap
 msgid "FileC.txt"
 msgstr "FichierC.txt"
 
 #: 7.3.svg:153(tspan)
 #: 7.2.svg:154(tspan)
+#, no-wrap
 msgid "FileA.txt'"
 msgstr "fichierA.txt'"
 
 #: 7.3.svg:174(tspan)
 #: 7.2.svg:175(tspan)
+#, no-wrap
 msgid "FileB.txt'"
 msgstr "fichierB.txt'"
 
 #: 7.3.svg:209(tspan)
 #: 7.2.svg:210(tspan)
+#, no-wrap
 msgid "*.txt Filter"
 msgstr "Filtre *.txt"
 
 #: 7.3.svg:231(tspan)
 #: 7.2.svg:232(tspan)
+#, no-wrap
 msgid "smudge"
 msgstr "smudge"
 
 #: 7.3.svg:252(tspan)
 #: 7.2.svg:253(tspan)
+#, no-wrap
 msgid "clean"
 msgstr "clean"
 
 #: 7.3.svg:283(tspan)
+#, no-wrap
 msgid "git add"
 msgstr "git add"
 
 #: 7.2.svg:290(tspan)
+#, no-wrap
 msgid "git checkout"
 msgstr "git checkout"
 
 #: 6.1.svg:15(tspan)
 #: 1.5.svg:20(tspan)
+#, no-wrap
 msgid "A"
 msgstr "A"
 
@@ -252,23 +293,28 @@ msgstr "A"
 #: 1.5.svg:26(tspan)
 #: 1.5.svg:74(tspan)
 #: 1.5.svg:92(tspan)
+#, no-wrap
 msgid "B"
 msgstr "B"
 
 #: 6.1.svg:28(tspan)
+#, no-wrap
 msgid "E"
 msgstr "E"
 
 #: 6.1.svg:35(tspan)
+#, no-wrap
 msgid "F"
 msgstr "F"
 
 #: 6.1.svg:41(tspan)
 #: 1.5.svg:32(tspan)
+#, no-wrap
 msgid "C"
 msgstr "C"
 
 #: 6.1.svg:47(tspan)
+#, no-wrap
 msgid "D"
 msgstr "D"
 
@@ -303,14 +349,14 @@ msgstr "D"
 #: 3.5.svg:15(tspan)
 #: 3.4.svg:33(tspan)
 #: 3.3.svg:56(tspan)
-#: 3.39.svg:29(tspan)
-#: 3.39.svg:52(tspan)
-#: 3.38.svg:29(tspan)
-#: 3.38.svg:52(tspan)
-#: 3.37.svg:29(tspan)
-#: 3.37.svg:52(tspan)
-#: 3.36.svg:29(tspan)
-#: 3.36.svg:52(tspan)
+#: 3.39.svg:28(tspan)
+#: 3.39.svg:50(tspan)
+#: 3.38.svg:28(tspan)
+#: 3.38.svg:50(tspan)
+#: 3.37.svg:28(tspan)
+#: 3.37.svg:50(tspan)
+#: 3.36.svg:28(tspan)
+#: 3.36.svg:50(tspan)
 #: 3.35.svg:35(tspan)
 #: 3.34.svg:42(tspan)
 #: 3.33.svg:49(tspan)
@@ -344,6 +390,7 @@ msgstr "D"
 #: 3.12.svg:28(tspan)
 #: 3.11.svg:28(tspan)
 #: 3.10.svg:28(tspan)
+#, no-wrap
 msgid "master"
 msgstr "master"
 
@@ -352,6 +399,7 @@ msgstr "master"
 #: 3.29.svg:35(tspan)
 #: 3.28.svg:35(tspan)
 #: 3.27.svg:35(tspan)
+#, no-wrap
 msgid "experiment"
 msgstr "experience"
 
@@ -362,6 +410,7 @@ msgstr "experience"
 #: 5.14.svg:17(tspan)
 #: 5.13.svg:17(tspan)
 #: 5.12.svg:15(tspan)
+#, no-wrap
 msgid "33009"
 msgstr "33009"
 
@@ -379,6 +428,7 @@ msgstr "33009"
 #: 5.13.svg:23(tspan)
 #: 5.12.svg:21(tspan)
 #: 5.10.svg:22(tspan)
+#, no-wrap
 msgid "1edee"
 msgstr "1edee"
 
@@ -396,6 +446,7 @@ msgstr "1edee"
 #: 5.13.svg:38(tspan)
 #: 5.12.svg:36(tspan)
 #: 5.10.svg:43(tspan)
+#, no-wrap
 msgid "4b078"
 msgstr "4b078"
 
@@ -406,6 +457,7 @@ msgstr "4b078"
 #: 5.14.svg:45(tspan)
 #: 5.13.svg:45(tspan)
 #: 5.12.svg:43(tspan)
+#, no-wrap
 msgid "e5b0f"
 msgstr "e5b0f"
 
@@ -416,6 +468,7 @@ msgstr "e5b0f"
 #: 5.14.svg:66(tspan)
 #: 5.13.svg:66(tspan)
 #: 5.12.svg:64(tspan)
+#, no-wrap
 msgid "featureB"
 msgstr "fonctionB"
 
@@ -436,12 +489,14 @@ msgstr "fonctionB"
 #: 3.24.svg:69(tspan)
 #: 3.23.svg:69(tspan)
 #: 3.22.svg:69(tspan)
+#, no-wrap
 msgid "origin/master"
 msgstr "origin/master"
 
 #: 6.18.svg:64(tspan)
 #: 5.18.svg:64(tspan)
 #: 5.17.svg:64(tspan)
+#, no-wrap
 msgid "dee6b"
 msgstr "dee6b"
 
@@ -452,6 +507,7 @@ msgstr "dee6b"
 #: 5.14.svg:59(tspan)
 #: 5.13.svg:59(tspan)
 #: 5.12.svg:57(tspan)
+#, no-wrap
 msgid "featureA"
 msgstr "fonctionA"
 
@@ -459,16 +515,19 @@ msgstr "fonctionA"
 #: 5.18.svg:78(tspan)
 #: 5.17.svg:78(tspan)
 #: 5.14.svg:114(tspan)
+#, no-wrap
 msgid "5399e"
 msgstr "5399e"
 
 #: 6.18.svg:85(tspan)
 #: 5.18.svg:85(tspan)
+#, no-wrap
 msgid "17f4d"
 msgstr "17f4d"
 
 #: 6.18.svg:92(tspan)
 #: 5.18.svg:92(tspan)
+#, no-wrap
 msgid "featureBv2"
 msgstr "fonctionBv2"
 
@@ -479,6 +538,7 @@ msgstr "fonctionBv2"
 #: 5.5.svg:15(tspan)
 #: 5.4.svg:15(tspan)
 #: 5.10.svg:16(tspan)
+#, no-wrap
 msgid "fbff5"
 msgstr "fbff5"
 
@@ -486,6 +546,7 @@ msgstr "fbff5"
 #: 5.8.svg:30(tspan)
 #: 5.7.svg:29(tspan)
 #: 5.10.svg:30(tspan)
+#, no-wrap
 msgid "issue54"
 msgstr "prob54"
 
@@ -493,6 +554,7 @@ msgstr "prob54"
 #: 5.8.svg:50(tspan)
 #: 5.7.svg:50(tspan)
 #: 5.10.svg:50(tspan)
+#, no-wrap
 msgid "8149a"
 msgstr "81149a"
 
@@ -500,6 +562,7 @@ msgstr "81149a"
 #: 5.8.svg:57(tspan)
 #: 5.7.svg:57(tspan)
 #: 5.10.svg:57(tspan)
+#, no-wrap
 msgid "23ac6"
 msgstr "23ac6"
 
@@ -507,6 +570,7 @@ msgstr "23ac6"
 #: 5.8.svg:64(tspan)
 #: 5.7.svg:64(tspan)
 #: 5.10.svg:64(tspan)
+#, no-wrap
 msgid "4af42"
 msgstr "4af42"
 
@@ -516,6 +580,7 @@ msgstr "4af42"
 #: 5.5.svg:21(tspan)
 #: 5.4.svg:21(tspan)
 #: 5.10.svg:78(tspan)
+#, no-wrap
 msgid "738ee"
 msgstr "738ee"
 
@@ -524,70 +589,74 @@ msgstr "738ee"
 #: 5.6.svg:57(tspan)
 #: 5.5.svg:57(tspan)
 #: 5.10.svg:84(tspan)
+#, no-wrap
 msgid "72bbc"
 msgstr "72bbc"
 
 #: 5.9.svg:93(tspan)
 #: 5.10.svg:93(tspan)
+#, no-wrap
 msgid "8059c"
 msgstr "8059c"
 
 #: 5.3.svg:15(tspan)
 #: 5.3.svg:24(tspan)
 #: 5.3.svg:39(tspan)
-#: 5.2.svg:15(tspan)
-#: 5.2.svg:24(tspan)
-#: 5.2.svg:39(tspan)
-#: 5.2.svg:58(tspan)
-#: 5.2.svg:67(tspan)
-#: 5.2.svg:76(tspan)
-#: 5.1.svg:22(tspan)
-#: 5.1.svg:28(tspan)
-#: 5.1.svg:34(tspan)
-msgid "developer"
-msgstr "développeur"
-
-#: 5.3.svg:18(tspan)
-#: 5.3.svg:27(tspan)
-#: 5.3.svg:42(tspan)
-#: 5.2.svg:18(tspan)
-#: 5.2.svg:27(tspan)
-#: 5.2.svg:42(tspan)
-msgid "public"
-msgstr "public"
+#: 5.2.svg:45(tspan)
+#: 5.2.svg:70(tspan)
+#: 5.2.svg:120(tspan)
+#, no-wrap
+msgid ""
+"developer\n"
+"public"
+msgstr ""
+"public\n"
+"développeur"
 
 #: 5.3.svg:33(tspan)
+#, no-wrap
 msgid "dictator"
 msgstr "dictateur"
 
 #: 5.3.svg:48(tspan)
-#: 5.2.svg:48(tspan)
-msgid "blessed"
-msgstr "béni"
-
-#: 5.3.svg:51(tspan)
-#: 5.2.svg:51(tspan)
-#: 5.1.svg:43(tspan)
-msgid "repository"
-msgstr "dépôt"
+#: 5.2.svg:145(tspan)
+#, no-wrap
+msgid ""
+"blessed\n"
+"repository"
+msgstr ""
+"dépôt\n"
+"référence"
 
 #: 5.3.svg:58(tspan)
 #: 5.3.svg:64(tspan)
+#, no-wrap
 msgid "lieutenant"
 msgstr "lieutenant"
 
-#: 5.2.svg:33(tspan)
-msgid "integration manager"
-msgstr "gestionnaire d'intégration"
+#: 5.2.svg:95(tspan)
+#, no-wrap
+msgid ""
+"integration\n"
+"manager"
+msgstr ""
+"gestionnaire\n"
+"d'intégration"
 
-#: 5.2.svg:61(tspan)
-#: 5.2.svg:70(tspan)
-#: 5.2.svg:79(tspan)
-msgid "private"
-msgstr "privé"
+#: 5.2.svg:174(tspan)
+#: 5.2.svg:199(tspan)
+#: 5.2.svg:224(tspan)
+#, no-wrap
+msgid ""
+"developer\n"
+"private"
+msgstr ""
+"privé\n"
+"développeur"
 
 #: 5.27.svg:15(tspan)
 #: 5.26.svg:15(tspan)
+#, no-wrap
 msgid "e43a6"
 msgstr "e43a6"
 
@@ -601,6 +670,7 @@ msgstr "e43a6"
 #: 3.23.svg:56(tspan)
 #: 3.22.svg:29(tspan)
 #: 3.22.svg:56(tspan)
+#, no-wrap
 msgid "a6b4c"
 msgstr "a6b4c"
 
@@ -614,11 +684,13 @@ msgstr "a6b4c"
 #: 3.23.svg:62(tspan)
 #: 3.22.svg:35(tspan)
 #: 3.22.svg:62(tspan)
+#, no-wrap
 msgid "0b743"
 msgstr "0b743"
 
 #: 5.27.svg:33(tspan)
 #: 5.26.svg:33(tspan)
+#, no-wrap
 msgid "5ddae"
 msgstr "5ddae"
 
@@ -629,6 +701,7 @@ msgstr "5ddae"
 #: 5.21.svg:43(tspan)
 #: 5.20.svg:95(tspan)
 #: 5.19.svg:43(tspan)
+#, no-wrap
 msgid "ruby_client"
 msgstr "client_ruby"
 
@@ -646,10 +719,12 @@ msgstr "client_ruby"
 #: 3.23.svg:76(tspan)
 #: 3.22.svg:49(tspan)
 #: 3.22.svg:76(tspan)
+#, no-wrap
 msgid "f42c5"
 msgstr "f42c5"
 
 #: 5.27.svg:64(tspan)
+#, no-wrap
 msgid "a0a41"
 msgstr "a0a41"
 
@@ -660,10 +735,10 @@ msgstr "a0a41"
 #: 5.21.svg:15(tspan)
 #: 5.20.svg:15(tspan)
 #: 5.19.svg:15(tspan)
-#: 3.39.svg:41(tspan)
-#: 3.38.svg:41(tspan)
-#: 3.37.svg:41(tspan)
-#: 3.36.svg:41(tspan)
+#: 3.39.svg:40(tspan)
+#: 3.38.svg:40(tspan)
+#: 3.37.svg:40(tspan)
+#: 3.36.svg:40(tspan)
 #: 3.34.svg:35(tspan)
 #: 3.33.svg:42(tspan)
 #: 3.32.svg:42(tspan)
@@ -682,6 +757,7 @@ msgstr "a0a41"
 #: 3.13.svg:49(tspan)
 #: 3.12.svg:49(tspan)
 #: 1.5.svg:134(tspan)
+#, no-wrap
 msgid "C3"
 msgstr "C3"
 
@@ -692,10 +768,10 @@ msgstr "C3"
 #: 5.21.svg:21(tspan)
 #: 5.20.svg:21(tspan)
 #: 5.19.svg:21(tspan)
-#: 3.39.svg:35(tspan)
-#: 3.38.svg:35(tspan)
-#: 3.37.svg:35(tspan)
-#: 3.36.svg:35(tspan)
+#: 3.39.svg:34(tspan)
+#: 3.38.svg:34(tspan)
+#: 3.37.svg:34(tspan)
+#: 3.36.svg:34(tspan)
 #: 3.35.svg:21(tspan)
 #: 3.34.svg:21(tspan)
 #: 3.33.svg:21(tspan)
@@ -720,6 +796,7 @@ msgstr "C3"
 #: 3.10.svg:35(tspan)
 #: 1.5.svg:98(tspan)
 #: 1.5.svg:116(tspan)
+#, no-wrap
 msgid "C2"
 msgstr "C2"
 
@@ -730,14 +807,14 @@ msgstr "C2"
 #: 5.21.svg:27(tspan)
 #: 5.20.svg:27(tspan)
 #: 5.19.svg:27(tspan)
-#: 3.39.svg:64(tspan)
-#: 3.39.svg:93(tspan)
-#: 3.38.svg:64(tspan)
-#: 3.38.svg:93(tspan)
-#: 3.37.svg:64(tspan)
-#: 3.37.svg:93(tspan)
-#: 3.36.svg:64(tspan)
-#: 3.36.svg:71(tspan)
+#: 3.39.svg:62(tspan)
+#: 3.39.svg:91(tspan)
+#: 3.38.svg:62(tspan)
+#: 3.38.svg:91(tspan)
+#: 3.37.svg:62(tspan)
+#: 3.37.svg:91(tspan)
+#: 3.36.svg:62(tspan)
+#: 3.36.svg:69(tspan)
 #: 3.35.svg:15(tspan)
 #: 3.34.svg:15(tspan)
 #: 3.33.svg:15(tspan)
@@ -760,6 +837,7 @@ msgstr "C2"
 #: 3.11.svg:15(tspan)
 #: 3.10.svg:15(tspan)
 #: 1.5.svg:80(tspan)
+#, no-wrap
 msgid "C1"
 msgstr "C1"
 
@@ -770,12 +848,12 @@ msgstr "C1"
 #: 5.21.svg:33(tspan)
 #: 5.20.svg:33(tspan)
 #: 5.19.svg:33(tspan)
-#: 3.39.svg:77(tspan)
-#: 3.39.svg:105(tspan)
-#: 3.38.svg:77(tspan)
-#: 3.38.svg:105(tspan)
-#: 3.37.svg:77(tspan)
-#: 3.37.svg:105(tspan)
+#: 3.39.svg:75(tspan)
+#: 3.39.svg:103(tspan)
+#: 3.38.svg:75(tspan)
+#: 3.38.svg:103(tspan)
+#: 3.37.svg:75(tspan)
+#: 3.37.svg:103(tspan)
 #: 3.34.svg:48(tspan)
 #: 3.33.svg:55(tspan)
 #: 3.32.svg:55(tspan)
@@ -793,11 +871,13 @@ msgstr "C1"
 #: 3.15.svg:56(tspan)
 #: 3.14.svg:56(tspan)
 #: 3.13.svg:56(tspan)
+#, no-wrap
 msgid "C4"
 msgstr "C4"
 
 #: 5.25.svg:56(tspan)
 #: 5.24.svg:51(tspan)
+#, no-wrap
 msgid "tv/rebase-stat"
 msgstr "tv/rebase-stat"
 
@@ -808,14 +888,14 @@ msgstr "tv/rebase-stat"
 #: 5.21.svg:57(tspan)
 #: 5.20.svg:58(tspan)
 #: 5.19.svg:64(tspan)
-#: 3.39.svg:71(tspan)
-#: 3.39.svg:99(tspan)
-#: 3.39.svg:137(tspan)
-#: 3.38.svg:71(tspan)
-#: 3.38.svg:99(tspan)
-#: 3.38.svg:137(tspan)
-#: 3.37.svg:71(tspan)
-#: 3.37.svg:99(tspan)
+#: 3.39.svg:69(tspan)
+#: 3.39.svg:97(tspan)
+#: 3.39.svg:135(tspan)
+#: 3.38.svg:69(tspan)
+#: 3.38.svg:97(tspan)
+#: 3.38.svg:135(tspan)
+#: 3.37.svg:69(tspan)
+#: 3.37.svg:97(tspan)
 #: 3.35.svg:28(tspan)
 #: 3.34.svg:28(tspan)
 #: 3.33.svg:28(tspan)
@@ -828,6 +908,7 @@ msgstr "tv/rebase-stat"
 #: 3.17.svg:63(tspan)
 #: 3.16.svg:51(tspan)
 #: 3.15.svg:63(tspan)
+#, no-wrap
 msgid "C5"
 msgstr "C5"
 
@@ -835,12 +916,12 @@ msgstr "C5"
 #: 5.24.svg:63(tspan)
 #: 5.20.svg:64(tspan)
 #: 5.19.svg:70(tspan)
-#: 3.39.svg:84(tspan)
-#: 3.39.svg:112(tspan)
-#: 3.38.svg:84(tspan)
-#: 3.38.svg:112(tspan)
-#: 3.37.svg:84(tspan)
-#: 3.37.svg:112(tspan)
+#: 3.39.svg:82(tspan)
+#: 3.39.svg:110(tspan)
+#: 3.38.svg:82(tspan)
+#: 3.38.svg:110(tspan)
+#: 3.37.svg:82(tspan)
+#: 3.37.svg:110(tspan)
 #: 3.35.svg:41(tspan)
 #: 3.34.svg:55(tspan)
 #: 3.33.svg:62(tspan)
@@ -850,25 +931,30 @@ msgstr "C5"
 #: 3.19.svg:276(tspan)
 #: 3.18.svg:63(tspan)
 #: 3.17.svg:70(tspan)
+#, no-wrap
 msgid "C6"
 msgstr "C6"
 
 #: 5.25.svg:76(tspan)
+#, no-wrap
 msgid "jk/post-checkout"
 msgstr "jk/post-checkout"
 
 #: 5.25.svg:83(tspan)
 #: 5.24.svg:78(tspan)
+#, no-wrap
 msgid "js/notes"
 msgstr "js/notes"
 
 #: 5.25.svg:89(tspan)
 #: 5.24.svg:84(tspan)
+#, no-wrap
 msgid "db/push-cleanup"
 msgstr "db/push-cleanup"
 
 #: 5.25.svg:95(tspan)
 #: 5.24.svg:90(tspan)
+#, no-wrap
 msgid "ps/blame"
 msgstr "ps/blame"
 
@@ -876,13 +962,14 @@ msgstr "ps/blame"
 #: 5.24.svg:96(tspan)
 #: 5.20.svg:51(tspan)
 #: 5.19.svg:57(tspan)
-#: 3.39.svg:122(tspan)
-#: 3.38.svg:122(tspan)
-#: 3.37.svg:122(tspan)
+#: 3.39.svg:120(tspan)
+#: 3.38.svg:120(tspan)
+#: 3.37.svg:120(tspan)
 #: 3.21.svg:439(tspan)
 #: 3.20.svg:361(tspan)
 #: 3.19.svg:296(tspan)
 #: 3.18.svg:70(tspan)
+#, no-wrap
 msgid "C7"
 msgstr "C7"
 
@@ -891,11 +978,12 @@ msgstr "C7"
 #: 5.23.svg:58(tspan)
 #: 5.22.svg:58(tspan)
 #: 5.20.svg:79(tspan)
-#: 3.39.svg:151(tspan)
+#: 3.39.svg:149(tspan)
 #: 3.32.svg:69(tspan)
 #: 3.31.svg:69(tspan)
 #: 3.21.svg:463(tspan)
 #: 3.20.svg:385(tspan)
+#, no-wrap
 msgid "C8"
 msgstr "C8"
 
@@ -906,6 +994,7 @@ msgstr "C8"
 #: 3.31.svg:83(tspan)
 #: 3.21.svg:283(tspan)
 #: 3.20.svg:143(tspan)
+#, no-wrap
 msgid "C9"
 msgstr "C9"
 
@@ -917,6 +1006,7 @@ msgstr "C9"
 #: 3.31.svg:76(tspan)
 #: 3.21.svg:345(tspan)
 #: 3.20.svg:321(tspan)
+#, no-wrap
 msgid "C10"
 msgstr "C10"
 
@@ -924,6 +1014,7 @@ msgstr "C10"
 #: 5.24.svg:120(tspan)
 #: 3.21.svg:509(tspan)
 #: 3.20.svg:431(tspan)
+#, no-wrap
 msgid "C11"
 msgstr "C11"
 
@@ -931,41 +1022,50 @@ msgstr "C11"
 #: 5.24.svg:126(tspan)
 #: 3.21.svg:368(tspan)
 #: 3.20.svg:179(tspan)
+#, no-wrap
 msgid "C12"
 msgstr "C12"
 
 #: 5.25.svg:146(tspan)
 #: 3.21.svg:314(tspan)
 #: 3.20.svg:283(tspan)
+#, no-wrap
 msgid "C13"
 msgstr "C13"
 
 #: 5.25.svg:152(tspan)
 #: 3.21.svg:238(tspan)
+#, no-wrap
 msgid "C14"
 msgstr "C14"
 
 #: 5.25.svg:158(tspan)
+#, no-wrap
 msgid "C15"
 msgstr "C15"
 
 #: 5.25.svg:167(tspan)
+#, no-wrap
 msgid "C16"
 msgstr "C16"
 
 #: 5.25.svg:173(tspan)
+#, no-wrap
 msgid "C17"
 msgstr "C17"
 
 #: 5.25.svg:181(tspan)
+#, no-wrap
 msgid "next"
 msgstr "prochain"
 
 #: 5.25.svg:187(tspan)
+#, no-wrap
 msgid "pu"
 msgstr "pu"
 
 #: 5.24.svg:71(tspan)
+#, no-wrap
 msgid "jk/clone-post-checkout"
 msgstr "jk/clone-post-checkout"
 
@@ -974,23 +1074,39 @@ msgstr "jk/clone-post-checkout"
 #: 5.21.svg:50(tspan)
 #: 3.19.svg:322(tspan)
 #: 3.18.svg:77(tspan)
+#, no-wrap
 msgid "develop"
 msgstr "dévelop"
 
 #: 5.20.svg:71(tspan)
 #: 5.19.svg:77(tspan)
+#, no-wrap
 msgid "php_client"
 msgstr "php_client"
 
+#: 5.1.svg:22(tspan)
+#: 5.1.svg:28(tspan)
+#: 5.1.svg:34(tspan)
+#, no-wrap
+msgid "developer"
+msgstr "développeur"
+
 #: 5.1.svg:40(tspan)
-msgid "shared"
-msgstr "partagé"
+#, no-wrap
+msgid ""
+"shared\n"
+"repository"
+msgstr ""
+"dépôt\n"
+"partagé"
 
 #: 5.16.svg:64(tspan)
+#, no-wrap
 msgid "a2de3"
 msgstr "a2de3"
 
 #: 5.16.svg:78(tspan)
+#, no-wrap
 msgid "0d708"
 msgstr "0d708"
 
@@ -1083,36 +1199,43 @@ msgstr "git push origin fonctionB:fonctionBee"
 #: 5.14.svg:51(tspan)
 #: 5.13.svg:51(tspan)
 #: 5.12.svg:49(tspan)
+#, no-wrap
 msgid "85127"
 msgstr "85127"
 
 #: 5.14.svg:73(tspan)
 #: 5.13.svg:73(tspan)
+#, no-wrap
 msgid "aad88"
 msgstr "aad88"
 
 #: 5.14.svg:80(tspan)
 #: 5.13.svg:80(tspan)
+#, no-wrap
 msgid "fba9a"
 msgstr "fba9a"
 
 #: 5.14.svg:87(tspan)
 #: 5.13.svg:87(tspan)
+#, no-wrap
 msgid "cd685"
 msgstr "cd685"
 
 #: 5.14.svg:95(tspan)
 #: 5.13.svg:95(tspan)
+#, no-wrap
 msgid "origin/featureBee"
 msgstr "origin/fonctionBee"
 
 #: 5.14.svg:101(tspan)
 #: 5.13.svg:101(tspan)
+#, no-wrap
 msgid "origin/featureA"
 msgstr "origin/fonctionA"
 
 #: 5.14.svg:107(tspan)
 #: 5.13.svg:107(tspan)
+#, no-wrap
 msgid "774b3"
 msgstr "774b3"
 
@@ -1131,7 +1254,7 @@ msgstr "git merge"
 #: 5.11.svg:1472(tspan)
 #: 5.11.svg:1527(tspan)
 #, no-wrap
-msgid "git commit "
+msgid "git commit"
 msgstr "git commit"
 
 #: 5.11.svg:1483(tspan)
@@ -1152,6 +1275,7 @@ msgstr "git push origin"
 #: 3.6.svg:39(tspan)
 #: 3.5.svg:21(tspan)
 #: 3.4.svg:39(tspan)
+#, no-wrap
 msgid "testing"
 msgstr "test"
 
@@ -1161,16 +1285,19 @@ msgstr "test"
 #: 3.6.svg:45(tspan)
 #: 3.5.svg:27(tspan)
 #: 3.3.svg:63(tspan)
+#, no-wrap
 msgid "HEAD"
 msgstr "HEAD"
 
 #: 3.9.svg:36(tspan)
 #: 3.8.svg:36(tspan)
 #: 3.7.svg:36(tspan)
+#, no-wrap
 msgid "c2b9e"
 msgstr "c2b9e"
 
 #: 3.9.svg:42(tspan)
+#, no-wrap
 msgid "87ab2"
 msgstr "87ab2"
 
@@ -1181,7 +1308,8 @@ msgstr "87ab2"
 #: 3.5.svg:34(tspan)
 #: 3.4.svg:15(tspan)
 #: 3.3.svg:36(tspan)
-#: 3.2.svg:173(tspan)
+#: 3.2.svg:169(tspan)
+#, no-wrap
 msgid "98ca9"
 msgstr "98ca9"
 
@@ -1192,7 +1320,8 @@ msgstr "98ca9"
 #: 3.5.svg:40(tspan)
 #: 3.4.svg:21(tspan)
 #: 3.3.svg:42(tspan)
-#: 3.2.svg:235(tspan)
+#: 3.2.svg:231(tspan)
+#, no-wrap
 msgid "34ac2"
 msgstr "34ac2"
 
@@ -1203,63 +1332,72 @@ msgstr "34ac2"
 #: 3.5.svg:46(tspan)
 #: 3.4.svg:27(tspan)
 #: 3.3.svg:48(tspan)
+#, no-wrap
 msgid "f30ab"
 msgstr "f30ab"
 
 #: 3.3.svg:15(tspan)
-#: 3.2.svg:255(tspan)
+#: 3.2.svg:251(tspan)
+#, no-wrap
 msgid "Snapshot A"
 msgstr "Instantané A"
 
 #: 3.3.svg:22(tspan)
-#: 3.2.svg:262(tspan)
+#: 3.2.svg:258(tspan)
+#, no-wrap
 msgid "Snapshot B"
 msgstr "Instantané B"
 
 #: 3.3.svg:29(tspan)
-#: 3.2.svg:269(tspan)
+#: 3.2.svg:265(tspan)
+#, no-wrap
 msgid "Snapshot C"
 msgstr "Instantané C"
 
 #: 3.3.svg:70(tspan)
+#, no-wrap
 msgid "v1.0"
 msgstr "v1.0"
 
-#: 3.39.svg:17(tspan)
-#: 3.38.svg:17(tspan)
-#: 3.37.svg:17(tspan)
-#: 3.36.svg:17(tspan)
+#: 3.39.svg:16(tspan)
+#: 3.38.svg:16(tspan)
+#: 3.37.svg:16(tspan)
+#: 3.36.svg:16(tspan)
 #: 3.26.svg:24(tspan)
 #: 3.25.svg:24(tspan)
 #: 3.24.svg:23(tspan)
 #: 3.23.svg:23(tspan)
 #: 3.22.svg:23(tspan)
+#, no-wrap
 msgid "My Computer"
 msgstr "Mon PC"
 
-#: 3.39.svg:23(tspan)
-#: 3.38.svg:23(tspan)
-#: 3.37.svg:23(tspan)
-#: 3.36.svg:23(tspan)
+#: 3.39.svg:22(tspan)
+#: 3.38.svg:22(tspan)
+#: 3.37.svg:22(tspan)
+#: 3.36.svg:22(tspan)
 #: 3.26.svg:168(tspan)
+#, no-wrap
 msgid "teamone/master"
 msgstr "equipeun/master"
 
-#: 3.39.svg:58(tspan)
-#: 3.38.svg:58(tspan)
-#: 3.37.svg:58(tspan)
-#: 3.36.svg:58(tspan)
+#: 3.39.svg:56(tspan)
+#: 3.38.svg:56(tspan)
+#: 3.37.svg:56(tspan)
+#: 3.36.svg:56(tspan)
 #: 3.26.svg:128(tspan)
 #: 3.25.svg:128(tspan)
+#, no-wrap
 msgid "git.team1.ourcompany.com"
 msgstr "git.equipe1.notresociete.com"
 
-#: 3.39.svg:130(tspan)
-#: 3.39.svg:144(tspan)
-#: 3.38.svg:130(tspan)
-#: 3.38.svg:144(tspan)
+#: 3.39.svg:128(tspan)
+#: 3.39.svg:142(tspan)
+#: 3.38.svg:128(tspan)
+#: 3.38.svg:142(tspan)
 #: 3.35.svg:69(tspan)
 #: 3.34.svg:104(tspan)
+#, no-wrap
 msgid "C4'"
 msgstr "C4'"
 
@@ -1267,6 +1405,7 @@ msgstr "C4'"
 #: 3.34.svg:70(tspan)
 #: 3.33.svg:76(tspan)
 #: 3.32.svg:91(tspan)
+#, no-wrap
 msgid "C8'"
 msgstr "C8'"
 
@@ -1274,6 +1413,7 @@ msgstr "C8'"
 #: 3.34.svg:77(tspan)
 #: 3.33.svg:83(tspan)
 #: 3.32.svg:98(tspan)
+#, no-wrap
 msgid "C9'"
 msgstr "C9'"
 
@@ -1281,11 +1421,13 @@ msgstr "C9'"
 #: 3.34.svg:98(tspan)
 #: 3.30.svg:56(tspan)
 #: 3.29.svg:63(tspan)
+#, no-wrap
 msgid "C3'"
 msgstr "C3'"
 
 #: 3.35.svg:76(tspan)
 #: 3.34.svg:111(tspan)
+#, no-wrap
 msgid "C10'"
 msgstr "C10'"
 
@@ -1293,6 +1435,7 @@ msgstr "C10'"
 #: 3.33.svg:90(tspan)
 #: 3.32.svg:105(tspan)
 #: 3.31.svg:90(tspan)
+#, no-wrap
 msgid "client"
 msgstr "client"
 
@@ -1300,6 +1443,7 @@ msgstr "client"
 #: 3.33.svg:35(tspan)
 #: 3.32.svg:35(tspan)
 #: 3.31.svg:35(tspan)
+#, no-wrap
 msgid "server"
 msgstr "serveur"
 
@@ -1317,101 +1461,117 @@ msgstr "serveur"
 #: 3.12.svg:21(tspan)
 #: 3.11.svg:21(tspan)
 #: 3.10.svg:21(tspan)
+#, no-wrap
 msgid "C0"
 msgstr "C0"
 
-#: 3.2.svg:20(tspan)
-#: 3.2.svg:38(tspan)
-#: 3.2.svg:110(tspan)
-#: 3.1.svg:234(tspan)
+#: 3.2.svg:19(tspan)
+#: 3.2.svg:36(tspan)
+#: 3.2.svg:106(tspan)
+#: 3.1.svg:229(tspan)
+#, no-wrap
 msgid "commit"
 msgstr "commit"
 
-#: 3.2.svg:26(tspan)
-#: 3.2.svg:44(tspan)
-#: 3.2.svg:116(tspan)
-#: 3.1.svg:27(tspan)
-#: 3.1.svg:108(tspan)
-#: 3.1.svg:153(tspan)
-#: 3.1.svg:198(tspan)
-#: 3.1.svg:240(tspan)
+#: 3.2.svg:25(tspan)
+#: 3.2.svg:42(tspan)
+#: 3.2.svg:112(tspan)
+#: 3.1.svg:26(tspan)
+#: 3.1.svg:106(tspan)
+#: 3.1.svg:150(tspan)
+#: 3.1.svg:194(tspan)
+#: 3.1.svg:235(tspan)
+#, no-wrap
 msgid "size"
 msgstr "taille"
 
-#: 3.2.svg:51(tspan)
-#: 3.1.svg:294(tspan)
+#: 3.2.svg:49(tspan)
+#: 3.1.svg:289(tspan)
+#, no-wrap
 msgid "98ca9.."
 msgstr "98ca9.."
 
-#: 3.2.svg:68(tspan)
-#: 3.2.svg:145(tspan)
-#: 3.2.svg:213(tspan)
-#: 3.1.svg:256(tspan)
+#: 3.2.svg:65(tspan)
+#: 3.2.svg:141(tspan)
+#: 3.2.svg:209(tspan)
+#: 3.1.svg:251(tspan)
+#, no-wrap
 msgid "author"
 msgstr "auteur"
 
-#: 3.2.svg:74(tspan)
-#: 3.2.svg:151(tspan)
-#: 3.2.svg:219(tspan)
-#: 3.1.svg:262(tspan)
+#: 3.2.svg:71(tspan)
+#: 3.2.svg:147(tspan)
+#: 3.2.svg:215(tspan)
+#: 3.1.svg:257(tspan)
+#, no-wrap
 msgid "committer"
 msgstr "validateur"
 
-#: 3.2.svg:81(tspan)
-#: 3.1.svg:269(tspan)
+#: 3.2.svg:78(tspan)
+#: 3.1.svg:264(tspan)
+#, no-wrap
 msgid "initial commit of my project"
 msgstr "première validation du projet"
 
-#: 3.2.svg:87(tspan)
+#: 3.2.svg:84(tspan)
+#, no-wrap
 msgid "0de24"
 msgstr "0de24"
 
-#: 3.2.svg:93(tspan)
-#: 3.2.svg:99(tspan)
-#: 3.2.svg:179(tspan)
-#: 3.2.svg:185(tspan)
-#: 3.2.svg:241(tspan)
-#: 3.2.svg:247(tspan)
-#: 3.1.svg:281(tspan)
-#: 3.1.svg:287(tspan)
+#: 3.2.svg:90(tspan)
+#: 3.2.svg:96(tspan)
+#: 3.2.svg:175(tspan)
+#: 3.2.svg:181(tspan)
+#: 3.2.svg:237(tspan)
+#: 3.2.svg:243(tspan)
+#: 3.1.svg:276(tspan)
+#: 3.1.svg:282(tspan)
+#, no-wrap
 msgid "Scott"
 msgstr "Scott"
 
-#: 3.2.svg:123(tspan)
+#: 3.2.svg:119(tspan)
+#, no-wrap
 msgid "34ac2.."
 msgstr "34ac2.."
 
-#: 3.2.svg:139(tspan)
-#: 3.2.svg:207(tspan)
+#: 3.2.svg:135(tspan)
+#: 3.2.svg:203(tspan)
+#, no-wrap
 msgid "parent"
 msgstr "parent"
 
-#: 3.2.svg:158(tspan)
-msgid "fixed bug #1328 - stack"
-msgstr "correction bug #1328 - pile"
+#: 3.2.svg:154(tspan)
+#, no-wrap
+msgid ""
+"fixed bug #1328 - stack\n"
+"overflow under certain"
+msgstr ""
+"correction bug #1328 -\n"
+"dépassement de pile sous"
 
-#: 3.2.svg:161(tspan)
-msgid "overflow under certain"
-msgstr "dépasser sous certaines"
-
-#: 3.2.svg:167(tspan)
+#: 3.2.svg:163(tspan)
+#, no-wrap
 msgid "184ca"
 msgstr "184ca"
 
-#: 3.2.svg:191(tspan)
+#: 3.2.svg:187(tspan)
+#, no-wrap
 msgid "f30ab.."
 msgstr "f30ab.."
 
-#: 3.2.svg:226(tspan)
-msgid "add feature #32 - ability to"
-msgstr "ajout fonction #32 - capacité à"
+#: 3.2.svg:222(tspan)
+#, no-wrap
+msgid ""
+"add feature #32 - ability to\n"
+"add new formats to the central"
+msgstr ""
+"ajout fonction #32 - ajouter\n"
+"de nouveaux formats au central"
 
-#: 3.2.svg:229(tspan)
-msgid "add new formats to the central"
-msgstr "ajout nouveaux formats au central"
-
-#: 3.2.svg:276(tspan)
-#: 3.1.svg:275(tspan)
+#: 3.2.svg:272(tspan)
+#: 3.1.svg:270(tspan)
+#, no-wrap
 msgid "92ec2"
 msgstr "92ec2"
 
@@ -1420,6 +1580,7 @@ msgstr "92ec2"
 #: 3.24.svg:16(tspan)
 #: 3.23.svg:16(tspan)
 #: 3.22.svg:16(tspan)
+#, no-wrap
 msgid "git.ourcompany.com"
 msgstr "git.notresociete.com"
 
@@ -1427,6 +1588,7 @@ msgstr "git.notresociete.com"
 #: 3.25.svg:78(tspan)
 #: 3.24.svg:90(tspan)
 #: 3.23.svg:90(tspan)
+#, no-wrap
 msgid "a38de"
 msgstr "a38de"
 
@@ -1434,6 +1596,7 @@ msgstr "a38de"
 #: 3.25.svg:84(tspan)
 #: 3.24.svg:96(tspan)
 #: 3.23.svg:96(tspan)
+#, no-wrap
 msgid "893cf"
 msgstr "893cf"
 
@@ -1446,6 +1609,7 @@ msgstr "893cf"
 #: 3.24.svg:104(tspan)
 #: 3.24.svg:125(tspan)
 #: 3.23.svg:104(tspan)
+#, no-wrap
 msgid "31b8e"
 msgstr "31b8e"
 
@@ -1456,135 +1620,160 @@ msgstr "31b8e"
 #: 3.24.svg:110(tspan)
 #: 3.24.svg:131(tspan)
 #: 3.23.svg:110(tspan)
+#, no-wrap
 msgid "190a3"
 msgstr "190a3"
 
 #: 3.26.svg:120(tspan)
 #: 3.25.svg:120(tspan)
+#, no-wrap
 msgid "origin"
 msgstr "origin"
 
 #: 3.26.svg:155(tspan)
 #: 3.25.svg:155(tspan)
+#, no-wrap
 msgid "teamone"
 msgstr "equipeun"
 
 #: 3.26.svg:161(tspan)
+#, no-wrap
 msgid "git fetch teamone"
 msgstr "git fetch equipeun"
 
 #: 3.25.svg:161(tspan)
+#, no-wrap
 msgid "git remote add teamone git://git.team1.ourcompany.com"
 msgstr "git remote add equipeun git://git.equipe1.notresociete.com"
 
 #: 3.23.svg:118(tspan)
+#, no-wrap
 msgid "Someone else pushes"
 msgstr "Un autre pousse"
 
 #: 3.22.svg:84(tspan)
+#, no-wrap
 msgid "git clone schacon@git.ourcompany.com:project.git"
 msgstr "git clone schacon@git.notresociete.com:project.git"
 
 #: 3.22.svg:97(tspan)
+#, no-wrap
 msgid "Remote Branch"
 msgstr "Branche distante"
 
 #: 3.22.svg:103(tspan)
+#, no-wrap
 msgid "Local Branch"
 msgstr "Branche locale"
 
 #: 3.21.svg:485(tspan)
 #: 3.20.svg:411(tspan)
+#, no-wrap
 msgid "iss91v2"
 msgstr "prob91v2"
 
 #: 3.21.svg:563(tspan)
 #: 3.20.svg:263(tspan)
+#, no-wrap
 msgid "dumbidea"
 msgstr "ideeidiote"
 
 #: 3.20.svg:205(tspan)
+#, no-wrap
 msgid "iss91"
 msgstr "prob91"
 
-#: 3.1.svg:33(tspan)
+#: 3.1.svg:32(tspan)
+#, no-wrap
 msgid "92ec2.."
 msgstr "92ec2.."
 
-#: 3.1.svg:60(tspan)
+#: 3.1.svg:59(tspan)
+#, no-wrap
 msgid "5b1d3"
 msgstr "5b1d3"
 
-#: 3.1.svg:67(tspan)
+#: 3.1.svg:66(tspan)
+#, no-wrap
 msgid "cba0a"
 msgstr "cba0a"
 
-#: 3.1.svg:73(tspan)
+#: 3.1.svg:72(tspan)
+#, no-wrap
 msgid "911e7"
 msgstr "911e7"
 
-#: 3.1.svg:85(tspan)
+#: 3.1.svg:84(tspan)
+#, no-wrap
 msgid "test.rb"
 msgstr "test.rb"
 
-#: 3.1.svg:91(tspan)
+#: 3.1.svg:90(tspan)
+#, no-wrap
 msgid "LICENSE"
 msgstr "LICENCE"
 
-#: 3.1.svg:115(tspan)
+#: 3.1.svg:113(tspan)
+#, no-wrap
 msgid "5b1d3.."
 msgstr "5b1d3.."
 
-#: 3.1.svg:121(tspan)
-msgid "== Testing Library"
-msgstr "== Bibliothèque de test"
+#: 3.1.svg:119(tspan)
+#, no-wrap
+msgid ""
+"== Testing Library\n"
+"\n"
+"This library is used to test\n"
+"Ruby projects\n"
+msgstr ""
+"== Bibliothèque de test\n"
+"\n"
+"Cette bibliothèque sert à tester\n"
+"des projets Ruby\n"
 
-#: 3.1.svg:127(tspan)
-msgid "This library is used to test"
-msgstr "Cette bibliothèque sert à tester"
-
-#: 3.1.svg:130(tspan)
-msgid "Ruby projects"
-msgstr "projets Ruby"
-
-#: 3.1.svg:160(tspan)
+#: 3.1.svg:157(tspan)
+#, no-wrap
 msgid "cba0a.."
 msgstr "cba0a.."
 
-#: 3.1.svg:166(tspan)
-msgid "require 'rubygems'"
-msgstr "require 'rubygems'"
+#: 3.1.svg:163(tspan)
+#, no-wrap
+msgid ""
+"require 'rubygems'\n"
+"require 'pp'\n"
+"\n"
+"module Test\n"
+"module Tester\n"
+msgstr ""
+"require 'rubygems'\n"
+"require 'pp'\n"
+"\n"
+"module Test\n"
+"module Tester\n"
 
-#: 3.1.svg:169(tspan)
-msgid "require 'pp'"
-msgstr "require 'pp'"
-
-#: 3.1.svg:175(tspan)
-msgid "module Test"
-msgstr "module Test"
-
-#: 3.1.svg:178(tspan)
-msgid "module Tester"
-msgstr "module Testeur"
-
-#: 3.1.svg:205(tspan)
+#: 3.1.svg:201(tspan)
+#, no-wrap
 msgid "911e7.."
 msgstr "911e7.."
 
-#: 3.1.svg:211(tspan)
-msgid "The MIT License"
-msgstr "Licence MIT"
-
-#: 3.1.svg:217(tspan)
-msgid "Copyright (c) &lt;year&gt; &lt;copyright"
-msgstr "Copyright (c) &lt;year&gt; &lt;copyright"
-
-#: 3.1.svg:223(tspan)
-msgid "Permission is hereby granted,"
-msgstr "Permission est accordée"
+#: 3.1.svg:207(tspan)
+#, no-wrap
+msgid ""
+"The MIT License\n"
+"\n"
+"Copyright (c) &lt;year&gt; &lt;copyright\n"
+"\n"
+"Permission is hereby granted,"
+msgstr ""
+"The MIT License\n"
+"\n"
+"Copyright (c) &lt;year&gt; &lt;copyright\n"
+"\n"
+"Permission is hereby granted,"
 
 #: 3.19.svg:333(tspan)
 #: 3.18.svg:84(tspan)
+#, no-wrap
 msgid "topic"
 msgstr "sujet"
 
@@ -1595,98 +1784,121 @@ msgstr "sujet"
 #: 3.13.svg:42(tspan)
 #: 3.12.svg:42(tspan)
 #: 3.11.svg:42(tspan)
+#, no-wrap
 msgid "iss53"
 msgstr "prob53"
 
 #: 3.16.svg:58(tspan)
-msgid "Common"
-msgstr "Commun"
-
-#: 3.16.svg:61(tspan)
-msgid "Ancestor"
-msgstr "Ancêtre"
+#, no-wrap
+msgid ""
+"Common\n"
+"Ancestor"
+msgstr ""
+"Ancêtre\n"
+"commun"
 
 #: 3.16.svg:68(tspan)
+#, no-wrap
+msgid ""
+"Snapshot to\n"
+"Merge Into"
+msgstr ""
+"Instantané\n"
+"cible"
+
 #: 3.16.svg:77(tspan)
-msgid "Snapshot to"
-msgstr "Instantané"
-
-#: 3.16.svg:71(tspan)
-msgid "Merge Into"
-msgstr "Fusion dans"
-
-#: 3.16.svg:80(tspan)
-msgid "Merge In"
-msgstr "Fusion dans"
+#, no-wrap
+msgid ""
+"Snapshot to\n"
+"Merge In"
+msgstr ""
+"Instantané\n"
+"à fusionner"
 
 #: 3.14.svg:63(tspan)
 #: 3.13.svg:63(tspan)
+#, no-wrap
 msgid "hotfix"
 msgstr "correctif"
 
 #: 2.1.svg:7(tspan)
+#, no-wrap
 msgid "Staged"
 msgstr "Indéxé"
 
 #: 2.1.svg:13(tspan)
+#, no-wrap
 msgid "Modified"
 msgstr "Modifié"
 
 #: 2.1.svg:19(tspan)
+#, no-wrap
 msgid "Unmodified"
 msgstr "Non modifié"
 
 #: 2.1.svg:28(tspan)
 #: 1.6.svg:31(tspan)
+#, no-wrap
 msgid "stage files"
 msgstr "fichiers d'index"
 
 #: 2.1.svg:35(tspan)
 #: 1.6.svg:52(tspan)
+#, no-wrap
 msgid "Commit"
 msgstr "Validation"
 
 #: 2.1.svg:41(tspan)
+#, no-wrap
 msgid "File Status Lifecycle"
 msgstr "Cycle d'un fichier"
 
 #: 2.1.svg:49(tspan)
+#, no-wrap
 msgid "Edit the file"
 msgstr "Éditez le fichier"
 
 #: 2.1.svg:55(tspan)
+#, no-wrap
 msgid "Stage the file"
 msgstr "Indexez le fichier"
 
 #: 2.1.svg:61(tspan)
+#, no-wrap
 msgid "Untracked"
 msgstr "Non suivi"
 
 #: 2.1.svg:70(tspan)
+#, no-wrap
 msgid "Add the file"
 msgstr "Ajoutez le fichier"
 
 #: 2.1.svg:76(tspan)
+#, no-wrap
 msgid "Remove the file"
 msgstr "Retirez le fichier"
 
 #: 1.6.svg:7(tspan)
-msgid "Git Directory"
-msgstr "Répertoire Git"
-
-#: 1.6.svg:10(tspan)
-msgid "(Repository)"
-msgstr "(Dépôt)"
+#, no-wrap
+msgid ""
+"Git Directory\n"
+"(Repository)"
+msgstr ""
+"Répertoire Git\n"
+"(dépôt)"
 
 #: 1.6.svg:38(tspan)
+#, no-wrap
 msgid "Checkout the project"
 msgstr "Extraction du projet"
 
 #: 1.6.svg:44(tspan)
+#, no-wrap
 msgid "Local Operations"
 msgstr "Opérations locales"
 
 #: 1.6.svg:58(tspan)
+#, no-wrap
 msgid "Stage files"
 msgstr "Fichiers d'index"
 
@@ -1697,6 +1909,7 @@ msgstr "Fichiers d'index"
 #: 1.3.svg:127(tspan)
 #: 1.2.svg:48(tspan)
 #: 1.1.svg:39(tspan)
+#, no-wrap
 msgid "Version 1"
 msgstr "Version 1"
 
@@ -1707,6 +1920,7 @@ msgstr "Version 1"
 #: 1.3.svg:121(tspan)
 #: 1.2.svg:42(tspan)
 #: 1.1.svg:33(tspan)
+#, no-wrap
 msgid "Version 2"
 msgstr "Version 2"
 
@@ -1717,67 +1931,81 @@ msgstr "Version 2"
 #: 1.3.svg:115(tspan)
 #: 1.2.svg:36(tspan)
 #: 1.1.svg:27(tspan)
+#, no-wrap
 msgid "Version 3"
 msgstr "Version 3"
 
 #: 1.5.svg:56(tspan)
 #: 1.4.svg:58(tspan)
+#, no-wrap
 msgid "Version 4"
 msgstr "Version 4"
 
 #: 1.5.svg:62(tspan)
 #: 1.4.svg:64(tspan)
+#, no-wrap
 msgid "Version 5"
 msgstr "Version 5"
 
 #: 1.5.svg:68(tspan)
 #: 1.5.svg:86(tspan)
+#, no-wrap
 msgid "A1"
 msgstr "A1"
 
 #: 1.5.svg:104(tspan)
 #: 1.5.svg:122(tspan)
+#, no-wrap
 msgid "A2"
 msgstr "A2"
 
 #: 1.5.svg:110(tspan)
+#, no-wrap
 msgid "B1"
 msgstr "B1"
 
 #: 1.5.svg:128(tspan)
+#, no-wrap
 msgid "B2"
 msgstr "B3"
 
 #: 1.5.svg:141(tspan)
 #: 1.4.svg:114(tspan)
+#, no-wrap
 msgid "Checkins over Time"
 msgstr "Validations dans le temps"
 
 #: 1.4.svg:16(tspan)
+#, no-wrap
 msgid "File A"
 msgstr "Fichier A"
 
 #: 1.4.svg:22(tspan)
 #: 1.4.svg:77(tspan)
 #: 1.4.svg:91(tspan)
+#, no-wrap
 msgid "Δ1"
 msgstr "Δ1"
 
 #: 1.4.svg:28(tspan)
+#, no-wrap
 msgid "File B"
 msgstr "Fichier B"
 
 #: 1.4.svg:34(tspan)
+#, no-wrap
 msgid "File C"
 msgstr "Fichier C"
 
 #: 1.4.svg:70(tspan)
 #: 1.4.svg:83(tspan)
 #: 1.4.svg:97(tspan)
+#, no-wrap
 msgid "Δ2"
 msgstr "Δ2"
 
 #: 1.4.svg:104(tspan)
+#, no-wrap
 msgid "Δ3"
 msgstr "Δ3"
 
@@ -1786,10 +2014,12 @@ msgstr "Δ3"
 #: 1.3.svg:109(tspan)
 #: 1.2.svg:30(tspan)
 #: 1.1.svg:21(tspan)
+#, no-wrap
 msgid "Version Database"
 msgstr "Base de données"
 
 #: 1.3.svg:50(tspan)
+#, no-wrap
 msgid "Server Computer"
 msgstr "Ordinateur serveur"
 
@@ -1798,38 +2028,77 @@ msgstr "Ordinateur serveur"
 #: 1.2.svg:17(tspan)
 #: 1.2.svg:70(tspan)
 #: 1.1.svg:8(tspan)
+#, no-wrap
 msgid "File"
 msgstr "Fichier"
 
 #: 1.3.svg:64(tspan)
 #: 1.2.svg:63(tspan)
+#, no-wrap
 msgid "Computer A"
 msgstr "Ordinateur A"
 
 #: 1.3.svg:102(tspan)
 #: 1.2.svg:82(tspan)
+#, no-wrap
 msgid "Computer B"
 msgstr "Ordinateur B"
 
 #: 1.2.svg:23(tspan)
 #: 1.2.svg:76(tspan)
 #: 1.1.svg:14(tspan)
+#, no-wrap
 msgid "Checkout"
 msgstr "Extraction"
 
 #: 1.2.svg:57(tspan)
+#, no-wrap
 msgid "Central VCS Server"
 msgstr "Serveur VCS central"
 
 #: 1.1.svg:48(tspan)
+#, no-wrap
 msgid "Local Computer"
 msgstr "Ordinateur local"
 
-#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
-#: 1.1.svg:0(None)
-msgid "translator-credits"
-msgstr "crédits traducteurs"
-
+#~ msgid "public"
+#~ msgstr "public"
+#~ msgid "blessed"
+#~ msgstr "béni"
+#~ msgid "private"
+#~ msgstr "privé"
+#~ msgid "shared"
+#~ msgstr "partagé"
+#~ msgid "overflow under certain"
+#~ msgstr "dépasser sous certaines"
+#~ msgid "add feature #32 - ability to"
+#~ msgstr "ajout fonction #32 - capacité à"
+#~ msgid "== Testing Library"
+#~ msgstr "== Bibliothèque de test"
+#~ msgid "Ruby projects"
+#~ msgstr "projets Ruby"
+#~ msgid "require 'rubygems'"
+#~ msgstr "require 'rubygems'"
+#~ msgid "require 'pp'"
+#~ msgstr "require 'pp'"
+#~ msgid "module Test"
+#~ msgstr "module Test"
+#~ msgid "module Tester"
+#~ msgstr "module Testeur"
+#~ msgid "The MIT License"
+#~ msgstr "Licence MIT"
+#~ msgid "Permission is hereby granted,"
+#~ msgstr "Permission est accordée"
+#~ msgid "Common"
+#~ msgstr "Commun"
+#~ msgid "Merge Into"
+#~ msgstr "Fusion dans"
+#~ msgid "Merge In"
+#~ msgstr "Fusion dans"
+#~ msgid "(Repository)"
+#~ msgstr "(Dépôt)"
+#~ msgid "translator-credits"
+#~ msgstr "crédits traducteurs"
 #~ msgid "1"
 #~ msgstr "1"
 #~ msgid "2"
