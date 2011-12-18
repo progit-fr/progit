@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<marker id="Arrow1Lend" orient="auto" refX="0.0" refY="0.0" style="overflow:visible;">
+			
+              
+			<path d="M -10,0.0 L -10.0,-2.0 L 0.0,0.0 L -10.0,2.0 z " id="path3666" style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0px;marker-start:none;"/>
+			
+            
+		</marker>
+	</defs>
+	<g style="stroke:#000000;fill:#fff">
+		<rect height="55.0" id="292" rx="5.0" ry="5.0" style="stroke:#1b2350;stroke-width:3.000000px;fill:#d0ceff" width="95.0" x="309.0" y="149.0"/>
+		<text id="292_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="309.0" y="149.0">
+			<tspan fill="#000000" font-family="Geneva;" font-size="14.0px" id="292_line1" stroke="#000000" text-align="center" text-anchor="middle" x="356.5" y="183.5">arbre</tspan>
+		</text>
+		<rect height="55.0" id="293" rx="5.0" ry="5.0" style="stroke:#1b2350;stroke-width:3.000000px;fill:#d0ceff" width="95.0" x="472.0" y="263.0"/>
+		<text id="293_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="472.0" y="263.0">
+			<tspan fill="#000000" font-family="Geneva;" font-size="14.0px" id="293_line1" stroke="#000000" text-align="center" text-anchor="middle" x="519.5" y="297.5">arbre</tspan>
+		</text>
+		<rect height="55.0" id="294" rx="5.0" ry="5.0" style="stroke:#500b0b;stroke-width:3.000000px;fill:#ffbfbd" width="95.0" x="146.0" y="263.0"/>
+		<text id="294_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="146.0" y="263.0">
+			<tspan fill="#000000" font-family="Geneva;" font-size="14.0px" id="294_line1" stroke="#000000" text-align="center" text-anchor="middle" x="193.5" y="297.5">blob</tspan>
+		</text>
+		<rect height="55.0" id="295" rx="5.0" ry="5.0" style="stroke:#500b0b;stroke-width:3.000000px;fill:#ffbfbd" width="95.0" x="309.0" y="263.0"/>
+		<text id="295_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="309.0" y="263.0">
+			<tspan fill="#000000" font-family="Geneva;" font-size="14.0px" id="295_line1" stroke="#000000" text-align="center" text-anchor="middle" x="356.5" y="297.5">blob</tspan>
+		</text>
+		<rect height="55.0" id="296" rx="5.0" ry="5.0" style="stroke:#500b0b;stroke-width:3.000000px;fill:#ffbfbd" width="95.0" x="472.0" y="377.0"/>
+		<text id="296_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="472.0" y="377.0">
+			<tspan fill="#000000" font-family="Geneva;" font-size="14.0px" id="296_line1" stroke="#000000" text-align="center" text-anchor="middle" x="519.5" y="411.5">blob</tspan>
+		</text>
+		<path d="M 356.5,205.5 L 356.5,261.5" id="297" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
+		<path d="M 315.951,204.86 L 234.049,262.14" id="298" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
+		<path d="M 397.049,204.86 L 478.951,262.14" id="299" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
+		<path d="M 519.5,319.5 L 519.5,375.5" id="300" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
+		<rect height="29.0" id="301" style="stroke:none" width="61.0" x="243.361" y="219.797"/>
+		<text id="301_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Monaco;font-size:14px" x="243.361" y="219.797">
+			<tspan fill="#000000" font-family="Monaco;" font-size="14.0px" id="301_line1" stroke="#000000" text-align="center" text-anchor="middle" x="273.861" y="241.297">LISEZMOI</tspan>
+		</text>
+		<rect height="29.0" id="302" style="stroke:none" width="78.0" x="317.5" y="219.5"/>
+		<text id="302_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Monaco;font-size:14px" x="317.5" y="219.5">
+			<tspan fill="#000000" font-family="Monaco;" font-size="14.0px" id="302_line1" stroke="#000000" text-align="center" text-anchor="middle" x="356.5" y="241.0">Rakefile</tspan>
+		</text>
+		<rect height="29.0" id="303" style="stroke:none" width="36.0" x="422.306" y="220.613"/>
+		<text id="303_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Monaco;font-size:14px" x="422.306" y="220.613">
+			<tspan fill="#000000" font-family="Monaco;" font-size="14.0px" id="303_line1" stroke="#000000" text-align="center" text-anchor="middle" x="440.306" y="242.113">lib</tspan>
+		</text>
+		<rect height="29.0" id="304" style="stroke:none" width="61.0" x="489.0" y="327.537"/>
+		<text id="304_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Monaco;font-size:14px" x="489.0" y="327.537">
+			<tspan fill="#000000" font-family="Monaco;" font-size="14.0px" id="304_line1" stroke="#000000" text-align="center" text-anchor="middle" x="519.5" y="349.037">git.rb</tspan>
+		</text>
+	</g>
+</svg>

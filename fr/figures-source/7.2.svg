@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="500" height="303" id="svg2932">
+  <defs id="defs2936">
+    <marker refX="0" refY="0" orient="auto" id="Arrow1Lend" style="overflow:visible">
+      <path d="m -10,0 0,-2 10,2 -10,2 z" id="path3666" style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;marker-start:none"/>
+    </marker>
+  </defs>
+  <rect width="79.1567" height="16.9072" x="496.87128" y="83.541687" id="21" style="fill:none;stroke:none"/>
+  <rect width="166.11031" height="169.96957" x="158.23105" y="27.840092" id="17" style="fill:#dcdcdc;stroke:#000000;stroke-width:1"/>
+  <text x="-31.670666" y="1.0858464" id="21_text" style="font-size:18px;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica-Bold">
+    <tspan x="7.9076967" y="18.539459" id="21_line1" style="font-size:18px;font-weight:bold;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:#000000;font-family:'Helvetica;,Sans-serif'">Zone d'index</tspan>
+  </text>
+  <text x="462.22266" y="0.54821599" id="21_text-9" style="font-size:18px;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica-Bold">
+    <tspan x="501.80103" y="18.001829" id="21_line1-2" style="font-size:18px;font-weight:bold;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;stroke:#000000;font-family:'Helvetica;,Sans-serif'">Répertoire de travail</tspan>
+  </text>
+  <g transform="translate(0,-7.6293945e-6)" id="g4297">
+    <rect width="126.37321" height="33.135597" rx="5" ry="5" x="3.5891798" y="74.8908" id="316" style="fill:#baffb3;stroke:#28502c;stroke-width:3px"/>
+    <text x="10.002739" y="64.978935" id="316_text" style="font-size:14px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Geneva">
+      <tspan x="66.192741" y="101.47894" id="316_line1" style="font-size:18px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Courier;'">FichierA.txt</tspan>
+    </text>
+  </g>
+  <g transform="translate(0,69.47578)" id="g4297-7">
+    <rect width="126.37321" height="33.135597" rx="5" ry="5" x="3.5891798" y="74.8908" id="316-4" style="fill:#baffb3;stroke:#28502c;stroke-width:3px"/>
+    <text x="10.002739" y="64.978935" id="316_text-9" style="font-size:14px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Geneva">
+      <tspan x="66.192741" y="101.47894" id="316_line1-9" style="font-size:18px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Courier;'">FichierB.txt</tspan>
+    </text>
+  </g>
+  <g transform="translate(0,138.95157)" id="g4297-7-4">
+    <rect width="126.37321" height="33.135597" rx="5" ry="5" x="3.5891798" y="74.8908" id="316-4-5" style="fill:#baffb3;stroke:#28502c;stroke-width:3px"/>
+    <text x="10.002739" y="64.978935" id="316_text-9-9" style="font-size:14px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Geneva">
+      <tspan x="66.192741" y="101.47894" id="316_line1-9-3" style="font-size:18px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Courier;'">FichierC.txt</tspan>
+    </text>
+  </g>
+  <g id="g4490">
+    <rect width="126.37321" height="33.135597" rx="5" ry="5" x="352.60999" y="74.890793" id="316-1" style="fill:#82b4f0;fill-opacity:1;stroke:#5e5b58;stroke-width:3px;stroke-opacity:1"/>
+    <text x="359.02356" y="64.978928" id="316_text-99" style="font-size:14px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Geneva">
+      <tspan x="415.21356" y="101.47894" id="316_line1-7" style="font-size:18px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Courier;'">fichierA.txt'</tspan>
+    </text>
+  </g>
+  <rect width="126.37321" height="33.135597" rx="5" ry="5" x="352.60999" y="144.36658" id="316-4-2" style="fill:#82b4f0;fill-opacity:1;stroke:#5e5b58;stroke-width:3px;stroke-opacity:1"/>
+  <text x="359.02356" y="134.45471" id="316_text-9-5" style="font-size:14px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Geneva">
+    <tspan x="415.21356" y="170.95471" id="316_line1-9-34" style="font-size:18px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Courier;'">fichierB.txt'</tspan>
+  </text>
+  <g transform="translate(349.02081,138.95156)" id="g4297-7-4-9">
+    <rect width="126.37321" height="33.135597" rx="5" ry="5" x="3.5891798" y="74.8908" id="316-4-5-0" style="fill:#baffb3;stroke:#28502c;stroke-width:3px"/>
+    <text x="10.002739" y="64.978935" id="316_text-9-9-2" style="font-size:14px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Geneva">
+      <tspan x="66.192741" y="101.47894" id="316_line1-9-3-0" style="font-size:18px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Courier;'">FichierC.txt</tspan>
+    </text>
+  </g>
+  <text x="200.43398" y="36.231728" id="21_text-9-1" style="font-size:18px;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica-Bold">
+    <tspan x="240.01234" y="53.685341" id="21_line1-2-9" style="font-size:18px;font-weight:bold;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Helvetica;,Sans-serif'">Filtre *.txt</tspan>
+  </text>
+  <g id="g4529">
+    <rect width="126.37321" height="33.135597" rx="5" ry="5" x="175.28119" y="74.890793" id="316-1-2" style="fill:#ffb682;fill-opacity:1;stroke:#5e5b58;stroke-width:3px;stroke-opacity:1"/>
+    <text x="181.69476" y="64.978928" id="316_text-99-1" style="font-size:14px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Geneva">
+      <tspan x="237.88477" y="101.47894" id="316_line1-7-2" style="font-size:18px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Courier;'">smudge</tspan>
+    </text>
+  </g>
+  <rect width="126.37321" height="33.135597" rx="5" ry="5" x="175.28119" y="144.36658" id="316-1-2-7" style="fill:#ffb682;fill-opacity:1;stroke:#5e5b58;stroke-width:3px;stroke-opacity:1"/>
+  <text x="181.69476" y="134.45471" id="316_text-99-1-3" style="font-size:14px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Geneva">
+    <tspan x="237.88477" y="170.95473" id="316_line1-7-2-1" style="font-size:18px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Courier;'">clean</tspan>
+  </text>
+  <path d="m 129.96239,91.458591 45.3188,0" inkscape:connection-start="#g4297" inkscape:connection-end="#g4529" id="path4577" style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"/>
+  <path d="m 301.6544,91.458591 50.95559,0" inkscape:connection-start="#g4529" inkscape:connection-end="#g4490" id="path4765" style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend);display:inline"/>
+  <path d="m 131.62404,146.69877 41.99551,-45.669" id="path4953" style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"/>
+  <path d="m 129.96239,230.41017 222.6476,-1e-5" inkscape:connection-start="#g4297-7-4" inkscape:connection-end="#g4297-7-4-9" id="path5141" style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"/>
+  <path d="m 303.76155,102.94298 46.65992,41.53778" id="path4953-0" style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"/>
+  <text x="182.00093" y="259.80026" id="316_text-99-1-3-5" style="font-size:14px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Geneva">
+    <tspan x="238.19093" y="296.30029" id="316_line1-7-2-1-6" style="font-size:18px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Courier;'">git checkout</tspan>
+  </text>
+</svg>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" id="svg2936">
+  <defs id="defs2938">
+    <marker refX="0" refY="0" orient="auto" id="Arrow1Lend" style="overflow:visible">
+      <path d="m -10,0 0,-2 10,2 -10,2 z" id="path3666" style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;marker-start:none"/>
+    </marker>
+    <marker refX="0" refY="0" orient="auto" id="Arrow1Lend-8" style="overflow:visible">
+      <path d="m -10,0 0,-2 10,2 -10,2 z" id="path3666-4" style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;marker-start:none"/>
+    </marker>
+    <marker refX="0" refY="0" orient="auto" id="marker3083" style="overflow:visible">
+      <path d="m -10,0 0,-2 10,2 -10,2 z" id="path3085" style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;marker-start:none"/>
+    </marker>
+    <marker refX="0" refY="0" orient="auto" id="marker3087" style="overflow:visible">
+      <path d="m -10,0 0,-2 10,2 -10,2 z" id="path3089" style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;marker-start:none"/>
+    </marker>
+    <marker refX="0" refY="0" orient="auto" id="Arrow1Lend-5" style="overflow:visible">
+      <path d="m -10,0 0,-2 10,2 -10,2 z" id="path3666-0" style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;marker-start:none"/>
+    </marker>
+    <marker refX="0" refY="0" orient="auto" id="marker3186" style="overflow:visible">
+      <path d="m -10,0 0,-2 10,2 -10,2 z" id="path3188" style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;marker-start:none"/>
+    </marker>
+    <marker refX="0" refY="0" orient="auto" id="marker3190" style="overflow:visible">
+      <path d="m -10,0 0,-2 10,2 -10,2 z" id="path3192" style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;marker-start:none"/>
+    </marker>
+    <marker refX="0" refY="0" orient="auto" id="marker3194" style="overflow:visible">
+      <path d="m -10,0 0,-2 10,2 -10,2 z" id="path3196" style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;marker-start:none"/>
+    </marker>
+    <marker refX="0" refY="0" orient="auto" id="marker3198" style="overflow:visible">
+      <path d="m -10,0 0,-2 10,2 -10,2 z" id="path3200" style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;marker-start:none"/>
+    </marker>
+    <marker refX="0" refY="0" orient="auto" id="Arrow1Lend-4" style="overflow:visible">
+      <path d="m -10,0 0,-2 10,2 -10,2 z" id="path3666-5" style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;marker-start:none"/>
+    </marker>
+  </defs>
+  <g id="g4715">
+    <path d="m 411.44993,234.32333 0,70.21875 77.25,111.90625 41.21875,0 90.3125,0 0,28.53125 63.625,-63.65625 -63.625,-63.625 0,28.53125 -90.3125,0 -41.21875,0 -77.25,-111.90625 z" id="rect3162-0-6-3" style="fill:#5f8bbf;fill-opacity:1;stroke:none"/>
+    <path d="m 102.48118,122.04208 0,70.25 77.25,111.90625 41.25,0 435.875,0 0,28.53125 63.65625,-63.65625 -63.65625,-63.625 0,28.5 -435.875,0 -41.25,0 -77.25,-111.90625 z" id="rect3162-0-6-4" style="fill:#5f8bbf;fill-opacity:1;stroke:none"/>
+    <path d="m 499.60618,93.167081 0,28.531249 -355.625,0 -41.25,0 0,70.21875 41.25,0 355.625,0 0,28.53125 63.625,-63.625 -63.625,-63.656249 z" id="rect3162" style="fill:#5f8bbf;fill-opacity:1;stroke:none"/>
+    <rect width="48.157501" height="36" rx="8.085433" ry="18" x="94.33036" y="138.8158" id="1324" style="fill:#d3f5d6;stroke:#616161;stroke-width:3px"/>
+    <text x="94.33036" y="138.8158" id="1324_text" style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica">
+      <tspan x="118.4091" y="162.8158" id="1324_line1" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">C1</tspan>
+    </text>
+    <rect width="48.157501" height="36" rx="8.085433" ry="18" x="171.33035" y="251.07581" id="1345" style="fill:#d3f5d6;stroke:#616161;stroke-width:3px"/>
+    <text x="171.33035" y="251.07581" id="1345_text" style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica">
+      <tspan x="195.40909" y="275.07581" id="1345_line1" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">C2</tspan>
+    </text>
+    <path d="m 182.21436,249.83879 -50.61001,-73.786" id="1346" style="fill:none;stroke:#000000;marker-start:none;marker-end:url(#Arrow1Lend)"/>
+    <path d="m 246.83036,269.07579 -25.843,0" id="1350" style="fill:none;stroke:#000000;marker-start:none;marker-end:url(#Arrow1Lend)"/>
+    <rect width="48.157501" height="36" rx="8.085433" ry="18" x="248.33035" y="251.07581" id="1299" style="fill:#d3f5d6;stroke:#616161;stroke-width:3px"/>
+    <text x="248.33035" y="251.07581" id="1299_text" style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica">
+      <tspan x="272.40912" y="275.07581" id="1299_line1" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">C3</tspan>
+    </text>
+    <rect width="48.157501" height="36" rx="8.085433" ry="18" x="325.64536" y="251.07581" id="1304" style="fill:#d3f5d6;stroke:#616161;stroke-width:3px"/>
+    <text x="325.64536" y="251.07581" id="1304_text" style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica">
+      <tspan x="349.72412" y="275.07581" id="1304_line1" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">C4</tspan>
+    </text>
+    <path d="m 324.14537,269.07581 -26.1575,0" id="1306" style="fill:none;stroke:#000000;marker-start:none;marker-end:url(#Arrow1Lend)"/>
+    <path d="m 401.77537,269.07581 -26.472,0" id="1308" style="fill:none;stroke:#000000;marker-start:none;marker-end:url(#Arrow1Lend)"/>
+    <rect width="48.157501" height="36" rx="8.085433" ry="18" x="403.27536" y="251.07579" id="1324-6" style="fill:#d3f5d6;stroke:#616161;stroke-width:3px"/>
+    <text x="403.27536" y="251.07579" id="1324_text-3" style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica">
+      <tspan x="427.3541" y="275.07581" id="1324_line1-2" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">C5</tspan>
+    </text>
+    <path d="m 491.15938,362.09878 -50.61,-73.786" id="1346-6" style="fill:none;stroke:#000000;marker-start:none;marker-end:url(#Arrow1Lend)"/>
+    <rect width="48.157501" height="36" rx="8.085433" ry="18" x="480.27539" y="363.33582" id="1332-0" style="fill:#d3f5d6;stroke:#616161;stroke-width:3px"/>
+    <text x="480.27539" y="363.33582" id="1332_text-6" style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica">
+      <tspan x="504.35413" y="387.33582" id="1332_line1-1" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">C6</tspan>
+    </text>
+    <rect width="48.157501" height="36" rx="8.085433" ry="18" x="557.27539" y="363.33582" id="1347-5" style="fill:#d3f5d6;stroke:#616161;stroke-width:3px"/>
+    <text x="557.27539" y="363.33582" id="1347_text-6" style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica">
+      <tspan x="581.35413" y="387.33582" id="1347_line1-9" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">C7</tspan>
+    </text>
+    <path d="m 555.77537,381.33579 -25.843,0" id="1348-3" style="fill:none;stroke:#000000;marker-start:none;marker-end:url(#Arrow1Lend)"/>
+    <text x="-3.2839327" y="148.09129" id="23_text" style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica-Bold">
+      <tspan x="39.368431" y="161.62363" id="23_line1" style="font-size:14px;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Helvetica;,Sans-serif'">master</tspan>
+    </text>
+    <text x="0.80395889" y="259.40579" id="23_text-9" style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica-Bold">
+      <tspan x="43.456322" y="272.93811" id="23_line1-3" style="font-size:14px;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Helvetica;,Sans-serif'">dévelop</tspan>
+    </text>
+    <text x="-10.318108" y="371.6658" id="23_text-4" style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica-Bold">
+      <tspan x="32.334251" y="385.19812" id="23_line1-5" style="font-size:14px;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Helvetica;,Sans-serif'">sujet</tspan>
+    </text>
+  </g>
+</svg>
