@@ -8,6 +8,13 @@
 			
             
 		</marker>
+		<marker id="Arrow1Lenddiv4" orient="auto" refX="0.0" refY="0.0" style="overflow:visible;" markerUnits="userSpaceOnUse">
+			
+              
+			<path d="M -7,0.0 L -7.0,-4.0 L 3.0,0.0 L -7.0,4.0 z " id="path3666" style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0px;marker-start:none;"/>
+			
+            
+		</marker>
 	</defs>
 	<g style="stroke:#000000;fill:#fff">
 		<rect height="174.622" id="5" style="stroke:#000000;stroke-width:2.000000px" width="457.147" x="59.4263" y="29.3783"/>
@@ -83,7 +90,7 @@
 		</text>
 		<path d="M 424.47,157.211 L 402.41,157.211" id="1381" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
 		<path d="M 341.47,157.365 L 319.42,157.477" id="1382" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 160.0,214.0 L 160.0,256.0" id="1367" style="marker-start:none;stroke:#000000;stroke-width:4.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
+		<path d="M 160.0,214.0 L 160.0,256.0" id="1367" style="marker-start:none;stroke:#000000;stroke-width:4.000000px;marker-end:url(#Arrow1Lenddiv4);fill:none"/>
 		<rect height="26.0" id="1368" style="stroke:none;fill:none" width="104.0" x="207.0" y="228.0"/>
 		<text id="1368_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: TheSansMonoCondensed-SemiBold;font-size:13px" x="207.0" y="228.0">
 			<tspan fill="#000000" font-family="TheSansMonoCondensed-SemiBold;" font-size="13.0px" font-weight="bold" id="1368_line1" stroke="#000000" text-align="center" text-anchor="middle" x="259.0" y="247.5">git fetch origin</tspan>

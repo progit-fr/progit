@@ -8,6 +8,13 @@
 			
             
 		</marker>
+		<marker id="Arrow1Lenddiv4" orient="auto" refX="0.0" refY="0.0" style="overflow:visible;" markerUnits="userSpaceOnUse">
+			
+              
+			<path d="M -7,0.0 L -7.0,-4.0 L 3.0,0.0 L -7.0,4.0 z " id="path3666" style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0px;marker-start:none;"/>
+			
+            
+		</marker>
 	</defs>
 	<g style="stroke:#000000;fill:#fff">
 		<rect height="182.622" id="1395" style="stroke:#000000;stroke-width:2.000000px;fill:#e1e1e1" width="249.494" x="76.4263" y="48.378"/>
@@ -118,7 +125,7 @@
 		<text id="1408_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="367.514" y="250.5">
 			<tspan fill="#000000" font-family="TheSansMonoCondensed-SemiBold;" font-size="13.0px" font-weight="bold" id="1408_line1" stroke="#000000" text-align="center" text-anchor="middle" x="423.014" y="270.0">git fetch equipeun</tspan>
 		</text>
-		<path d="M 513.0,234.5 L 513.0,276.5" id="1367" style="marker-start:none;stroke:#000000;stroke-width:4.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
+		<path d="M 513.0,234.5 L 513.0,276.5" id="1367" style="marker-start:none;stroke:#000000;stroke-width:4.000000px;marker-end:url(#Arrow1Lenddiv4);fill:none"/>
 		<rect height="30.2716" id="1409" style="stroke:#616161;stroke-width:2.000000px;fill:#eeeeee" width="96.819" x="374.605" y="325.0"/>
 		<text id="1409_text" style="fill:#cccccc;stroke:#cccccc;stroke-width:0.1px;font-family: Luxi Sans;font-size:10px" x="374.605" y="325.0">
 			<tspan fill="#777777" font-family="LucidaGrande;" font-size="10.0px" id="1409_line1" stroke="#777777" text-align="center" text-anchor="middle" x="423.0145" y="345.1358">equipeun/master</tspan>
