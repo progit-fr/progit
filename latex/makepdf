@@ -23,7 +23,7 @@ def figures(lang,&block)
 		Dir["#$root/figures/18333*.png"].each do |file|
 			rm(file.gsub(/18333fig0(\d)0?(\d+)\-tn/, '\1.\2'))
 		end
-                rm(Dir["#$root/#{lang}/figures/*.pdf"])
+                rm(Dir["#$root/figures/*.pdf"])
 	end
 end
 
