@@ -33,17 +33,10 @@
 		<rect height="36.0" id="1354" rx="8.26544135391" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="47.4648" x="228.577" y="138.24"/>
 		<text id="1354_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Courier New;font-size:12px" x="228.577" y="138.24">
 			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1354_line1" stroke="#000000" text-align="center" text-anchor="middle" x="252.3094" y="162.24">
-				C2
-			</tspan>
-		</text>
-		<path d="M 227.077,156.054 L 209.555,155.926" id="1355" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="36.0" id="1354" rx="8.26544135391" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="47.4648" x="296.0" y="138.24"/>
-		<text id="1354_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Courier New;font-size:12px" x="296.0" y="138.24">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1354_line1" stroke="#000000" text-align="center" text-anchor="middle" x="320.0" y="162.24">
 				C3
 			</tspan>
 		</text>
-		<path d="M 295.077,156.054 L 277.555,155.926" id="1355" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
+		<path d="M 227.077,156.054 L 209.555,155.926" id="1355" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
 		<rect height="36.0" id="1356" rx="8.26544135391" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="47.4648" x="296.0" y="138.24"/>
 		<text id="1356_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Courier New;font-size:12px" x="296.0" y="138.24">
 			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1356_line1" stroke="#000000" text-align="center" text-anchor="middle" x="320.0" y="162.24">

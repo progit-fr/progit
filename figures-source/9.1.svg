@@ -65,7 +65,7 @@
 		<rect height="29.0" id="304" style="stroke:none" width="61.0" x="489.0" y="327.537"/>
 		<text id="304_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Monaco;font-size:14px" x="489.0" y="327.537">
 			<tspan fill="#000000" font-family="Monaco;" font-size="14.0px" id="304_line1" stroke="#000000" text-align="center" text-anchor="middle" x="519.5" y="349.037">
-				git.rb
+				simplegit.rb
 			</tspan>
 		</text>
 	</g>

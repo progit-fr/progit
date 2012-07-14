@@ -51,26 +51,12 @@
 		</text>
 		<path d="M 295.912,293.0 L 229.364,293.0" id="301" style="marker-start:none;stroke:#000000;stroke-width:3.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
 		<path d="M 499.143,293.0 L 426.776,293.0" id="302" style="marker-start:none;stroke:#000000;stroke-width:3.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="55.0" id="303" rx="5.0" ry="5.0" style="stroke:#504c4d;stroke-width:3.000000px;fill:#d2d7d5" width="95.3569" x="592.0" y="162.0"/>
+		<rect height="55.0" id="303" rx="5.0" ry="5.0" style="stroke:#504c4d;stroke-width:3.000000px;fill:#d2d7d5" width="127.864" x="500.643" y="162.0"/>
 		<text id="303_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="592.0" y="162.0">
-			<tspan fill="#000000" font-family="Geneva;" font-size="14.0px" id="303_line1" stroke="#000000" text-align="center" text-anchor="middle" x="639.67845" y="196.5">
+			<tspan fill="#000000" font-family="Geneva;" font-size="14.0px" id="303_line1" stroke="#000000" text-align="center" text-anchor="middle" x="564.575" y="196.5">
 				master
 			</tspan>
 		</text>
-		<path d="M 618.842,218.214 L 585.411,264.286" id="305" style="marker-start:none;stroke:#000000;stroke-width:2.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="55.0" id="306" rx="5.0" ry="5.0" style="stroke:#504c4d;stroke-width:3.000000px;fill:#e3e9e7" width="95.3569" x="592.0" y="64.0"/>
-		<text id="306_text" style="fill:#565656;stroke:#565656;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="592.0" y="64.0">
-			<tspan fill="#565656" font-family="Geneva;" font-size="14.0px" id="306_line1" stroke="#565656" text-align="center" text-anchor="middle" x="639.67845" y="98.5">
-				HEAD
-			</tspan>
-		</text>
-		<path d="M 639.678,120.5 L 639.678,160.5" id="307" style="marker-start:none;stroke:#000000;stroke-width:2.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="55.0" id="309" rx="5.0" ry="5.0" style="stroke:#504c4d;stroke-width:3.000000px;fill:#d2d7d5" width="95.3569" x="469.0" y="162.0"/>
-		<text id="309_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="469.0" y="162.0">
-			<tspan fill="#000000" font-family="Geneva;" font-size="14.0px" id="309_line1" stroke="#000000" text-align="center" text-anchor="middle" x="516.67845" y="196.5">
-				v1.0
-			</tspan>
-		</text>
-		<path d="M 530.035,218.361 L 551.219,264.139" id="312" style="marker-start:none;stroke:#000000;stroke-width:2.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
+		<path d="M 564.264,218.214 L 564.264,264.286" id="305" style="marker-start:none;stroke:#000000;stroke-width:3.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
 	</g>
 </svg>

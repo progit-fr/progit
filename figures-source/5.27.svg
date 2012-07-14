@@ -66,6 +66,6 @@
 			</tspan>
 		</text>
 		<path d="M 345.017,155.923 L 322.47,156.057" id="1357" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 316.085,199.491 L 351.402,173.729" id="1358" style="marker-start:none;stroke:#bcbcbc;stroke-width:2.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
+		<path d="M 316.085,199.491 L 351.402,173.729" id="1358" style="marker-start:none;stroke:#bcbcbc;stroke-width:2.000000px;stroke-dasharray:3 3;marker-end:url(#Arrow1Lend);fill:none"/>
 	</g>
 </svg>
