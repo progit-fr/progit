@@ -11,27 +11,27 @@
 	</defs>
 	<g style="stroke:#000000;fill:#fff">
 		<rect height="55.0" id="310" rx="5.0" ry="5.0" style="stroke:#28502c;stroke-width:3.000000px;fill:#baffb3" width="112.38" x="123.0" y="182.5"/>
-		<text id="310_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="123.0" y="182.5">
+		<text id="310_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Geneva;font-size:14px" x="123.0" y="182.5">
 			<tspan fill="#000000" font-family="Courier;" font-size="18.0px" id="310_line1" stroke="#000000" text-align="center" text-anchor="middle" x="179.19" y="219.0">98ca9</tspan>
 		</text>
 		<rect height="55.0" id="311" rx="5.0" ry="5.0" style="stroke:#28502c;stroke-width:3.000000px;fill:#baffb3" width="112.38" x="296.506" y="182.5"/>
-		<text id="311_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="296.506" y="182.5">
+		<text id="311_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Geneva;font-size:14px" x="296.506" y="182.5">
 			<tspan fill="#000000" font-family="Courier;" font-size="18.0px" id="311_line1" stroke="#000000" text-align="center" text-anchor="middle" x="352.696" y="219.0">34ac2</tspan>
 		</text>
 		<rect height="55.0" id="312" rx="5.0" ry="5.0" style="stroke:#28502c;stroke-width:3.000000px;fill:#baffb3" width="112.38" x="475.127" y="182.5"/>
-		<text id="312_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="475.127" y="182.5">
+		<text id="312_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Geneva;font-size:14px" x="475.127" y="182.5">
 			<tspan fill="#000000" font-family="Courier;" font-size="18.0px" id="312_line1" stroke="#000000" text-align="center" text-anchor="middle" x="531.317" y="219.0">f30ab</tspan>
 		</text>
 		<rect height="55.0" id="303" rx="5.0" ry="5.0" style="stroke:#504c4d;stroke-width:3.000000px;fill:#d2d7d5" width="112.38" x="475.127" y="79.0"/>
-		<text id="303_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="475.127" y="79.0">
+		<text id="303_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Geneva;font-size:14px" x="475.127" y="79.0">
 			<tspan fill="#000000" font-family="Geneva;" font-size="14.0px" id="303_line1" stroke="#000000" text-align="center" text-anchor="middle" x="531.317" y="113.5">master</tspan>
 		</text>
 		<rect height="55.0" id="306" rx="5.0" ry="5.0" style="stroke:#504c4d;stroke-width:3.000000px;fill:#d2d7d5" width="112.38" x="475.127" y="286.0"/>
-		<text id="306_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="475.127" y="286.0">
+		<text id="306_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Geneva;font-size:14px" x="475.127" y="286.0">
 			<tspan fill="#000000" font-family="Geneva;" font-size="14.0px" id="306_line1" stroke="#000000" text-align="center" text-anchor="middle" x="531.317" y="320.5">test</tspan>
 		</text>
 		<rect height="55.0" id="308" rx="5.0" ry="5.0" style="stroke:#272525;stroke-width:3.000000px;fill:#484a49" width="112.38" x="475.127" y="389.5"/>
-		<text id="308_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family: Geneva;font-size:14px" x="475.127" y="389.5">
+		<text id="308_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0px;font-family: Geneva;font-size:14px" x="475.127" y="389.5">
 			<tspan fill="#ffffff" font-family="Geneva;" font-size="14.0px" id="308_line1" stroke="#ffffff" text-align="center" text-anchor="middle" x="531.317" y="424.0">HEAD</tspan>
 		</text>
 		<path d="M 531.317,388.0 L 531.317,342.5" id="309" style="marker-start:none;stroke:#000000;stroke-width:3.000000px;marker-end:url(#Arrow1Lend);fill:none"/>

@@ -16,128 +16,128 @@
 		<path d="M 483.928,371.09 L 484.025,496.371" id="2010" style="marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
 		<path d="M 595.873,371.09 L 596.017,495.871" id="2011" style="marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
 		<rect height="36.0" id="1974" rx="3.79119850226" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="89.2523" x="103.476" y="392.866"/>
-		<text id="1974_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="103.476" y="392.866">
+		<text id="1974_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="103.476" y="392.866">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1974_line1" stroke="#000000" text-align="center" text-anchor="middle" x="148.10215" y="416.866">
 				A
 			</tspan>
 		</text>
 		<rect height="36.0" id="1976" rx="3.79120314437" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="89.2522" x="103.476" y="445.119"/>
-		<text id="1976_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="103.476" y="445.119">
+		<text id="1976_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="103.476" y="445.119">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1976_line1" stroke="#000000" text-align="center" text-anchor="middle" x="148.1021" y="469.119">
 				B
 			</tspan>
 		</text>
 		<rect height="36.0" id="1977" rx="3.79120314437" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="89.2522" x="103.476" y="497.371"/>
-		<text id="1977_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="103.476" y="497.371">
+		<text id="1977_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="103.476" y="497.371">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1977_line1" stroke="#000000" text-align="center" text-anchor="middle" x="148.1021" y="521.371">
 				C
 			</tspan>
 		</text>
 		<rect height="36.0" id="1978" rx="3.79119850226" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#ffada5" width="89.2523" x="103.476" y="333.59"/>
-		<text id="1978_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="103.476" y="333.59">
+		<text id="1978_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="103.476" y="333.59">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1978_line1" stroke="#000000" text-align="center" text-anchor="middle" x="148.10215" y="357.59">
 				Version 1
 			</tspan>
 		</text>
 		<rect height="36.0" id="1979" rx="3.79119850226" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#ffada5" width="89.2523" x="215.413" y="333.59"/>
-		<text id="1979_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="215.413" y="333.59">
+		<text id="1979_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="215.413" y="333.59">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1979_line1" stroke="#000000" text-align="center" text-anchor="middle" x="260.03915" y="357.59">
 				Version 2
 			</tspan>
 		</text>
 		<rect height="36.0" id="1980" rx="3.79119850226" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#ffada5" width="89.2523" x="327.35" y="333.59"/>
-		<text id="1980_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="327.35" y="333.59">
+		<text id="1980_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="327.35" y="333.59">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1980_line1" stroke="#000000" text-align="center" text-anchor="middle" x="371.97615" y="357.59">
 				Version 3
 			</tspan>
 		</text>
 		<rect height="36.0" id="1981" rx="3.79119850226" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#ffada5" width="89.2523" x="439.287" y="333.59"/>
-		<text id="1981_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="439.287" y="333.59">
+		<text id="1981_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="439.287" y="333.59">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1981_line1" stroke="#000000" text-align="center" text-anchor="middle" x="483.91315" y="357.59">
 				Version 4
 			</tspan>
 		</text>
 		<rect height="36.0" id="1982" rx="3.79119850226" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#ffada5" width="89.2523" x="551.224" y="333.59"/>
-		<text id="1982_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="551.224" y="333.59">
+		<text id="1982_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="551.224" y="333.59">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1982_line1" stroke="#000000" text-align="center" text-anchor="middle" x="595.85015" y="357.59">
 				Version 5
 			</tspan>
 		</text>
 		<rect height="36.0" id="1995" rx="3.79119850226" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="89.2523" x="215.413" y="392.866"/>
-		<text id="1995_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="215.413" y="392.866">
+		<text id="1995_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="215.413" y="392.866">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1995_line1" stroke="#000000" text-align="center" text-anchor="middle" x="260.03915" y="416.866">
 				A1
 			</tspan>
 		</text>
 		<rect height="36.0" id="1996" rx="3.79120314437" ry="18.0" style="stroke:#616161;stroke-width:2.000000px;stroke-dasharray:5 5;fill:#e1f5e2" width="89.2522" x="215.413" y="445.119"/>
-		<text id="1996_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="215.413" y="445.119">
+		<text id="1996_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="215.413" y="445.119">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1996_line1" stroke="#000000" text-align="center" text-anchor="middle" x="260.0391" y="469.119">
 				B
 			</tspan>
 		</text>
 		<rect height="36.0" id="1997" rx="3.79120314437" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="89.2522" x="215.413" y="497.371"/>
-		<text id="1997_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="215.413" y="497.371">
+		<text id="1997_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="215.413" y="497.371">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1997_line1" stroke="#000000" text-align="center" text-anchor="middle" x="260.0391" y="521.371">
 				C1
 			</tspan>
 		</text>
 		<rect height="36.0" id="1998" rx="3.79119850226" ry="18.0" style="stroke:#616161;stroke-width:2.000000px;stroke-dasharray:5 5;fill:#e1f5e2" width="89.2523" x="327.413" y="392.866"/>
-		<text id="1998_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="327.413" y="392.866">
+		<text id="1998_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="327.413" y="392.866">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1998_line1" stroke="#000000" text-align="center" text-anchor="middle" x="372.03915" y="416.866">
 				A1
 			</tspan>
 		</text>
 		<rect height="36.0" id="1999" rx="3.79120314437" ry="18.0" style="stroke:#616161;stroke-width:2.000000px;stroke-dasharray:5 5;fill:#e1f5e2" width="89.2522" x="327.413" y="445.119"/>
-		<text id="1999_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="327.413" y="445.119">
+		<text id="1999_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="327.413" y="445.119">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1999_line1" stroke="#000000" text-align="center" text-anchor="middle" x="372.0391" y="469.119">
 				B
 			</tspan>
 		</text>
 		<rect height="36.0" id="2000" rx="3.79120314437" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="89.2522" x="327.413" y="497.371"/>
-		<text id="2000_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="327.413" y="497.371">
+		<text id="2000_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="327.413" y="497.371">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="2000_line1" stroke="#000000" text-align="center" text-anchor="middle" x="372.0391" y="521.371">
 				C2
 			</tspan>
 		</text>
 		<rect height="36.0" id="2001" rx="3.79119850226" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="89.2523" x="439.413" y="392.866"/>
-		<text id="2001_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="439.413" y="392.866">
+		<text id="2001_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="439.413" y="392.866">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="2001_line1" stroke="#000000" text-align="center" text-anchor="middle" x="484.03915" y="416.866">
 				A2
 			</tspan>
 		</text>
 		<rect height="36.0" id="2002" rx="3.79120314437" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="89.2522" x="439.413" y="445.119"/>
-		<text id="2002_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="439.413" y="445.119">
+		<text id="2002_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="439.413" y="445.119">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="2002_line1" stroke="#000000" text-align="center" text-anchor="middle" x="484.0391" y="469.119">
 				B1
 			</tspan>
 		</text>
 		<rect height="36.0" id="2003" rx="3.79120314437" ry="18.0" style="stroke:#616161;stroke-width:2.000000px;stroke-dasharray:5 5;fill:#e1f5e2" width="89.2522" x="439.413" y="497.371"/>
-		<text id="2003_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="439.413" y="497.371">
+		<text id="2003_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="439.413" y="497.371">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="2003_line1" stroke="#000000" text-align="center" text-anchor="middle" x="484.0391" y="521.371">
 				C2
 			</tspan>
 		</text>
 		<rect height="36.0" id="2004" rx="3.79119850226" ry="18.0" style="stroke:#616161;stroke-width:2.000000px;stroke-dasharray:5 5;fill:#e1f5e2" width="89.2523" x="551.413" y="392.866"/>
-		<text id="2004_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="551.413" y="392.866">
+		<text id="2004_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="551.413" y="392.866">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="2004_line1" stroke="#000000" text-align="center" text-anchor="middle" x="596.03915" y="416.866">
 				A2
 			</tspan>
 		</text>
 		<rect height="36.0" id="2005" rx="3.79120314437" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="89.2522" x="551.413" y="445.119"/>
-		<text id="2005_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="551.413" y="445.119">
+		<text id="2005_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="551.413" y="445.119">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="2005_line1" stroke="#000000" text-align="center" text-anchor="middle" x="596.0391" y="469.119">
 				B2
 			</tspan>
 		</text>
 		<rect height="36.0" id="2006" rx="3.79120314437" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="89.2522" x="551.413" y="497.371"/>
-		<text id="2006_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="551.413" y="497.371">
+		<text id="2006_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="551.413" y="497.371">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="2006_line1" stroke="#000000" text-align="center" text-anchor="middle" x="596.0391" y="521.371">
 				C3
 			</tspan>
 		</text>
 		<path d="M 108.039,309.314 L 632.039,309.314" id="2014" style="marker-start:none;stroke:#000000;stroke-width:2.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
 		<rect height="27.0" id="2015" style="stroke:none" width="133.0" x="301.539" y="295.814"/>
-		<text id="2015_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:14px" x="301.539" y="295.814">
+		<text id="2015_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:14px" x="301.539" y="295.814">
 			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="2015_line1" stroke="#000000" text-align="center" text-anchor="middle" x="368.039" y="316.314">
 				Checkins over Time
 			</tspan>

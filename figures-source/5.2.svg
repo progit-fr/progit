@@ -37,7 +37,7 @@
        x="287"
        y="3"
        id="1957_text"
-       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica">
+       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
       <tspan
          x="340.03949"
          y="31.7348"
@@ -62,7 +62,7 @@
        x="164"
        y="3"
        id="1972_text"
-       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica">
+       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
       <tspan
          x="217.03951"
          y="31.7348"
@@ -87,7 +87,7 @@
        x="18.8242"
        y="144"
        id="1973_text"
-       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica">
+       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
       <tspan
          x="71.863693"
          y="178.7348"
@@ -112,7 +112,7 @@
        x="410.00101"
        y="3"
        id="1974_text"
-       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica">
+       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
       <tspan
          x="463.0405"
          y="31.7348"
@@ -137,7 +137,7 @@
        x="2.7479999"
        y="3"
        id="1987_text"
-       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica">
+       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
       <tspan
          x="71.913498"
          y="43.5"
@@ -166,7 +166,7 @@
        x="287"
        y="150"
        id="1991_text"
-       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica">
+       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
       <tspan
          x="340.03949"
          y="178.7348"
@@ -191,7 +191,7 @@
        x="164"
        y="150"
        id="1993_text"
-       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica">
+       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
       <tspan
          x="217.03951"
          y="178.7348"
@@ -216,7 +216,7 @@
        x="410.00101"
        y="150"
        id="1994_text"
-       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Helvetica">
+       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
       <tspan
          x="463.0405"
          y="178.7348"

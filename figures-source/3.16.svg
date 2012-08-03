@@ -11,20 +11,20 @@
 	</defs>
 	<g style="stroke:#000000;fill:#fff">
 		<rect height="36.0" id="1299" rx="8.08543259671" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="48.1575" x="190.055" y="265.37"/>
-		<text id="1299_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="190.055" y="265.37">
+		<text id="1299_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="190.055" y="265.37">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1299_line1" stroke="#000000" text-align="center" text-anchor="middle" x="214.13375" y="289.37">
 				C1
 			</tspan>
 		</text>
 		<rect height="36.0" id="1302" rx="8.08543259671" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="48.1575" x="112.74" y="265.37"/>
-		<text id="1302_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="112.74" y="265.37">
+		<text id="1302_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="112.74" y="265.37">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1302_line1" stroke="#000000" text-align="center" text-anchor="middle" x="136.81875" y="289.37">
 				C0
 			</tspan>
 		</text>
 		<path d="M 188.555,283.37 L 162.398,283.37" id="1303" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
 		<rect height="36.0" id="1304" rx="8.08543259671" ry="18.0" style="stroke:#d90b00;stroke-width:5.000000px;fill:#d3f5d6" width="48.1575" x="267.37" y="265.37"/>
-		<text id="1304_text" style="fill:#800000;stroke:#800000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="267.37" y="265.37">
+		<text id="1304_text" style="fill:#800000;stroke:#800000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="267.37" y="265.37">
 			<tspan fill="#800000" font-family="LucidaGrande;" font-size="12.0px" id="1304_line1" stroke="#800000" text-align="center" text-anchor="middle" x="291.44875" y="289.37">
 				C2
 			</tspan>
@@ -33,28 +33,28 @@
 		<path d="M 368.764,232.0 L 368.764,262.87" id="1334" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
 		<path d="M 444.079,390.48 L 444.079,360.13" id="1336" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
 		<rect height="36.0" id="1337" rx="8.08543259671" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="48.1575" x="345.438" y="321.63"/>
-		<text id="1337_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="345.438" y="321.63">
+		<text id="1337_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="345.438" y="321.63">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1337_line1" stroke="#000000" text-align="center" text-anchor="middle" x="369.51675" y="345.63">
 				C3
 			</tspan>
 		</text>
 		<path d="M 347.462,323.736 L 314.315,299.848" id="1338" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
 		<rect height="36.0" id="1339" rx="8.08543259671" ry="18.0" style="stroke:#d90b00;stroke-width:5.000000px;fill:#d3f5d6" width="48.1575" x="344.685" y="265.37"/>
-		<text id="1339_text" style="fill:#800000;stroke:#800000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="344.685" y="265.37">
+		<text id="1339_text" style="fill:#800000;stroke:#800000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="344.685" y="265.37">
 			<tspan fill="#800000" font-family="LucidaGrande;" font-size="12.0px" id="1339_line1" stroke="#800000" text-align="center" text-anchor="middle" x="368.76375" y="289.37">
 				C4
 			</tspan>
 		</text>
 		<path d="M 342.185,283.37 L 318.027,283.37" id="1340" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
 		<rect height="36.0" id="1343" rx="8.08543259671" ry="18.0" style="stroke:#d90b00;stroke-width:5.000000px;fill:#d3f5d6" width="48.1575" x="420.0" y="321.63"/>
-		<text id="1343_text" style="fill:#800000;stroke:#800000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="420.0" y="321.63">
+		<text id="1343_text" style="fill:#800000;stroke:#800000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="420.0" y="321.63">
 			<tspan fill="#800000" font-family="LucidaGrande;" font-size="12.0px" id="1343_line1" stroke="#800000" text-align="center" text-anchor="middle" x="444.07875" y="345.63">
 				C5
 			</tspan>
 		</text>
 		<path d="M 417.5,339.63 L 395.095,339.63" id="1344" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
 		<rect height="34.0" id="1345" rx="4.15244470552" ry="17.0" style="stroke:#505050;stroke-width:2.000000px;fill:none" width="73.75" x="254.574" y="196.0"/>
-		<text id="1345_text" style="fill:#800000;stroke:#800000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="257.574" y="199.0">
+		<text id="1345_text" style="fill:#800000;stroke:#800000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="257.574" y="199.0">
 			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="12.0px" id="1345_line1" stroke="#000000" text-align="center" text-anchor="middle" x="291.449" y="213.0">
 				Common 
 			</tspan>
@@ -64,7 +64,7 @@
 		</text>
 		<path d="M 291.449,231.0 L 291.449,262.87" id="1346" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
 		<rect height="34.0" id="1347" rx="3.23764712318" ry="17.0" style="stroke:#505050;stroke-width:2.000000px;fill:none" width="92.5" x="322.503" y="149.0"/>
-		<text id="1347_text" style="fill:#800000;stroke:#800000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="325.503" y="152.0">
+		<text id="1347_text" style="fill:#800000;stroke:#800000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="325.503" y="152.0">
 			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="12.0px" id="1347_line1" stroke="#000000" text-align="center" text-anchor="middle" x="368.753" y="166.0">
 				Snapshot to 
 			</tspan>
@@ -73,7 +73,7 @@
 			</tspan>
 		</text>
 		<rect height="34.0" id="1348" rx="3.23764712318" ry="17.0" style="stroke:#505050;stroke-width:2.000000px;fill:none" width="92.5" x="397.829" y="442.0"/>
-		<text id="1348_text" style="fill:#800000;stroke:#800000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="400.829" y="445.0">
+		<text id="1348_text" style="fill:#800000;stroke:#800000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="400.829" y="445.0">
 			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="12.0px" id="1348_line1" stroke="#000000" text-align="center" text-anchor="middle" x="444.079" y="459.0">
 				Snapshot to 
 			</tspan>
@@ -83,14 +83,14 @@
 		</text>
 		<path d="M 378.0,183.0 L 378.0,260.0" id="1349" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
 		<rect height="36.0" id="1316" style="stroke:#616161;stroke-width:2.000000px;fill:#eeeeee" width="70.0222" x="333.753" y="195.0"/>
-		<text id="1316_text" style="fill:#cccccc;stroke:#cccccc;stroke-width:0.1px;font-family: Luxi Sans;font-size:10px" x="333.753" y="195.0">
+		<text id="1316_text" style="fill:#cccccc;stroke:#cccccc;stroke-width:0px;font-family: Luxi Sans;font-size:10px" x="333.753" y="195.0">
 			<tspan fill="#777777" font-family="LucidaGrande;" font-size="10.0px" id="1316_line1" stroke="#777777" text-align="center" text-anchor="middle" x="368.7641" y="218.0">
 				master
 			</tspan>
 		</text>
 		<path d="M 434.0,439.0 L 434.0,362.0" id="1350" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
 		<rect height="36.0" id="1335" style="stroke:#616161;stroke-width:2.000000px;fill:#eeeeee" width="70.0222" x="409.068" y="391.48"/>
-		<text id="1335_text" style="fill:#cccccc;stroke:#cccccc;stroke-width:0.1px;font-family: Luxi Sans;font-size:10px" x="409.068" y="391.48">
+		<text id="1335_text" style="fill:#cccccc;stroke:#cccccc;stroke-width:0px;font-family: Luxi Sans;font-size:10px" x="409.068" y="391.48">
 			<tspan fill="#777777" font-family="LucidaGrande;" font-size="10.0px" id="1335_line1" stroke="#777777" text-align="center" text-anchor="middle" x="444.0791" y="414.48">
 				iss53
 			</tspan>

@@ -11,7 +11,7 @@
 	</defs>
 	<g style="stroke:#000000;fill:#fff">
 		<rect height="57.4696" id="1957" rx="8.45811566517" ry="28.7348" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="106.079" x="331.344" y="378.0"/>
-		<text id="1957_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="331.344" y="378.0">
+		<text id="1957_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="331.344" y="378.0">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1957_line1" stroke="#000000" text-align="center" text-anchor="middle" x="384.3835" y="406.7348">
 				developer
 			</tspan>
@@ -20,7 +20,7 @@
 			</tspan>
 		</text>
 		<rect height="57.4696" id="1972" rx="8.45811566517" ry="28.7348" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="106.079" x="146.684" y="378.0"/>
-		<text id="1972_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="146.684" y="378.0">
+		<text id="1972_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="146.684" y="378.0">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1972_line1" stroke="#000000" text-align="center" text-anchor="middle" x="199.7235" y="406.7348">
 				developer
 			</tspan>
@@ -29,13 +29,13 @@
 			</tspan>
 		</text>
 		<rect height="57.4696" id="1973" rx="8.45811566517" ry="28.7348" style="stroke:#616161;stroke-width:3.000000px;fill:#ffada5" width="106.079" x="146.684" y="88.7652"/>
-		<text id="1973_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="146.684" y="88.7652">
+		<text id="1973_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="146.684" y="88.7652">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1973_line1" stroke="#000000" text-align="center" text-anchor="middle" x="199.7235" y="123.5">
 				dictator
 			</tspan>
 		</text>
 		<rect height="57.4696" id="1974" rx="8.45811566517" ry="28.7348" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="106.079" x="507.462" y="378.0"/>
-		<text id="1974_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="507.462" y="378.0">
+		<text id="1974_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="507.462" y="378.0">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1974_line1" stroke="#000000" text-align="center" text-anchor="middle" x="560.5015" y="406.7348">
 				developer
 			</tspan>
@@ -44,7 +44,7 @@
 			</tspan>
 		</text>
 		<rect height="81.0" id="1987" rx="13.0975377555" ry="40.5" style="stroke:#616161;stroke-width:3.000000px;fill:#8ab5eb" width="138.331" x="491.336" y="77.0"/>
-		<text id="1987_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="491.336" y="77.0">
+		<text id="1987_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="491.336" y="77.0">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1987_line1" stroke="#000000" text-align="center" text-anchor="middle" x="560.5015" y="117.5">
 				blessed
 			</tspan>
@@ -54,13 +54,13 @@
 		</text>
 		<path d="M 489.836,117.5 L 254.263,117.5" id="1990" style="marker-start:url(#Arrow1Lstart);stroke:#000000;stroke-width:2.000000px;marker-end:none;fill:none"/>
 		<rect height="57.4696" id="1991" rx="8.45811566517" ry="28.7348" style="stroke:#616161;stroke-width:3.000000px;fill:#8ab891" width="106.079" x="289.0" y="219.03"/>
-		<text id="1991_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="289.0" y="219.03">
+		<text id="1991_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="289.0" y="219.03">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1991_line1" stroke="#000000" text-align="center" text-anchor="middle" x="342.0395" y="253.7648">
 				lieutenant
 			</tspan>
 		</text>
 		<rect height="57.4696" id="1993" rx="8.45811566517" ry="28.7348" style="stroke:#616161;stroke-width:3.000000px;fill:#8ab891" width="106.079" x="146.684" y="219.03"/>
-		<text id="1993_text" style="fill:#000000;stroke:#000000;stroke-width:0.1px;font-family: Helvetica;font-size:12px" x="146.684" y="219.03">
+		<text id="1993_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="146.684" y="219.03">
 			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1993_line1" stroke="#000000" text-align="center" text-anchor="middle" x="199.7235" y="253.7648">
 				lieutenant
 			</tspan>

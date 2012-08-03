@@ -7,23 +7,23 @@
     </marker>
   </defs>
   <rect width="95" height="55" rx="5" ry="5" x="170.76599" y="12.995565" id="292" style="fill:#d0ceff;stroke:#1b2350;stroke-width:3px"/>
-  <text x="170.76599" y="12.995565" id="292_text" style="font-size:14px;fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family:Geneva">
+  <text x="170.76599" y="12.995565" id="292_text" style="font-size:14px;fill:#ffffff;stroke:#ffffff;stroke-width:0px;font-family:Geneva">
     <tspan x="218.26599" y="47.495564" id="292_line1" style="font-size:14px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Geneva;'">arbre</tspan>
   </text>
   <rect width="95" height="55" rx="5" ry="5" x="333.76599" y="126.99557" id="293" style="fill:#d0ceff;stroke:#1b2350;stroke-width:3px"/>
-  <text x="333.76599" y="126.99557" id="293_text" style="font-size:14px;fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family:Geneva">
+  <text x="333.76599" y="126.99557" id="293_text" style="font-size:14px;fill:#ffffff;stroke:#ffffff;stroke-width:0px;font-family:Geneva">
     <tspan x="381.26599" y="161.49556" id="293_line1" style="font-size:14px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Geneva;'">arbre</tspan>
   </text>
   <rect width="95" height="55" rx="5" ry="5" x="7.7659845" y="126.99557" id="294" style="fill:#ffbfbd;stroke:#500b0b;stroke-width:3px"/>
-  <text x="7.7659845" y="126.99557" id="294_text" style="font-size:14px;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family:Geneva">
+  <text x="7.7659845" y="126.99557" id="294_text" style="font-size:14px;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:0px;font-family:Geneva">
     <tspan x="55.265984" y="161.49556" id="294_line1" style="font-size:14px;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Geneva;'">"nouveau"</tspan>
   </text>
   <rect width="95" height="55" rx="5" ry="5" x="170.76599" y="126.99557" id="295" style="fill:#ffbfbd;stroke:#500b0b;stroke-width:3px"/>
-  <text x="170.76599" y="126.99557" id="295_text" style="font-size:14px;fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family:Geneva">
+  <text x="170.76599" y="126.99557" id="295_text" style="font-size:14px;fill:#ffffff;stroke:#ffffff;stroke-width:0px;font-family:Geneva">
     <tspan x="218.26599" y="161.49556" id="295_line1" style="font-size:14px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Geneva;'">"version 2"</tspan>
   </text>
   <rect width="95" height="55" rx="5" ry="5" x="333.76599" y="240.99556" id="296" style="fill:#ffbfbd;stroke:#500b0b;stroke-width:3px"/>
-  <text x="333.76599" y="240.99556" id="296_text" style="font-size:14px;fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family:Geneva">
+  <text x="333.76599" y="240.99556" id="296_text" style="font-size:14px;fill:#ffffff;stroke:#ffffff;stroke-width:0px;font-family:Geneva">
     <tspan x="381.26599" y="275.49557" id="296_line1" style="font-size:14px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Geneva;'">"version1"</tspan>
   </text>
   <path d="m 218.26598,69.495565 0,56.000005" id="297" style="fill:none;stroke:#000000;marker-start:none;marker-end:url(#Arrow1Lend)"/>
@@ -31,34 +31,34 @@
   <path d="m 258.81498,68.855565 81.902,57.280005" id="299" style="fill:none;stroke:#000000;marker-start:none;marker-end:url(#Arrow1Lend)"/>
   <path d="m 381.26598,183.49557 0,56" id="300" style="fill:none;stroke:#000000;marker-start:none;marker-end:url(#Arrow1Lend)"/>
   <rect width="61" height="29" x="105.12698" y="83.792564" id="301" style="fill:#ffffff;stroke:none"/>
-  <text x="105.12698" y="83.792564" id="301_text" style="font-size:14px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Monaco">
+  <text x="105.12698" y="83.792564" id="301_text" style="font-size:14px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Monaco">
     <tspan x="135.62698" y="105.29256" id="301_line1" style="font-size:14px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Monaco;'">new.txt</tspan>
   </text>
   <rect width="78" height="29" x="179.26599" y="83.495567" id="302" style="fill:#ffffff;stroke:none"/>
-  <text x="179.26599" y="83.495567" id="302_text" style="font-size:14px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Monaco">
+  <text x="179.26599" y="83.495567" id="302_text" style="font-size:14px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Monaco">
     <tspan x="218.26599" y="104.99557" id="302_line1" style="font-size:14px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Monaco;'">test.txt</tspan>
   </text>
   <rect width="36" height="29" x="284.07199" y="84.608574" id="303" style="fill:#ffffff;stroke:none"/>
-  <text x="284.07199" y="84.608574" id="303_text" style="font-size:14px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Monaco">
+  <text x="284.07199" y="84.608574" id="303_text" style="font-size:14px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Monaco">
     <tspan x="302.07199" y="106.10857" id="303_line1" style="font-size:14px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Monaco;'">bak</tspan>
   </text>
   <rect width="61" height="29" x="350.76599" y="191.53255" id="304" style="fill:#ffffff;stroke:none"/>
-  <text x="350.76599" y="191.53255" id="304_text" style="font-size:14px;fill:#000000;stroke:#000000;stroke-width:0.1px;font-family:Monaco">
+  <text x="350.76599" y="191.53255" id="304_text" style="font-size:14px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Monaco">
     <tspan x="381.26599" y="213.03255" id="304_line1" style="font-size:14px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'Monaco;'">test.txt</tspan>
   </text>
-  <text x="-18.924446" y="103.69479" id="294_text-8" style="font-size:14px;fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family:Geneva">
+  <text x="-18.924446" y="103.69479" id="294_text-8" style="font-size:14px;fill:#ffffff;stroke:#ffffff;stroke-width:0px;font-family:Geneva">
     <tspan x="28.575554" y="138.19478" id="294_line1-4" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono">fa49b0</tspan>
   </text>
-  <text x="289.6824" y="103.40647" id="294_text-8-4" style="font-size:14px;text-align:start;text-anchor:start;fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family:Geneva">
+  <text x="289.6824" y="103.40647" id="294_text-8-4" style="font-size:14px;text-align:start;text-anchor:start;fill:#ffffff;stroke:#ffffff;stroke-width:0px;font-family:Geneva">
     <tspan x="337.1824" y="137.90645" id="294_line1-4-9" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;stroke:#000000;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono">d8329f</tspan>
   </text>
-  <text x="127.6863" y="103.40649" id="294_text-8-4-6" style="font-size:14px;text-align:start;text-anchor:start;fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family:Geneva">
+  <text x="127.6863" y="103.40649" id="294_text-8-4-6" style="font-size:14px;text-align:start;text-anchor:start;fill:#ffffff;stroke:#ffffff;stroke-width:0px;font-family:Geneva">
     <tspan x="175.18631" y="137.90645" id="294_line1-4-9-9" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;stroke:#000000;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono">1f7a7a</tspan>
   </text>
-  <text x="289.6824" y="217.40648" id="294_text-8-4-5" style="font-size:14px;text-align:start;text-anchor:start;fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family:Geneva">
+  <text x="289.6824" y="217.40648" id="294_text-8-4-5" style="font-size:14px;text-align:start;text-anchor:start;fill:#ffffff;stroke:#ffffff;stroke-width:0px;font-family:Geneva">
     <tspan x="337.1824" y="251.90645" id="294_line1-4-9-1" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;stroke:#000000;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono">83baae</tspan>
   </text>
-  <text x="127.6863" y="-11.118898" id="294_text-8-4-6-0" style="font-size:14px;text-align:start;text-anchor:start;fill:#ffffff;stroke:#ffffff;stroke-width:0.1px;font-family:Geneva">
+  <text x="127.6863" y="-11.118898" id="294_text-8-4-6-0" style="font-size:14px;text-align:start;text-anchor:start;fill:#ffffff;stroke:#ffffff;stroke-width:0px;font-family:Geneva">
     <tspan x="175.18631" y="23.381063" id="294_line1-4-9-9-2" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;stroke:#000000;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono">3c4e9c</tspan>
   </text>
 </svg>
