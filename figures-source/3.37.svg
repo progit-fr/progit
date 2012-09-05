@@ -16,7 +16,7 @@
 		<rect height="188.0" id="1351" style="stroke:#616161;stroke-width:2.000000px;fill:#eeeeee" width="516.0" x="71.0" y="212.0"/>
 		<rect height="10.5953" id="1353" style="stroke:none;fill:none" width="37.0" x="93.9746" y="195.0"/>
 		<text id="1353_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="93.9746" y="195.0">
-			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="12.0px" font-weight="bold" id="1353_line1" stroke="#000000" text-align="center" text-anchor="middle" x="112.4746" y="206.29765">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="12.0px" font-weight="bold" id="1353_line1" stroke="#000000" text-align="center" text-anchor="left" x="71.0" y="206.29765">
 				My Computer
 			</tspan>
 		</text>
@@ -56,7 +56,7 @@
 		</text>
 		<rect height="3.21401" id="1352" style="stroke:none;fill:none" width="36.3336" x="130.0" y="15.0"/>
 		<text id="1352_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="130.0" y="15.0">
-			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="12.0px" font-weight="bold" id="1352_line1" stroke="#000000" text-align="center" text-anchor="middle" x="148.1668" y="22.607005">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="12.0px" font-weight="bold" id="1352_line1" stroke="#000000" text-align="center" text-anchor="left" x="71.0" y="22.607005">
 				git.team1.ourcompany.com
 			</tspan>
 		</text>
