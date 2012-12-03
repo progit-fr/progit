@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<marker id="Arrow1Lend" orient="auto" refX="0.0" refY="0.0" style="overflow:visible;">
+			
+              
+			<path d="M -10,0.0 L -10.0,-2.0 L 0.0,0.0 L -10.0,2.0 z " id="path3666" style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0px;marker-start:none;"/>
+			
+            
+		</marker>
+	</defs>
+	<g style="stroke:#000000;fill:#fff">
+		<path d="M 194.228,126.531 L 231.508,126.531" id="1304" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
+		<rect height="36.0" id="1303" rx="3.79119850226" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="89.2523" x="103.476" y="108.531"/>
+		<text id="1303_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="103.476" y="108.531">
+			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1303_line1" stroke="#000000" text-align="center" text-anchor="middle" x="148.10215" y="132.531">
+				File A
+			</tspan>
+		</text>
+		<rect height="36.0" id="1301" rx="6.86464619853" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#e1eaf5" width="54.063" x="233.008" y="108.531"/>
+		<text id="1301_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="233.008" y="108.531">
+			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1301_line1" stroke="#000000" text-align="center" text-anchor="middle" x="260.0395" y="132.531">
+				Δ1
+			</tspan>
+		</text>
+		<rect height="36.0" id="1947" rx="3.79120314437" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="89.2522" x="103.476" y="160.784"/>
+		<text id="1947_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="103.476" y="160.784">
+			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1947_line1" stroke="#000000" text-align="center" text-anchor="middle" x="148.1021" y="184.784">
+				File B
+			</tspan>
+		</text>
+		<rect height="36.0" id="1948" rx="3.79120314437" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="89.2522" x="103.476" y="213.036"/>
+		<text id="1948_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="103.476" y="213.036">
+			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1948_line1" stroke="#000000" text-align="center" text-anchor="middle" x="148.1021" y="237.036">
+				File C
+			</tspan>
+		</text>
+		<rect height="36.0" id="1951" rx="3.79119850226" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#ffada5" width="89.2523" x="103.476" y="49.2547"/>
+		<text id="1951_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="103.476" y="49.2547">
+			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1951_line1" stroke="#000000" text-align="center" text-anchor="middle" x="148.10215" y="73.2547">
+				Version 1
+			</tspan>
+		</text>
+		<rect height="36.0" id="1952" rx="3.79119850226" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#ffada5" width="89.2523" x="215.413" y="49.2547"/>
+		<text id="1952_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="215.413" y="49.2547">
+			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1952_line1" stroke="#000000" text-align="center" text-anchor="middle" x="260.03915" y="73.2547">
+				Version 2
+			</tspan>
+		</text>
+		<rect height="36.0" id="1953" rx="3.79119850226" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#ffada5" width="89.2523" x="327.35" y="49.2547"/>
+		<text id="1953_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="327.35" y="49.2547">
+			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1953_line1" stroke="#000000" text-align="center" text-anchor="middle" x="371.97615" y="73.2547">
+				Version 3
+			</tspan>
+		</text>
+		<rect height="36.0" id="1954" rx="3.79119850226" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#ffada5" width="89.2523" x="439.287" y="49.2547"/>
+		<text id="1954_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="439.287" y="49.2547">
+			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1954_line1" stroke="#000000" text-align="center" text-anchor="middle" x="483.91315" y="73.2547">
+				Version 4
+			</tspan>
+		</text>
+		<rect height="36.0" id="1955" rx="3.79119850226" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#ffada5" width="89.2523" x="551.224" y="49.2547"/>
+		<text id="1955_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="551.224" y="49.2547">
+			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1955_line1" stroke="#000000" text-align="center" text-anchor="middle" x="595.85015" y="73.2547">
+				Version 5
+			</tspan>
+		</text>
+		<rect height="36.0" id="1956" rx="6.8646632182" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#e1eaf5" width="54.0629" x="457.008" y="108.531"/>
+		<text id="1956_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="457.008" y="108.531">
+			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1956_line1" stroke="#000000" text-align="center" text-anchor="middle" x="484.03945" y="132.531">
+				Δ2
+			</tspan>
+		</text>
+		<path d="M 288.571,126.531 L 455.508,126.531" id="1957" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
+		<rect height="36.0" id="1962" rx="6.8646632182" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#e1eaf5" width="54.0629" x="457.008" y="160.784"/>
+		<text id="1962_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="457.008" y="160.784">
+			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1962_line1" stroke="#000000" text-align="center" text-anchor="middle" x="484.03945" y="184.784">
+				Δ1
+			</tspan>
+		</text>
+		<rect height="36.0" id="1964" rx="6.8646632182" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#e1eaf5" width="54.0629" x="569.008" y="160.784"/>
+		<text id="1964_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="569.008" y="160.784">
+			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1964_line1" stroke="#000000" text-align="center" text-anchor="middle" x="596.03945" y="184.784">
+				Δ2
+			</tspan>
+		</text>
+		<path d="M 512.571,178.784 L 567.508,178.784" id="1965" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
+		<path d="M 194.228,231.036 L 231.508,231.036" id="1966" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
+		<rect height="36.0" id="1967" rx="6.86464619853" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#e1eaf5" width="54.063" x="233.008" y="213.036"/>
+		<text id="1967_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="233.008" y="213.036">
+			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1967_line1" stroke="#000000" text-align="center" text-anchor="middle" x="260.0395" y="237.036">
+				Δ1
+			</tspan>
+		</text>
+		<rect height="36.0" id="1968" rx="6.86464619853" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#e1eaf5" width="54.063" x="345.008" y="213.036"/>
+		<text id="1968_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="345.008" y="213.036">
+			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1968_line1" stroke="#000000" text-align="center" text-anchor="middle" x="372.0395" y="237.036">
+				Δ2
+			</tspan>
+		</text>
+		<path d="M 288.571,231.036 L 343.508,231.036" id="1969" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
+		<rect height="36.0" id="1970" rx="6.8646632182" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#e1eaf5" width="54.0629" x="569.008" y="213.036"/>
+		<text id="1970_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="569.008" y="213.036">
+			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1970_line1" stroke="#000000" text-align="center" text-anchor="middle" x="596.03945" y="237.036">
+				Δ3
+			</tspan>
+		</text>
+		<path d="M 400.571,231.036 L 567.508,231.036" id="1971" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
+		<path d="M 194.228,178.784 L 455.508,178.784" id="1972" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
+
+		<path d="M 110.039,22.9784 L 634.039,22.9784" id="2012" style="marker-start:none;stroke:#000000;stroke-width:2.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
+		<rect height="27.0" id="2013" style="stroke:none" width="133.0" x="303.539" y="9.4784"/>
+		<text id="2013_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:14px" x="303.539" y="9.4784">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="2013_line1" stroke="#000000" text-align="center" text-anchor="middle" x="370.039" y="29.9784">
+				Checkins over Time
+			</tspan>
+		</text>
+	</g>
+</svg>

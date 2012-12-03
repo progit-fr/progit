@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs/>
+	<g style="stroke:#000000;fill:#fff">
+		<rect height="423.0" id="14" style="fill:#dcdcdc" width="503.0" x="36.5" y="14.0"/>
+		<rect height="53.0" id="3" rx="5.74409901134" ry="26.5" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#c6d8ff" width="128.0" x="84.0" y="134.0"/>
+		<text id="3_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:14px" x="84.0" y="134.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="3_line1" stroke="#000000" text-align="center" text-anchor="middle" x="148.0" y="167.5">Fichier</tspan>
+		</text>
+		<rect height="17.0" id="4" style="stroke:none;fill:none" width="60.0" x="118.0" y="102.0"/>
+		<text id="4_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="118.0" y="102.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="4_line1" stroke="#000000" text-align="center" text-anchor="middle" x="148.0" y="117.5">Extraction</tspan>
+		</text>
+		<rect height="309.0" id="5" style="" width="232.0" x="274.0" y="81.0"/>
+		<rect height="17.0" id="6" style="stroke:none;fill:none" width="111.0" x="334.5" y="102.0"/>
+		<text id="6_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="334.5" y="102.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="6_line1" stroke="#000000" text-align="center" text-anchor="middle" x="390.0" y="117.5">Base de données</tspan>
+		</text>
+		<rect height="53.0" id="7" rx="5.74409901134" ry="26.5" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="128.0" x="326.0" y="134.0"/>
+		<text id="7_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:14px" x="326.0" y="134.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="7_line1" stroke="#000000" text-align="center" text-anchor="middle" x="390.0" y="167.5">Version 3</tspan>
+		</text>
+		<rect height="53.0" id="8" rx="5.74409901134" ry="26.5" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="128.0" x="326.0" y="216.0"/>
+		<text id="8_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:14px" x="326.0" y="216.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="8_line1" stroke="#000000" text-align="center" text-anchor="middle" x="390.0" y="249.5">Version 2</tspan>
+		</text>
+		<rect height="53.0" id="9" rx="5.74409901134" ry="26.5" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="128.0" x="326.0" y="298.0"/>
+		<text id="9_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:14px" x="326.0" y="298.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="9_line1" stroke="#000000" text-align="center" text-anchor="middle" x="390.0" y="331.5">Version 1</tspan>
+		</text>
+		<path d="M 324.5,160.5 L 213.5,160.5" id="10" style="marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
+		<path d="M 390.0,188.5 L 390.0,214.5" id="11" style="marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
+		<path d="M 390.0,270.5 L 390.0,296.5" id="12" style="marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
+		<rect height="22.0" id="13" style="stroke:none;fill:none" width="138.0" x="205.0" y="32.0"/>
+		<text id="13_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica-Bold;font-size:18px" x="205.0" y="32.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="18.0px" font-weight="bold" id="13_line1" stroke="#000000" text-align="center" text-anchor="middle" x="274.0" y="52.0">Ordinateur local</tspan>
+		</text>
+	</g>
+</svg>

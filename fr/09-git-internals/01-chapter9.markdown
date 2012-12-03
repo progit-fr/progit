@@ -168,7 +168,7 @@ Figure 9-1. Une version simple du modèle de données Git.
 Vous pouvez créer votre propre arbre.
 Git crée habituellement un arbre à partir de l'état de la zone d'attente ou de l'index.
 Pour créer un objet arbre, vous devez donc d'abord mettre en place un index en mettant quelques fichiers en attente.
-Pour créer un index contenant une entrée, la première version de votre fichier text.txt par exemple, utilisons la commande de plomberie `update-index`.
+Pour créer un index contenant une entrée, la première version de votre fichier test.txt par exemple, utilisons la commande de plomberie `update-index`.
 Vous pouvez utiliser cette commande pour ajouter artificiellement une version plus ancienne à une nouvelle zone d'attente.
 Vous devez utiliser les options `--add` car le fichier n'existe pas encore dans votre zone d'attente (vous n'avez même pas encore mis en place une zone d'attente) et `--cacheinfo` car le fichier que vous ajoutez n'est pas dans votre répertoire, mais dans la base de données.
 Vous pouvez ensuite préciser le mode, SHA-1 et le nom de fichier :
@@ -544,7 +544,7 @@ Ajoutons de plus gros contenu au dépôt pour montrer une fonctionnalité intér
 Ajoutez le fichier repo.rb de la bibliothèque Grit que vous avez manipulé plus tôt.
 Il représente environ 12Ko de code source :
 
-	$ curl http://github.com/mojombo/grit/raw/master/lib/grit/repo.rb > repo.rb
+	$ curl https://raw.github.com/mojombo/grit/master/lib/grit/repo.rb > repo.rb
 	$ git add repo.rb
 	$ git commit -m 'added repo.rb'
 	[master 484a592] added repo.rb
@@ -561,10 +561,10 @@ contenant le fichier repo.rb :
 	100644 blob 9bc1dc421dcd51b4ac296e3e5b6e2a99cf44391e      repo.rb
 	100644 blob e3f094f522629ae358806b17daf78246c27c007b      test.txt
 
-Vous pouvez utilisez `git cat-file` pour connaître la taille de l'objet :
+Vous pouvez vérifier la taille de l'objet sur disque :
 
-	$ git cat-file -s 9bc1dc421dcd51b4ac296e3e5b6e2a99cf44391e
-	12898
+	$ du -b .git/objects/9b/c1dc421dcd51b4ac296e3e5b6e2a99cf44391e
+	4102	.git/objects/9b/c1dc421dcd51b4ac296e3e5b6e2a99cf44391e
 
 Maintenant, modifiez le fichier un peu et voyez ce qui arrive :
 
@@ -583,10 +583,10 @@ Regardez l'arbre créé par ce *commit* et vous verrez quelque chose d'intéress
 Ce blob est un blob différent.
 Bien que l'on ait ajouté une seule ligne à la fin d'un fichier en faisant 400, Git enregistre ce nouveau contenu dans un objet totalement différent :
 
-	$ git cat-file -s 05408d195263d853f09dca71d55116663690c27c
-	12908
+	$ du -b .git/objects/05/408d195263d853f09dca71d55116663690c27c
+	4109	.git/objects/05/408d195263d853f09dca71d55116663690c27c
 
-Il y a donc deux objets de 12Ko quasiment identiques sur le disque.
+Il y a donc deux objets de 4Ko quasiment identiques sur le disque.
 Ne serait-ce pas bien si Git pouvait enregistrer qu'un objet en entier, le deuxième n'étant qu'un delta (une différence) avec le premier ?
 
 Il se trouve que c'est possible.
@@ -637,9 +637,9 @@ La commande de plomberie `git verify-pack` vous permet de voir ce qui a été co
 	484a59275031909e19aadb7c92262719cfcdf19a commit 226 153 169
 	83baae61804e65cc73a7201a7252750c76066a30 blob   10 19 5362
 	9585191f37f7b0fb9444f35a9bf50de191beadc2 tag    136 127 5476
-	9bc1dc421dcd51b4ac296e3e5b6e2a99cf44391e blob   7 18 5193 1
-	05408d195263d853f09dca71d55116663690c27c \
-	  ab1afef80fac8e34258ff41fc1b867c702daa24b commit 232 157 12
+	9bc1dc421dcd51b4ac296e3e5b6e2a99cf44391e blob   7 18 5193 1 \
+	  05408d195263d853f09dca71d55116663690c27c
+	ab1afef80fac8e34258ff41fc1b867c702daa24b commit 232 157 12
 	cac0cab538b970a37ea1e769cbbde608743bc96d commit 226 154 473
 	d8329fc1cc938780ffdd9f94e0d364e0ea74f579 tree   36 46 5316
 	e3f094f522629ae358806b17daf78246c27c007b blob   1486 734 4352

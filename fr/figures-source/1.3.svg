@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<marker id="Arrow1Lend" orient="auto" refX="0.0" refY="0.0" style="overflow:visible;">
+			
+              
+			<path d="M -10,0.0 L -10.0,-2.0 L 0.0,0.0 L -10.0,2.0 z " id="path3666" style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0px;marker-start:none;"/>
+			
+            
+		</marker>
+		<marker id="Arrow1Lstart" orient="auto" refX="0.0" refY="0.0" style="overflow:visible">
+			
+              
+			<path d="M 10,0.0 L 10.0,-2.0 L 0.0,0.0 L 10.0,2.0 z" id="path3663" style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0px;marker-start:none"/>
+			
+            
+		</marker>
+	</defs>
+	<g style="stroke:#000000;fill:#fff">
+		<rect height="254.368" id="14" style="fill:#dcdcdc" width="204.04" x="185.98" y="34.2631"/>
+		<rect height="194.481" id="5" style="" width="178.295" x="198.853" y="82.6315"/>
+		<rect height="13.0647" id="6" style="stroke:none;fill:none" width="85.3047" x="245.348" y="95.5979"/>
+		<text id="6_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="245.348" y="95.5979">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="6_line1" stroke="#000000" text-align="center" text-anchor="middle" x="288.00035" y="109.13025">Base de données</tspan>
+		</text>
+		<rect height="40.7311" id="7" rx="4.41440753627" ry="20.36555" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="98.3694" x="238.815" y="119.596"/>
+		<text id="7_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:14px" x="238.815" y="119.596">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="7_line1" stroke="#000000" text-align="center" text-anchor="middle" x="287.9997" y="146.96155">Version 3</tspan>
+		</text>
+		<rect height="40.7311" id="8" rx="4.41440753627" ry="20.36555" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="98.3694" x="238.815" y="171.26"/>
+		<text id="8_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:14px" x="238.815" y="171.26">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="8_line1" stroke="#000000" text-align="center" text-anchor="middle" x="287.9997" y="198.62555">Version 2</tspan>
+		</text>
+		<rect height="40.7311" id="9" rx="4.41440753627" ry="20.36555" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="98.3694" x="238.815" y="222.924"/>
+		<text id="9_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:14px" x="238.815" y="222.924">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="9_line1" stroke="#000000" text-align="center" text-anchor="middle" x="287.9997" y="250.28955">Version 1</tspan>
+		</text>
+		<path d="M 288.0,161.827 L 288.0,169.76" id="11" style="marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
+		<path d="M 288.0,213.491 L 288.0,221.424" id="12" style="marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
+		<rect height="16.9072" id="13" style="stroke:none;fill:none" width="112.971" x="231.514" y="47.6315"/>
+		<text id="13_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica-Bold;font-size:18px" x="231.514" y="47.6315">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="18.0px" font-weight="bold" id="13_line1" stroke="#000000" text-align="center" text-anchor="middle" x="287.9995" y="65.0851">Ordinateur serveur</tspan>
+		</text>
+		<rect height="296.127" id="17" style="fill:#dcdcdc" width="204.04" x="17.98" y="348.0"/>
+		<rect height="40.7311" id="18" rx="4.41440753627" ry="20.36555" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#c6d8ff" width="98.3694" x="70.8152" y="388.685"/>
+		<text id="18_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:14px" x="70.8152" y="388.685">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="18_line1" stroke="#000000" text-align="center" text-anchor="middle" x="119.9999" y="416.05055">Fichier</tspan>
+		</text>
+		<path d="M 223.921,289.078 L 194.562,347.553" id="20" style="marker-start:url(#Arrow1Lstart);stroke:#000000;stroke-width:3.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
+		<rect height="16.9072" id="21" style="stroke:none;fill:none" width="79.1567" x="77.3475" y="360.0"/>
+		<text id="21_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica-Bold;font-size:18px" x="77.3475" y="360.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="18.0px" font-weight="bold" id="21_line1" stroke="#000000" text-align="center" text-anchor="middle" x="116.92585" y="377.4536">Ordinateur A</tspan>
+		</text>
+		<rect height="189.0" id="22" style="" width="178.295" x="30.8526" y="446.0"/>
+		<rect height="13.0647" id="23" style="stroke:none;fill:none" width="85.3047" x="77.3475" y="454.5"/>
+		<text id="23_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="77.3475" y="454.5">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="23_line1" stroke="#000000" text-align="center" text-anchor="middle" x="119.99985" y="468.03235">Base de données</tspan>
+		</text>
+		<rect height="40.7311" id="24" rx="4.41440753627" ry="20.36555" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="98.3694" x="70.8152" y="478.147"/>
+		<text id="24_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:14px" x="70.8152" y="478.147">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="24_line1" stroke="#000000" text-align="center" text-anchor="middle" x="119.9999" y="505.51255">Version 3</tspan>
+		</text>
+		<rect height="40.7311" id="25" rx="4.41440753627" ry="20.36555" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="98.3694" x="70.8152" y="530.406"/>
+		<text id="25_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:14px" x="70.8152" y="530.406">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="25_line1" stroke="#000000" text-align="center" text-anchor="middle" x="119.9999" y="557.77155">Version 2</tspan>
+		</text>
+		<rect height="40.7311" id="26" rx="4.41440753627" ry="20.36555" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="98.3694" x="70.8152" y="582.665"/>
+		<text id="26_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:14px" x="70.8152" y="582.665">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="26_line1" stroke="#000000" text-align="center" text-anchor="middle" x="119.9999" y="610.03055">Version 1</tspan>
+		</text>
+		<rect height="296.127" id="27" style="fill:#dcdcdc" width="204.04" x="353.98" y="348.0"/>
+		<rect height="40.7311" id="28" rx="4.41440753627" ry="20.36555" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#c6d8ff" width="98.3694" x="406.815" y="388.685"/>
+		<text id="28_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:14px" x="406.815" y="388.685">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="28_line1" stroke="#000000" text-align="center" text-anchor="middle" x="455.9997" y="416.05055">Fichier</tspan>
+		</text>
+		<rect height="16.9072" id="29" style="stroke:none;fill:none" width="79.1567" x="413.348" y="360.0"/>
+		<text id="29_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica-Bold;font-size:18px" x="413.348" y="360.0">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="18.0px" font-weight="bold" id="29_line1" stroke="#000000" text-align="center" text-anchor="middle" x="452.92635" y="377.4536">Ordinateur B</tspan>
+		</text>
+		<rect height="189.0" id="30" style="" width="178.295" x="366.853" y="446.0"/>
+		<rect height="13.0647" id="31" style="stroke:none;fill:none" width="85.3047" x="413.348" y="454.5"/>
+		<text id="31_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="413.348" y="454.5">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="31_line1" stroke="#000000" text-align="center" text-anchor="middle" x="456.00035" y="468.03235">Base de données</tspan>
+		</text>
+		<rect height="40.7311" id="32" rx="4.41440753627" ry="20.36555" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="98.3694" x="406.815" y="478.147"/>
+		<text id="32_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:14px" x="406.815" y="478.147">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="32_line1" stroke="#000000" text-align="center" text-anchor="middle" x="455.9997" y="505.51255">Version 3</tspan>
+		</text>
+		<rect height="40.7311" id="33" rx="4.41440753627" ry="20.36555" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="98.3694" x="406.815" y="530.405"/>
+		<text id="33_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:14px" x="406.815" y="530.405">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="33_line1" stroke="#000000" text-align="center" text-anchor="middle" x="455.9997" y="557.77055">Version 2</tspan>
+		</text>
+		<rect height="40.7311" id="34" rx="4.41440753627" ry="20.36555" style="stroke:#3c3c3c;stroke-width:3.000000px;fill:#adffbe" width="98.3694" x="406.815" y="582.664"/>
+		<text id="34_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:14px" x="406.815" y="582.664">
+			<tspan fill="#000000" font-family="Helvetica;,Sans-serif" font-size="14.0px" id="34_line1" stroke="#000000" text-align="center" text-anchor="middle" x="455.9997" y="610.02955">Version 1</tspan>
+		</text>
+		<path d="M 352.079,289.078 L 381.438,347.553" id="35" style="marker-start:url(#Arrow1Lstart);stroke:#000000;stroke-width:3.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
+		<path d="M 353.48,496.064 L 222.52,496.064" id="36" style="marker-start:url(#Arrow1Lstart);stroke:#000000;stroke-width:3.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
+		<path d="M 120.0,520.378 L 120.0,528.906" id="38" style="marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
+		<path d="M 120.0,572.637 L 120.0,581.165" id="40" style="marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
+		<path d="M 456.0,520.378 L 456.0,528.905" id="41" style="marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
+		<path d="M 456.0,572.636 L 456.0,581.164" id="42" style="marker-start:none;stroke:#000000;marker-end:none;fill:none"/>
+		<path d="M 120.0,430.916 L 120.0,445.5" id="43" style="marker-start:url(#Arrow1Lstart);stroke:#000000;marker-end:none;fill:none"/>
+		<path d="M 456.0,430.916 L 456.0,445.5" id="44" style="marker-start:url(#Arrow1Lstart);stroke:#000000;marker-end:none;fill:none"/>
+	</g>
+</svg>

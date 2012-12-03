@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" id="svg2">
+  <defs id="defs4">
+    <marker refX="0" refY="0" orient="auto" id="Arrow1Lstart" style="overflow:visible">
+      <path d="M 10,0 10,-2 0,0 10,2 z" id="path3663" style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;marker-start:none"/>
+    </marker>
+  </defs>
+  <g id="g2908">
+    <rect width="106.079" height="57.469601" rx="8.4581156" ry="28.7348" x="287" y="3" id="1957" style="fill:#d3f5d6;stroke:#616161;stroke-width:3px"/>
+    <text x="287" y="3" id="1957_text" style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
+      <tspan x="340.03949" y="31.7348" id="1957_line1" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">public</tspan>
+      <tspan x="340.03949" y="43.734798" id="1957_line2" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">développeur</tspan>
+    </text>
+    <rect width="106.079" height="57.469601" rx="8.4581156" ry="28.7348" x="164" y="3" id="1972" style="fill:#d3f5d6;stroke:#616161;stroke-width:3px"/>
+    <text x="164" y="3" id="1972_text" style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
+      <tspan x="217.03951" y="31.7348" id="1972_line1" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">public</tspan>
+      <tspan x="217.03951" y="43.734798" id="1972_line2" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">développeur</tspan>
+    </text>
+    <rect width="106.079" height="57.469601" rx="8.4581156" ry="28.7348" x="18.874001" y="150" id="1973" style="fill:#ffada5;stroke:#616161;stroke-width:3px"/>
+    <text x="18.8242" y="144" id="1973_text" style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
+      <tspan x="71.863693" y="178.7348" id="1973_line1" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">gestionnaire</tspan>
+      <tspan x="71.374435" y="190.7348" id="tspan2906" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">d'intégration</tspan>
+    </text>
+    <rect width="106.079" height="57.469601" rx="8.4581156" ry="28.7348" x="410.00101" y="3" id="1974" style="fill:#d3f5d6;stroke:#616161;stroke-width:3px"/>
+    <text x="410.00101" y="3" id="1974_text" style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
+      <tspan x="463.0405" y="31.7348" id="1974_line1" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">public</tspan>
+      <tspan x="463.0405" y="43.734798" id="1974_line2" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">développeur</tspan>
+    </text>
+    <rect width="138.33099" height="81" rx="13.097538" ry="40.5" x="2.7479999" y="3" id="1987" style="fill:#8ab5eb;stroke:#616161;stroke-width:3px"/>
+    <text x="2.7479999" y="3" id="1987_text" style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
+      <tspan x="71.913498" y="43.5" id="1987_line1" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">dépôt</tspan>
+      <tspan x="71.913498" y="55.5" id="1987_line2" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">référence</tspan>
+    </text>
+    <path d="m 71.9135,85.5 0,63" id="1990" style="fill:none;stroke:#000000;stroke-width:2px;marker-start:url(#Arrow1Lstart);marker-end:none"/>
+    <rect width="106.079" height="57.469601" rx="8.4581156" ry="28.7348" x="287" y="150" id="1991" style="fill:#8ab891;stroke:#616161;stroke-width:3px"/>
+    <text x="287" y="150" id="1991_text" style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
+      <tspan x="340.03949" y="178.7348" id="1991_line1" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">privé</tspan>
+      <tspan x="340.03949" y="190.7348" id="1991_line2" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">développeur</tspan>
+    </text>
+    <rect width="106.079" height="57.469601" rx="8.4581156" ry="28.7348" x="164" y="150" id="1993" style="fill:#8ab891;stroke:#616161;stroke-width:3px"/>
+    <text x="164" y="150" id="1993_text" style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
+      <tspan x="217.03951" y="178.7348" id="1993_line1" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">privé</tspan>
+      <tspan x="217.03951" y="190.7348" id="1993_line2" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">développeur</tspan>
+    </text>
+    <rect width="106.079" height="57.469601" rx="8.4581156" ry="28.7348" x="410.00101" y="150" id="1994" style="fill:#8ab891;stroke:#616161;stroke-width:3px"/>
+    <text x="410.00101" y="150" id="1994_text" style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
+      <tspan x="463.0405" y="178.7348" id="1994_line1" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">privé</tspan>
+      <tspan x="463.0405" y="190.7348" id="1994_line2" style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">développeur</tspan>
+    </text>
+    <path d="M 121.193,156.999 340.039,60.4696" id="1998" style="fill:none;stroke:#808080;marker-start:url(#Arrow1Lstart);marker-end:none"/>
+    <path d="M 108.337,149.052 217.04,60.4696" id="1999" style="fill:none;stroke:#808080;marker-start:url(#Arrow1Lstart);marker-end:none"/>
+    <path d="M 123.946,163.002 463.04,60.4696" id="2000" style="fill:none;stroke:#808080;marker-start:url(#Arrow1Lstart);marker-end:none"/>
+    <path d="m 217.04,60.4696 0,88.0304" id="2002" style="fill:none;stroke:#000000;stroke-width:2px;marker-start:url(#Arrow1Lstart);marker-end:none"/>
+    <path d="m 340.039,60.4696 0,88.0304" id="2003" style="fill:none;stroke:#000000;stroke-width:2px;marker-start:url(#Arrow1Lstart);marker-end:none"/>
+    <path d="m 463.04,60.4696 0,88.0304" id="2004" style="fill:none;stroke:#000000;stroke-width:2px;marker-start:url(#Arrow1Lstart);marker-end:none"/>
+    <path d="M 185.106,148.977 116.473,85.0226" id="2006" style="fill:none;stroke:#808080;marker-start:url(#Arrow1Lstart);marker-end:none"/>
+    <path d="M 292.33,154.671 134.946,75.2918" id="2007" style="fill:none;stroke:#808080;marker-start:url(#Arrow1Lstart);marker-end:none"/>
+    <path d="M 411.766,161.006 138.936,66.6735" id="2008" style="fill:none;stroke:#808080;marker-start:url(#Arrow1Lstart);marker-end:none"/>
+    <path d="M 432.074,148.96 340.039,60.4696" id="2009" style="fill:none;stroke:#808080;stroke-dasharray:5, 5;marker-start:url(#Arrow1Lstart);marker-end:none"/>
+  </g>
+</svg>

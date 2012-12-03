@@ -27,7 +27,7 @@ If you make some changes and commit again, the next commit stores a pointer to t
 Insert 18333fig0302.png 
 Figure 3-2. Git object data for multiple commits.
 
-A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master. As you initially make commits, you’re given a master branch that points to the last commit you made. Every time you commit, it moves forward automatically.
+A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master. As you initially make commits, you’re given a `master` branch that points to the last commit you made. Every time you commit, it moves forward automatically.
 
 Insert 18333fig0303.png 
 Figure 3-3. Branch pointing into the commit data’s history.
@@ -65,7 +65,7 @@ Figure 3-7 illustrates the result.
 Insert 18333fig0307.png 
 Figure 3-7. The branch that HEAD points to moves forward with each commit.
 
-This is interesting, because now your testing branch has moved forward, but your master branch still points to the commit you were on when you ran `git checkout` to switch branches. Let’s switch back to the master branch:
+This is interesting, because now your testing branch has moved forward, but your `master` branch still points to the commit you were on when you ran `git checkout` to switch branches. Let’s switch back to the `master` branch:
 
 	$ git checkout master
 
@@ -74,7 +74,7 @@ Figure 3-8 shows the result.
 Insert 18333fig0308.png 
 Figure 3-8. HEAD moves to another branch on a checkout.
 
-That command did two things. It moved the HEAD pointer back to point to the master branch, and it reverted the files in your working directory back to the snapshot that master points to. This also means the changes you make from this point forward will diverge from an older version of the project. It essentially rewinds the work you’ve done in your testing branch temporarily so you can go in a different direction.
+That command did two things. It moved the HEAD pointer back to point to the `master` branch, and it reverted the files in your working directory back to the snapshot that `master` points to. This also means the changes you make from this point forward will diverge from an older version of the project. It essentially rewinds the work you’ve done in your testing branch temporarily so you can go in a different direction.
 
 Let’s make a few changes and commit again:
 
@@ -403,7 +403,7 @@ To demonstrate having multiple remote servers and what remote branches for those
 Insert 18333fig0325.png 
 Figure 3-25. Adding another server as a remote.
 
-Now, you can run `git fetch teamone` to fetch everything the remote `teamone` server has that you don’t have yet. Because that server is a subset of the data your `origin` server has right now, Git fetches no data but sets a remote branch called `teamone/master` to point to the commit that `teamone` has as its `master` branch (see Figure 3-26).
+Now, you can run `git fetch teamone` to fetch everything the remote `teamone` server has that you don’t have yet. Because that server has a subset of the data your `origin` server has right now, Git fetches no data but sets a remote branch called `teamone/master` to point to the commit that `teamone` has as its `master` branch (see Figure 3-26).
 
 Insert 18333fig0326.png 
 Figure 3-26. You get a reference to teamone’s master branch position locally.
